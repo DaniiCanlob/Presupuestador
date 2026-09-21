@@ -17,8 +17,9 @@
     "noFallthroughCasesInSwitch": true,
     "exactOptionalPropertyTypes": false,
     "forceConsistentCasingInFileNames": true,
-    "baseUrl": ".",
-    "paths": { "@/*": ["./src/*"] },
+    "paths": {
+      "@/*": ["./src/*"]
+    },
     "types": ["node", "vite/client"]
   },
   "include": ["src", "supabase/scripts", "vite.config.ts"]
