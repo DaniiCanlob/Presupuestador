@@ -1,8 +1,10 @@
 {
   "compilerOptions": {
-    "target": "ES2020",
+    // Igual que el target de Vite (es2022): si aquí fuera menor, TS marcaría
+    // como inexistentes métodos que el bundle sí emite, como Array.prototype.at.
+    "target": "ES2022",
     "useDefineForClassFields": true,
-    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
     "module": "ESNext",
     "skipLibCheck": true,
     "moduleResolution": "bundler",

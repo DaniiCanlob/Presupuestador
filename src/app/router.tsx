@@ -6,6 +6,7 @@ import { AuthLayout } from '@/app/layouts/AuthLayout';
 import { AppLayout } from '@/app/layouts/AppLayout';
 import { ProyectoLayout } from '@/app/layouts/ProyectoLayout';
 import { Cargando } from '@/common/ui/Estados';
+import { Telemetria } from '@/app/Telemetria';
 import { RUTAS } from '@/common/constants/rutas';
 
 /** Cada pagina se carga bajo demanda: el bundle inicial queda pequeño. */
@@ -22,6 +23,7 @@ function Raiz() {
   return (
     <SesionProvider>
       <Outlet />
+      <Telemetria />
     </SesionProvider>
   );
 }

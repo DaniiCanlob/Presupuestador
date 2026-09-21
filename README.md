@@ -129,6 +129,25 @@ En Supabase, *Authentication → URL Configuration*: pon la URL de producción c
 **Site URL** y agrégala en **Redirect URLs**. Si no, los correos de confirmación
 y de recuperación de contraseña devuelven al usuario a `localhost`.
 
+### Métricas (Analytics y Speed Insights)
+
+`src/app/Telemetria.tsx` monta los dos widgets de Vercel. Hay que **habilitarlos
+en el panel** (pestañas *Analytics* y *Speed Insights* del proyecto); mientras no
+lo estén, el script responde 404 y no se guarda nada. En local tampoco envían:
+registran en consola.
+
+Las URLs de la app llevan el id del proyecto, así que antes de reportar se
+cambia cada valor por el nombre del parámetro:
+
+| URL real                                | Lo que se reporta                     |
+| --------------------------------------- | ------------------------------------- |
+| `/proyectos/8f3a…/presupuesto`          | `/proyectos/[proyectoId]/presupuesto` |
+| `/catalogo/actividades/7d2b…`           | `/catalogo/actividades/[actividadId]` |
+| cualquier URL inventada                 | `/404`                                |
+
+Sin eso el panel mostraría una fila distinta por cada proyecto, y los
+identificadores saldrían de la app sin ninguna necesidad.
+
 ---
 
 ## 2. Del Excel a la app
@@ -167,7 +186,8 @@ y de recuperación de contraseña devuelven al usuario a `localhost`.
 
 ```
 src/
-├── app/                    App, router y layouts (público, privado, proyecto)
+├── app/                    App, router, layouts (público, privado, proyecto),
+│                           404 y telemetría
 ├── common/
 │   ├── constants/          rutas, claves de caché, catálogos, mensajes, formatos
 │   ├── types/              tipos de base de datos, API, catálogo, proyecto, reportes
