@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Ruler, Trash2 } from 'lucide-react';
+import { Link2, Ruler, Trash2 } from 'lucide-react';
 import { Td, Fila } from '@/common/ui/Tabla';
 import { moneda, numero } from '@/common/lib/formato';
 import { RUTAS } from '@/common/constants/rutas';
@@ -11,6 +11,7 @@ interface FilaPresupuestoProps {
   item: PresupuestoItem;
   proyectoId: string;
   onCambiar: (cambios: Partial<PresupuestoItem>) => void;
+  onVincularMemoria: () => void;
   onEliminar: () => void;
 }
 
@@ -19,6 +20,7 @@ export function FilaPresupuesto({
   item,
   proyectoId,
   onCambiar,
+  onVincularMemoria,
   onEliminar,
 }: FilaPresupuestoProps) {
   const [cantidad, setCantidad] = useState(String(item.cantidad));
@@ -61,8 +63,20 @@ export function FilaPresupuesto({
           onKeyDown={(e) => e.key === 'Enter' && e.currentTarget.blur()}
           aria-label={`Cantidad de ${item.descripcion}`}
         />
-        {item.cantidad_desde_memoria && (
-          <span className="mt-0.5 block text-right text-[10px] text-muted-foreground/80">desde memoria</span>
+        {item.cantidad_desde_memoria ? (
+          <span className="mt-0.5 block text-right text-[10px] text-muted-foreground">
+            desde memoria
+          </span>
+        ) : (
+          <button
+            type="button"
+            onClick={onVincularMemoria}
+            title="Volver a calcular la cantidad desde la memoria"
+            className="mt-0.5 flex w-full items-center justify-end gap-1 text-[10px] text-muted-foreground transition-colors hover:text-marca"
+          >
+            <Link2 className="h-2.5 w-2.5" aria-hidden />
+            a mano
+          </button>
         )}
       </Td>
       <Td className="w-36">

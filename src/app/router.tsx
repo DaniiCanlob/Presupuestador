@@ -117,7 +117,7 @@ export const router = createBrowserRouter([
           },
         ],
       },
-      { path: '*', element: <Navigate to={RUTAS.proyectos} replace /> },
+      { path: '*', element: perezosa(() => import('@/app/NoEncontrada')) },
     ],
   },
 ]);

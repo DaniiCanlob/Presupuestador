@@ -2,6 +2,7 @@ import { useForm } from 'react-hook-form';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { Boton } from '@/common/ui/Boton';
 import { Campo, Entrada } from '@/common/ui/campos';
+import { Titulo } from '@/common/ui/Titulo';
 import { useCambiarClave } from '@/features/auth/hooks/useAuth';
 import { esquemaNuevaClave, type FormularioNuevaClave } from '@/features/auth/schemas';
 
@@ -15,6 +16,8 @@ export default function NuevaClavePage() {
 
   return (
     <>
+      <Titulo>Nueva contraseña</Titulo>
+
       <h1 className="text-xl font-semibold text-foreground">Nueva contraseña</h1>
       <p className="mt-1 text-sm text-muted-foreground">Escribe la contraseña con la que vas a entrar.</p>
 

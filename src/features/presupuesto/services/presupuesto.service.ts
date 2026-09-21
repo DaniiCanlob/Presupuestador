@@ -70,6 +70,28 @@ export const presupuestoService = {
     if (error) throw traducirError(error);
   },
 
+  /**
+   * Vuelve a atar la cantidad a la memoria. El trigger de la base solo recalcula
+   * cuando cambia la memoria, así que aquí se hace la suma de una vez para que
+   * el usuario vea el número correcto al instante.
+   */
+  async vincularMemoria(id: string): Promise<PresupuestoItem> {
+    const respuestaMemoria = await supabase
+      .from('memoria_items')
+      .select('subtotal')
+      .eq('presupuesto_item_id', id);
+    const filas = desempacar(respuestaMemoria);
+    const cantidad = filas.reduce((suma, f) => suma + Number(f.subtotal), 0);
+
+    const respuesta = await supabase
+      .from('presupuesto_items')
+      .update({ cantidad: Math.round(cantidad * 10000) / 10000, cantidad_desde_memoria: true })
+      .eq('id', id)
+      .select()
+      .single();
+    return desempacar(respuesta);
+  },
+
   async reordenar(items: { id: string; orden: number }[]): Promise<void> {
     await Promise.all(
       items.map(({ id, orden }) =>

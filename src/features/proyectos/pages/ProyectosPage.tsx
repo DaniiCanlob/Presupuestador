@@ -14,6 +14,7 @@ import { Selector } from '@/common/ui/campos';
 import { ESTADOS_PROYECTO } from '@/common/constants/proyecto';
 import { MENSAJES } from '@/common/constants/mensajes';
 import { RUTAS } from '@/common/constants/rutas';
+import { Titulo } from '@/common/ui/Titulo';
 import { fecha } from '@/common/lib/formato';
 import type { EstadoProyecto } from '@/common/types/database.types';
 import type { FiltrosProyectos } from '@/common/types/proyecto';
@@ -29,6 +30,8 @@ export default function ProyectosPage() {
 
   return (
     <div className="space-y-4">
+      <Titulo descripcion="Presupuestos de obra creados con tu cuenta.">Proyectos</Titulo>
+
       <header className="flex flex-wrap items-center justify-between gap-3">
         <div>
           <h1 className="text-lg font-semibold text-foreground">Proyectos</h1>

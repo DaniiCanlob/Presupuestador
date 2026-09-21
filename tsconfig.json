@@ -17,9 +17,8 @@
     "noFallthroughCasesInSwitch": true,
     "exactOptionalPropertyTypes": false,
     "forceConsistentCasingInFileNames": true,
-    "paths": {
-      "@/*": ["./src/*"]
-    },
+    // TypeScript 7 eliminó baseUrl: las rutas se resuelven contra este archivo.
+    "paths": { "@/*": ["./src/*"] },
     "types": ["node", "vite/client"]
   },
   "include": ["src", "supabase/scripts", "vite.config.ts"]

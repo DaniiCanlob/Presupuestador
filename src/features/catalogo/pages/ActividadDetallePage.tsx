@@ -1,10 +1,11 @@
 import { useState } from 'react';
-import { Link, useParams } from 'react-router-dom';
-import { ArrowLeft, Copy } from 'lucide-react';
+import { Link, useNavigate, useParams } from 'react-router-dom';
+import { ArrowLeft, Copy, Trash2 } from 'lucide-react';
 import {
   useActividad,
   useApu,
   useClonarActividad,
+  useEliminarActividad,
   useEspecificacion,
   useGuardarApu,
 } from '@/features/catalogo/hooks/useCatalogo';
@@ -21,6 +22,7 @@ import { RUTAS } from '@/common/constants/rutas';
 
 export default function ActividadDetallePage() {
   const { actividadId = '' } = useParams();
+  const navegar = useNavigate();
   const [editando, setEditando] = useState(false);
 
   const actividad = useActividad(actividadId);
@@ -28,6 +30,7 @@ export default function ActividadDetallePage() {
   const especificacion = useEspecificacion(actividadId);
   const guardarApu = useGuardarApu(actividadId);
   const clonar = useClonarActividad();
+  const eliminar = useEliminarActividad();
 
   if (actividad.isLoading) return <Cargando />;
   if (actividad.error || !actividad.data) return <ErrorCarga error={actividad.error} />;
@@ -59,9 +62,24 @@ export default function ActividadDetallePage() {
           </div>
           <div className="flex gap-2">
             {esPropia ? (
-              <Boton variante="secundario" onClick={() => setEditando((v) => !v)}>
-                {editando ? 'Ver APU' : 'Editar APU'}
-              </Boton>
+              <>
+                <Boton variante="secundario" onClick={() => setEditando((v) => !v)}>
+                  {editando ? 'Ver APU' : 'Editar APU'}
+                </Boton>
+                <Boton
+                  variante="fantasma"
+                  aria-label="Eliminar actividad"
+                  icono={<Trash2 className="h-4 w-4 text-destructive" />}
+                  cargando={eliminar.isPending}
+                  onClick={() => {
+                    if (window.confirm(`¿Eliminar "${a.descripcion}" de tu catálogo?`)) {
+                      eliminar.mutate(a.id, {
+                        onSuccess: () => navegar(RUTAS.catalogoActividades),
+                      });
+                    }
+                  }}
+                />
+              </>
             ) : (
               <Boton
                 variante="secundario"

@@ -8,6 +8,7 @@ import { Boton } from '@/common/ui/Boton';
 import { Campo, Entrada, Selector } from '@/common/ui/campos';
 import { Cargando } from '@/common/ui/Estados';
 import { iniciales } from '@/common/lib/texto';
+import { Titulo } from '@/common/ui/Titulo';
 import type { EntradaPerfil } from '@/common/types/auth';
 
 const MONEDAS = ['COP', 'USD', 'MXN', 'PEN', 'CLP', 'EUR'];
@@ -35,6 +36,8 @@ export default function PerfilPage() {
 
   return (
     <div className="mx-auto max-w-2xl space-y-4">
+      <Titulo>Mi perfil</Titulo>
+
       <h1 className="text-lg font-semibold text-foreground">Mi perfil</h1>
 
       <Tarjeta titulo="Empresa" descripcion="Estos datos encabezan los reportes que exportas.">

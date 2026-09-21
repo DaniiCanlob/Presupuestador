@@ -14,6 +14,7 @@ import { Cuerpo, Encabezado, Fila, Tabla, Td, Th } from '@/common/ui/Tabla';
 import { Cargando, ErrorCarga, EstadoVacio } from '@/common/ui/Estados';
 import { moneda } from '@/common/lib/formato';
 import { RUTAS } from '@/common/constants/rutas';
+import { Titulo } from '@/common/ui/Titulo';
 import { MENSAJES } from '@/common/constants/mensajes';
 import type { FiltrosActividades } from '@/common/types/catalogo';
 
@@ -28,6 +29,8 @@ export default function ActividadesPage() {
 
   return (
     <div className="space-y-4">
+      <Titulo descripcion="Catálogo de actividades de obra con su análisis de precios unitarios.">Catálogo de actividades</Titulo>
+
       <header className="flex flex-wrap items-center justify-between gap-3">
         <div>
           <h1 className="text-lg font-semibold text-foreground">Catálogo de actividades</h1>

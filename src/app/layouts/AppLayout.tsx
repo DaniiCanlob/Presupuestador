@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, type ReactNode } from 'react';
 import { Link, NavLink, Outlet } from 'react-router-dom';
 import { Boxes, FolderKanban, HardHat, LogOut, Menu, User, X } from 'lucide-react';
 import { useSesion } from '@/features/auth/context/SesionProvider';
@@ -14,7 +14,8 @@ const ENLACES = [
   { a: RUTAS.catalogoInsumos, etiqueta: 'Insumos', icono: Boxes },
 ];
 
-export function AppLayout() {
+/** `children` permite reutilizar el marco fuera del router (por ejemplo, el 404). */
+export function AppLayout({ children }: { children?: ReactNode }) {
   const { perfil, usuario } = useSesion();
   const salir = useSalir();
   const [menuAbierto, setMenuAbierto] = useState(false);
@@ -112,9 +113,7 @@ export function AppLayout() {
         )}
       </header>
 
-      <main className="mx-auto max-w-[1600px] px-4 py-7">
-        <Outlet />
-      </main>
+      <main className="mx-auto max-w-[1600px] px-4 py-7">{children ?? <Outlet />}</main>
     </div>
   );
 }

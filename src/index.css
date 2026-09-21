@@ -240,8 +240,10 @@
   /* Vidrio: para barras y paneles flotantes, no para tablas densas. */
   .vidrio {
     background: var(--vidrio);
+    /* Sin prefijos a mano: Tailwind los agrega según los navegadores objetivo.
+       Escribir `-webkit-` aquí hacía que el compilador dejara solo esa versión,
+       y Chrome 141 ya no la entiende. */
     backdrop-filter: blur(18px) saturate(140%);
-    -webkit-backdrop-filter: blur(18px) saturate(140%);
     border: 1px solid var(--vidrio-borde);
     box-shadow: var(--sombra-panel);
   }
@@ -249,7 +251,6 @@
   .vidrio-barra {
     background: color-mix(in oklch, var(--background) 72%, transparent);
     backdrop-filter: blur(16px) saturate(150%);
-    -webkit-backdrop-filter: blur(16px) saturate(150%);
   }
 
   /* Panel sólido: la superficie donde se leen números. */

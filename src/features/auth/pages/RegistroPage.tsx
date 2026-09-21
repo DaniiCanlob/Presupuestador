@@ -3,6 +3,7 @@ import { zodResolver } from '@hookform/resolvers/zod';
 import { Link } from 'react-router-dom';
 import { Boton } from '@/common/ui/Boton';
 import { Campo, Entrada } from '@/common/ui/campos';
+import { Titulo } from '@/common/ui/Titulo';
 import { useRegistrar } from '@/features/auth/hooks/useAuth';
 import { esquemaRegistro, type FormularioRegistro } from '@/features/auth/schemas';
 import { RUTAS } from '@/common/constants/rutas';
@@ -17,6 +18,8 @@ export default function RegistroPage() {
 
   return (
     <>
+      <Titulo>Crear cuenta</Titulo>
+
       <h1 className="text-xl font-semibold text-foreground">Crear cuenta</h1>
       <p className="mt-1 text-sm text-muted-foreground">
         Tus proyectos son privados: solo tú los ves y los editas.

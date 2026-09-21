@@ -25,7 +25,7 @@ su APU.
 
 ### Requisitos
 
-- Node 18 o superior
+- Node 20.19+ o 22.12+ (lo exige Vite 8)
 - **pnpm** como gestor de paquetes (fijado en `packageManager`; `corepack enable`
   lo activa con la versión correcta, no hace falta instalarlo aparte)
 - Un proyecto de [Supabase](https://supabase.com) (el plan gratuito alcanza)
@@ -110,6 +110,24 @@ confirmación por correo, el registro pide confirmar antes del primer ingreso.
 | `pnpm gen:types` | regenera `database.types.ts` desde el proyecto enlazado (requiere el CLI) |
 
 No hay linter configurado todavía; el `typecheck` es la red de seguridad.
+
+### Despliegue (Vercel)
+
+`vercel.json` ya trae lo necesario:
+
+- **Reescritura de todas las rutas a `index.html`.** Sin esto, entrar directo a
+  `/proyectos` o a cualquier URL profunda devuelve el 404 de Vercel, porque en
+  el servidor no existe ese archivo: quien enruta es el navegador.
+- Caché eterna para `/assets/*` (llevan hash) y nada de caché para el HTML.
+- Cabeceras de seguridad básicas (`nosniff`, `DENY` en iframes, referrer).
+
+En el panel de Vercel hay que definir **`VITE_SUPABASE_URL`** y
+**`VITE_SUPABASE_PUBLISHABLE_KEY`** (Settings → Environment Variables). La llave
+secreta no va ahí: solo se usa en tu máquina para el seed.
+
+En Supabase, *Authentication → URL Configuration*: pon la URL de producción como
+**Site URL** y agrégala en **Redirect URLs**. Si no, los correos de confirmación
+y de recuperación de contraseña devuelven al usuario a `localhost`.
 
 ---
 
@@ -278,6 +296,12 @@ correr `pnpm seed`. El script no continúa sobre una carga parcial a propósito.
 Revisa `plazo_dias`: el fin se calcula como inicio + plazo − 1 en días
 calendario. Si tus contratos cuentan desde el día siguiente al acta de inicio,
 hay que ajustar `sincronizar_plazo_proyecto` en `0007`.
+
+**El efecto de vidrio se ve plano**
+No escribas `-webkit-backdrop-filter` a mano en `index.css`: Tailwind pone los
+prefijos según los navegadores objetivo, y la versión escrita a mano hace que
+el compilador deje *solo* la prefijada. Chrome 141 ya no la entiende y el blur
+desaparece sin dar error.
 
 **Las fuentes no cargan**
 Vienen de Google Fonts por `<link>` en `index.html`. Sin red se cae a las del

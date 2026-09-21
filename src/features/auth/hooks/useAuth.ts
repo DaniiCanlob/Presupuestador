@@ -1,5 +1,5 @@
 import { useMutation } from '@tanstack/react-query';
-import { useNavigate } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 import { authService } from '@/features/auth/services/auth.service';
 import { queryClient } from '@/common/lib/queryClient';
 import { useNotificar } from '@/common/ui/Notificaciones';
@@ -9,11 +9,15 @@ import type { CredencialesIngreso, DatosRegistro } from '@/common/types/auth';
 
 export function useIngresar() {
   const navegar = useNavigate();
+  const ubicacion = useLocation();
   const notificar = useNotificar();
+
+  // RutaProtegida deja aquí la ruta que el usuario intentaba abrir.
+  const destino = (ubicacion.state as { desde?: string } | null)?.desde;
 
   return useMutation({
     mutationFn: (credenciales: CredencialesIngreso) => authService.ingresar(credenciales),
-    onSuccess: () => navegar(RUTAS.proyectos, { replace: true }),
+    onSuccess: () => navegar(destino ?? RUTAS.proyectos, { replace: true }),
     onError: (error: Error) => notificar(error.message, 'error'),
   });
 }

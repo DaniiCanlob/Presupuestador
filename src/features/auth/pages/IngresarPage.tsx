@@ -3,6 +3,7 @@ import { zodResolver } from '@hookform/resolvers/zod';
 import { Link } from 'react-router-dom';
 import { Boton } from '@/common/ui/Boton';
 import { Campo, Entrada } from '@/common/ui/campos';
+import { Titulo } from '@/common/ui/Titulo';
 import { useIngresar } from '@/features/auth/hooks/useAuth';
 import { esquemaIngreso, type FormularioIngreso } from '@/features/auth/schemas';
 import { RUTAS } from '@/common/constants/rutas';
@@ -17,6 +18,8 @@ export default function IngresarPage() {
 
   return (
     <>
+      <Titulo>Ingresar</Titulo>
+
       <h1 className="text-xl font-semibold text-foreground">Ingresar</h1>
       <p className="mt-1 text-sm text-muted-foreground">Entra con tu correo y contraseña.</p>
 

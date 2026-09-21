@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
-import { Plus } from 'lucide-react';
+import { Plus, Trash2 } from 'lucide-react';
 import {
+  useEliminarInsumo,
   useFijarPrecio,
   useGuardarInsumo,
   useInsumos,
@@ -19,6 +20,7 @@ import { Cargando, ErrorCarga, EstadoVacio } from '@/common/ui/Estados';
 import { moneda } from '@/common/lib/formato';
 import { COLOR_TIPO, ETIQUETA_TIPO, TIPOS_INSUMO } from '@/common/constants/catalogo';
 import { MENSAJES } from '@/common/constants/mensajes';
+import { Titulo } from '@/common/ui/Titulo';
 import type { FiltrosInsumos } from '@/common/types/catalogo';
 import type { TipoInsumo } from '@/common/types/database.types';
 
@@ -31,6 +33,7 @@ export default function InsumosPage() {
   const precios = usePreciosPropios();
   const fijarPrecio = useFijarPrecio();
   const guardar = useGuardarInsumo();
+  const eliminar = useEliminarInsumo();
 
   const misPrecios = useMemo(
     () => new Map((precios.data ?? []).map((p) => [p.insumo_id, Number(p.precio_unitario)])),
@@ -39,6 +42,8 @@ export default function InsumosPage() {
 
   return (
     <div className="space-y-4">
+      <Titulo descripcion="Materiales, equipo, transporte y mano de obra.">Insumos</Titulo>
+
       <header className="flex flex-wrap items-center justify-between gap-3">
         <div>
           <h1 className="text-lg font-semibold text-foreground">Insumos</h1>
@@ -94,6 +99,7 @@ export default function InsumosPage() {
               <Th numerico className="w-40">
                 Mi precio
               </Th>
+              <Th className="w-10" aria-label="Acciones" />
             </tr>
           </Encabezado>
           <Cuerpo>
@@ -128,6 +134,22 @@ export default function InsumosPage() {
                       }}
                       aria-label={`Mi precio para ${insumo.descripcion}`}
                     />
+                  </Td>
+                  <Td>
+                    {insumo.owner_id && (
+                      <button
+                        type="button"
+                        onClick={() => {
+                          if (window.confirm(`¿Eliminar "${insumo.descripcion}" de tu catálogo?`)) {
+                            eliminar.mutate(insumo.id);
+                          }
+                        }}
+                        className="rounded p-1 text-muted-foreground transition-colors hover:bg-destructive/10 hover:text-destructive"
+                        aria-label={`Eliminar ${insumo.descripcion}`}
+                      >
+                        <Trash2 className="h-3.5 w-3.5" />
+                      </button>
+                    )}
                   </Td>
                 </Fila>
               );

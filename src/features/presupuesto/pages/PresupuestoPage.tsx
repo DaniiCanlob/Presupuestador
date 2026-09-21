@@ -91,6 +91,7 @@ export default function PresupuestoPage() {
                       item={item}
                       proyectoId={proyectoId}
                       onCambiar={(cambios) => acciones.actualizar.mutate({ id: item.id, cambios })}
+                      onVincularMemoria={() => acciones.vincularMemoria.mutate(item.id)}
                       onEliminar={() => {
                         if (window.confirm(`¿Quitar "${item.descripcion}" del presupuesto?`)) {
                           acciones.eliminar.mutate(item.id);

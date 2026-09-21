@@ -64,6 +64,15 @@ export function useAccionesPresupuesto(proyectoId: string) {
     onError: alFallar,
   });
 
+  const vincularMemoria = useMutation({
+    mutationFn: (id: string) => presupuestoService.vincularMemoria(id),
+    onSuccess: () => {
+      refrescar();
+      notificar('La cantidad vuelve a salir de la memoria.');
+    },
+    onError: alFallar,
+  });
+
   const eliminar = useMutation({
     mutationFn: (id: string) => presupuestoService.eliminar(id),
     onSuccess: () => {
@@ -84,5 +93,12 @@ export function useAccionesPresupuesto(proyectoId: string) {
     onError: alFallar,
   });
 
-  return { agregarDelCatalogo, agregarManual, actualizar, eliminar, actualizarPrecios };
+  return {
+    agregarDelCatalogo,
+    agregarManual,
+    actualizar,
+    vincularMemoria,
+    eliminar,
+    actualizarPrecios,
+  };
 }

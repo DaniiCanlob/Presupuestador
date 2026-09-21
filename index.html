@@ -1,12 +1,60 @@
 <!doctype html>
-<html lang="es">
+<html lang="es-CO">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Presupuestos de obra, APU, memorias de cantidades y programacion." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+
+    <title>Presupuestador PRO — Presupuestos de obra, APU y programación</title>
+    <meta
+      name="description"
+      content="Arma presupuestos de obra con análisis de precios unitarios, memorias de cantidades, programación y resumen de insumos. Catálogo con 2.288 actividades y 2.156 insumos listo para usar."
+    />
+    <link rel="canonical" href="https://cotizaciones-obras.vercel.app/" />
+
+    <!-- Es una app privada: no tiene sentido que se indexe el interior -->
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="author" content="Danii Canlob" />
+    <meta name="application-name" content="Presupuestador PRO" />
+    <meta name="generator" content="Vite + React" />
+
+    <!-- Color de la barra del navegador, uno por tema -->
     <meta name="theme-color" content="#f8f0e1" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#16100c" media="(prefers-color-scheme: dark)" />
-    <title>Presupuestador PRO</title>
+    <meta name="color-scheme" content="light dark" />
+
+    <!-- Iconos -->
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+
+    <!-- Al compartir el enlace (WhatsApp, Slack, LinkedIn…) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Presupuestador PRO" />
+    <meta property="og:locale" content="es_CO" />
+    <meta property="og:url" content="https://cotizaciones-obras.vercel.app/" />
+    <meta property="og:title" content="Presupuestador PRO — Presupuestos de obra" />
+    <meta
+      property="og:description"
+      content="Presupuesto, APU, memorias de cantidades, programación y resumen de insumos en un solo lugar."
+    />
+    <meta property="og:image" content="https://cotizaciones-obras.vercel.app/og.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Presupuestador PRO: presupuestos de obra, APU y programación" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Presupuestador PRO — Presupuestos de obra" />
+    <meta
+      name="twitter:description"
+      content="Presupuesto, APU, memorias de cantidades, programación y resumen de insumos en un solo lugar."
+    />
+    <meta name="twitter:image" content="https://cotizaciones-obras.vercel.app/og.png" />
+
+    <!-- En iOS, instalada desde el navegador -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Presupuestador" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="format-detection" content="telephone=no" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -32,6 +80,10 @@
   </head>
   <body>
     <div id="root"></div>
+    <noscript>
+      Esta aplicación necesita JavaScript para funcionar. Actívalo en tu navegador y recarga la
+      página.
+    </noscript>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

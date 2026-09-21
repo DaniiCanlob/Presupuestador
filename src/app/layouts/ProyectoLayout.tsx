@@ -5,6 +5,7 @@ import { useProyecto, useTotales } from '@/features/proyectos/hooks/useProyectos
 import { Pestanas } from '@/common/ui/Pestanas';
 import { Cargando, ErrorCarga } from '@/common/ui/Estados';
 import { Insignia } from '@/common/ui/Insignia';
+import { Titulo } from '@/common/ui/Titulo';
 import { RUTAS } from '@/common/constants/rutas';
 import { ESTADOS_PROYECTO } from '@/common/constants/proyecto';
 import { moneda, fecha } from '@/common/lib/formato';
@@ -52,6 +53,8 @@ export function ProyectoLayout() {
   return (
     <Contexto.Provider value={{ proyecto: p, totales: totales.data }}>
       <div className="space-y-5">
+        <Titulo descripcion={p.objeto ?? undefined}>{p.nombre}</Titulo>
+
         <header className="no-imprimir">
           <Link
             to={RUTAS.proyectos}

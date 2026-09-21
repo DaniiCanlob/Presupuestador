@@ -1,0 +1,17 @@
+{
+  "name": "Presupuestador PRO",
+  "short_name": "Presupuestador",
+  "description": "Presupuestos de obra con APU, memorias de cantidades y programación.",
+  "lang": "es-CO",
+  "start_url": "/proyectos",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8f0e1",
+  "theme_color": "#f49f1e",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

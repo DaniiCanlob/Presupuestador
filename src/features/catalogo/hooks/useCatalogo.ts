@@ -112,6 +112,35 @@ export function useClonarActividad() {
   });
 }
 
+/** Solo funciona sobre lo propio: el RLS bloquea el catálogo global. */
+export function useEliminarActividad() {
+  const cliente = useQueryClient();
+  const notificar = useNotificar();
+
+  return useMutation({
+    mutationFn: (id: string) => catalogoService.eliminarActividad(id),
+    onSuccess: () => {
+      cliente.invalidateQueries({ queryKey: ['actividades'] });
+      notificar('Actividad eliminada de tu catálogo.');
+    },
+    onError: (error: Error) => notificar(error.message, 'error'),
+  });
+}
+
+export function useEliminarInsumo() {
+  const cliente = useQueryClient();
+  const notificar = useNotificar();
+
+  return useMutation({
+    mutationFn: (id: string) => catalogoService.eliminarInsumo(id),
+    onSuccess: () => {
+      cliente.invalidateQueries({ queryKey: ['insumos'] });
+      notificar('Insumo eliminado de tu catálogo.');
+    },
+    onError: (error: Error) => notificar(error.message, 'error'),
+  });
+}
+
 export function useGuardarInsumo() {
   const cliente = useQueryClient();
   const notificar = useNotificar();

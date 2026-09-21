@@ -3,6 +3,7 @@ import { zodResolver } from '@hookform/resolvers/zod';
 import { Link } from 'react-router-dom';
 import { Boton } from '@/common/ui/Boton';
 import { Campo, Entrada } from '@/common/ui/campos';
+import { Titulo } from '@/common/ui/Titulo';
 import { useRecuperarClave } from '@/features/auth/hooks/useAuth';
 import { esquemaRecuperacion, type FormularioRecuperacion } from '@/features/auth/schemas';
 import { RUTAS } from '@/common/constants/rutas';
@@ -17,6 +18,8 @@ export default function RecuperarPage() {
 
   return (
     <>
+      <Titulo>Recuperar contraseña</Titulo>
+
       <h1 className="text-xl font-semibold text-foreground">Recuperar contraseña</h1>
       <p className="mt-1 text-sm text-muted-foreground">Te enviamos un enlace para crear una nueva.</p>
 
