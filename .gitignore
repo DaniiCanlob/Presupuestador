@@ -1,0 +1,93 @@
+# ---------------------------------------------------------------- dependencias
+node_modules/
+.pnpm-store/
+.pnpm-state/
+
+# El gestor del proyecto es pnpm (ver packageManager en package.json).
+# Estos lockfiles solo aparecen si alguien corre npm o yarn por error, y tener
+# dos lockfiles distintos es la receta para instalar versiones diferentes.
+package-lock.json
+yarn.lock
+
+# ---------------------------------------------------------------- compilados
+dist/
+dist-ssr/
+build/
+
+# ---------------------------------------------------------------- secretos
+# NUNCA subir: la llave secreta de Supabase salta el RLS.
+.env
+.env.*
+!.env.example
+supabase/.env
+
+# ---------------------------------------------------------------- cachés
+.vite/
+.cache/
+*.tsbuildinfo
+.eslintcache
+.stylelintcache
+.turbo/
+.parcel-cache/
+
+# ---------------------------------------------------------------- pruebas
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+blob-report/
+.playwright/
+
+# ---------------------------------------------------------------- registros
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ---------------------------------------------------------------- supabase cli
+supabase/.temp/
+supabase/.branches/
+supabase/logs/
+
+# ---------------------------------------------------------------- editores
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# ---------------------------------------------------------------- sistema
+# Windows / OneDrive
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+*.lnk
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+# Linux
+*~
+.directory
+.Trash-*
+
+# ---------------------------------------------------------------- temporales
+# Carpeta donde la app de escritorio de Claude deja los archivos que genera.
+Claude outputs/
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
+*.rej
+_obsoleto/
+_to_delete/

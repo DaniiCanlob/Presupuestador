@@ -1,0 +1,27 @@
+# Normaliza los finales de línea: en el repo siempre LF, en tu disco lo que
+# use tu sistema. Sin esto, trabajar desde Windows mete un \r en cada línea y
+# el primer diff se vuelve ilegible.
+* text=auto eol=lf
+
+# Archivos que deben conservar LF aunque se editen en Windows.
+*.sh text eol=lf
+*.sql text eol=lf
+
+# Binarios: que git no intente normalizarlos ni mostrar diffs.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
+*.xlsx binary
+*.xlsm binary
+
+# Generados: no ensucian los diffs de las revisiones.
+pnpm-lock.yaml linguist-generated=true -diff
+supabase/esquema-completo.sql linguist-generated=true -diff
+
+# El catálogo vive en CSV: es dato, no código.
+supabase/seed/*.csv text eol=lf linguist-generated=true -diff

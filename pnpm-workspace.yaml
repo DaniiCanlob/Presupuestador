@@ -1,0 +1,12 @@
+# Ajustes de pnpm. Desde pnpm 10 viven aquí, no en package.json ni en .npmrc
+# (ahí solo quedan registro y autenticación).
+#
+# pnpm no ejecuta los scripts de instalación de las dependencias salvo que se
+# aprueben una por una: así ningún paquete corre código en tu máquina sin que
+# lo hayas mirado. Para revisar los pendientes: `pnpm approve-builds`.
+#
+#   esbuild → necesita su postinstall para dejar el binario de tu plataforma.
+#   core-js → su postinstall solo imprime un mensaje de patrocinio.
+allowBuilds:
+  core-js: false
+  esbuild: true

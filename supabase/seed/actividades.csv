@@ -1,0 +1,2289 @@
+codigo,capitulo_codigo,descripcion,unidad,valor_unitario,orden
+1.01,1,Acarreo (trasiego) horizontal manual,m3,15171.0,1
+1.02,1,"Acondicionamiento de acceso provisional a la obra con recebo (afirmado), espesor promedio 0.25 m. Incluye mantenimiento durante el período de construcción.",m3,193853.0,2
+1.03,1,Alquiler de baño portátil de polietileno x 1 Und,Mes,964586.0,3
+1.04,1,Alquiler de baño portátil de polietileno x 2 Und,Mes,1896200.0,4
+1.05,1,Alquiler de campamento contenedor 6.10 x 2.44 m,Mes,1591773.0,5
+1.06,1,Alquiler de campamento contenedor 12.20 x 2.44 m,Mes,3009152.0,6
+1.07,1,Alumbrado provisional,Un,116084.0,7
+1.08,1,Apuntalado provisional en madera de estructuras,m2,62094.0,8
+1.09,1,Baño provisional en obra de 4 m²,Un,2125427.0,9
+1.10,1,"Campamento de 9 m² en tabla, teja de Eternit, piso",Un,2074174.0,10
+1.11,1,"Campamento de 9 m² esterilla, teja de zinc, piso",Un,1548513.0,11
+1.12,1,"Campamento de 18 m² en tabla, teja de Eternit, piso",Un,4214547.0,12
+1.13,1,"Campamento de 18 m² esterilla, teja de zinc, piso",Un,3010634.0,13
+1.14,1,"Campamento de 27 m² en tabla, teja de Eternit, piso",Un,6288721.0,14
+1.15,1,"Campamento de 27 m² esterilla, teja de zinc, piso",Un,4557878.0,15
+1.16,1,Cancelación punto hidráulico,Un,25119.0,16
+1.17,1,Cancelación punto sanitario,Un,48697.0,17
+1.18,1,Cargue manual y retiro de escombros en camioneta,m3,331250.0,18
+1.19,1,Cargue manual y retiro de escombros en volqueta,m3,62666.0,19
+1.20,1,Cargue mecánico y retiro de escombros,m3,57273.0,20
+1.21,1,Cerramiento en guadua y esterilla,m2,28935.0,21
+1.22,1,"Cerramiento en guadua y tabla, h= 2 m",m,34235.0,22
+1.23,1,"Cerramiento provisional con postes de señalización vial y cinta de seguridad, h= 1.25 m",m,8215.0,23
+1.24,1,"Cerramiento provisional con postes de señalización en madera y cinta de seguridad, h= 1.25 m",m,8425.0,24
+1.25,1,"Cerramiento provisional en drywall de 1/2"" (1F)",m2,47874.0,25
+1.26,1,Cerramiento provisional en guadua y lámina de zinc,m2,30232.0,26
+1.27,1,"Cerramiento provisional en guadua y lámina de zinc, h= 2.10 m",m,63555.0,27
+1.28,1,Cerramiento provisional en guadua y polisombra blanca,m2,18802.0,28
+1.29,1,Cerramiento provisional en guadua y polisombra verde,m2,18475.0,29
+1.30,1,"Cerramiento provisional en guadua y polisombra verde, h= 2.10 m",m,38923.0,30
+1.31,1,Cinta de señalización a= 7 cm,m,2154.0,31
+1.32,1,Corte con disco de pavimento en concreto hasta 5 cm,m,13277.0,32
+1.33,1,Corte con disco de pavimento en concreto de 5 a 10 cm,m,17005.0,33
+1.34,1,Corte con pulidora de muro en ladrillo,m,2981.0,34
+1.35,1,Corte y retiro de árbol h> 3 m,Un,147158.0,35
+1.36,1,Corte y retiro de arbusto,Un,13392.0,36
+1.37,1,"Corte y retiro de raíz Ø= 4"" - 12""",m,8558.0,37
+1.38,1,"Corte y retiro de raíz Ø= 12"" - 20""",m,27829.0,38
+1.39,1,Demolición cabezas en concreto de pilas/ caisson,m3,503171.0,39
+1.40,1,Demolición cabezas en concreto de pilotes Ø= 20 cm,m,20386.0,40
+1.41,1,Demolición cabezas en concreto de pilotes Ø= 25 cm,m,27965.0,41
+1.42,1,Demolición cabezas en concreto de pilotes Ø= 30 cm,m,30240.0,42
+1.43,1,Demolición cabezas en concreto de pilotes Ø= 35 cm,m,32518.0,43
+1.44,1,Demolición cabezas en concreto de pilotes Ø= 40 cm,m,40363.0,44
+1.45,1,Demolición cabezas en concreto de pilotes Ø= 50 cm,m,48081.0,45
+1.46,1,Demolición cabezas en concreto de pilotes Ø= 60 cm,m,55926.0,46
+1.47,1,Demolición cabezas en concreto de pilotes Ø= 80 cm,m,71489.0,47
+1.48,1,Demolición cabezas en concreto de pilotes Ø= 100 cm,m,84395.0,48
+1.49,1,Demolición de columna en concreto,m3,579632.0,49
+1.50,1,Demolición de escalera en concreto,m2,79929.0,50
+1.51,1,Demolición de estructuras en concreto,m3,267118.0,51
+1.52,1,Demolición de muro/ pantalla en concreto,m3,308273.0,52
+1.53,1,Demolición de pavimento flexible e< 21 cm,m2,15247.0,53
+1.54,1,Demolición de pavimento rígido e< 21 cm,m2,26484.0,54
+1.55,1,Demolición de piso en adoquín,m2,21925.0,55
+1.56,1,Demolición de placa aligerada e= 0.25 m,m2,74369.0,56
+1.57,1,Demolición de placa aligerada e= 0.45 m,m2,82568.0,57
+1.58,1,Demolición de placa maciza/ losa en concreto e= 0.10 m,m2,65477.0,58
+1.59,1,Demolición de placa maciza/ losa en concreto e= 0.12 m,m2,78572.0,59
+1.60,1,Demolición de placa maciza/ losa en concreto e= 0.15 m,m2,98215.0,60
+1.61,1,Demolición de placa maciza/ losa en concreto e= 0.20 m,m2,103257.0,61
+1.62,1,Demolición de placa maciza/ losa en concreto e= 0.30 m,m2,118230.0,62
+1.63,1,Demolición de placa/ losa de cimentación en concreto,m3,336808.0,63
+1.64,1,Demolición de viga en concreto,m3,579632.0,64
+1.65,1,Demolición de zapata en concreto,m3,195837.0,65
+1.66,1,Demolición manual de alfajía/ lagrimal en concreto,m,6990.0,66
+1.67,1,Demolición manual de andén en concreto,m2,20386.0,67
+1.68,1,Demolición manual de caja de inspección 30x30x50 cm,Un,7654.0,68
+1.69,1,Demolición manual de caja de inspección 40x40x40 cm,Un,10193.0,69
+1.70,1,Demolición manual de caja de inspección 50x50x50 cm,Un,12732.0,70
+1.71,1,Demolición manual de caja de inspección 60x60x60 cm,Un,18342.0,71
+1.72,1,Demolición manual de caja de inspección 80x80x80 cm,Un,32623.0,72
+1.73,1,Demolición manual de caja de inspección 100x100x100 cm,Un,50965.0,73
+1.74,1,Demolición manual de calados,m2,11004.0,74
+1.75,1,Demolición manual de columna de amarre en concreto,m,9543.0,75
+1.76,1,Demolición manual de concreto,m3,901146.0,76
+1.77,1,Demolición manual de concreto ciclópeo,m3,450573.0,77
+1.78,1,Demolición manual de cilindro Manhole,m3,431582.0,78
+1.79,1,Demolición manual de cono Manhole,Un,259080.0,79
+1.80,1,Demolición manual de cuneta en concreto,m,20386.0,80
+1.81,1,Demolición manual de dintel en concreto,m,6990.0,81
+1.82,1,Demolición manual de enchape o pañete (revoque),m2,15783.0,82
+1.83,1,Demolición manual de guardaescobas,m,4352.0,83
+1.84,1,Demolición manual de lavadero existente,Un,55212.0,84
+1.85,1,Demolición manual de mesón en concreto,m2,32145.0,85
+1.86,1,Demolición manual de mortero de nivelación,m2,8801.0,86
+1.87,1,Demolición manual de muro e= 0.10-0.15 m,m2,13409.0,87
+1.88,1,Demolición manual de muro e= 0.10-0.15 m mamp. estruc.,m2,20113.0,88
+1.89,1,Demolición manual de muro e= 0.20-0.25 m,m2,18289.0,89
+1.90,1,Demolición manual de muro en bahareque,m2,21399.0,90
+1.91,1,Demolición manual de muro en tapia,m3,177880.0,91
+1.92,1,Demolición manual de piso en baldosa,m2,17162.0,92
+1.93,1,Demolición manual de piso en cerámica,m2,17162.0,93
+1.94,1,Demolición manual de piso en grano pulido,m2,8801.0,94
+1.95,1,Demolición manual de pozo de inspección (Manhole),m3,431582.0,95
+1.96,1,Demolición manual de placa/ losa sobre terreno,m2,10204.0,96
+1.97,1,Demolición manual de recubrimiento de concreto,m2,55498.0,97
+1.98,1,Demolición manual de sardinel en concreto,m,8136.0,98
+1.99,1,Demolición manual de sillar en concreto,m,6990.0,99
+1.100,1,Demolición manual de sumidero en concreto,m2,184752.0,100
+1.101,1,Demolición manual de viga canal en concreto,m,31869.0,101
+1.102,1,Demolición manual de viga de amarre en concreto,m,9543.0,102
+1.103,1,Demolición manual de viga en concreto,m3,277434.0,103
+1.104,1,Demolición manual de vivienda (incl. retiro),m2,94039.0,104
+1.105,1,Demolición manual de zócalo o media caña,m,4352.0,105
+1.106,1,Demolición manual orinal/ lavamanos corrido concreto,m,26106.0,106
+1.107,1,Desarme de gaviones y recuperación de piedra,m3,26516.0,107
+1.108,1,Descapote a máquina hasta 30 cm (incl. retiro),m2,7600.0,108
+1.109,1,Descapote y limpieza manual (incl. retiro),m2,12985.0,109
+1.110,1,Desconexión de acometida de la instalación de gas,Un,106630.0,110
+1.111,1,Desconexión de acometida de la red contra incendios,Un,73272.0,111
+1.112,1,Desconexión de acometida de la red de agua potable,Un,73272.0,112
+1.113,1,Desconexión de acometida de la red de alcantarillado,Un,216546.0,113
+1.114,1,Desconexión de acometida de telecomunicaciones,Un,59054.0,114
+1.115,1,Desconexión de acometida de teléfono,Un,19611.0,115
+1.116,1,Desconexión de acometida del sistema de alarma,Un,78665.0,116
+1.117,1,Desconexión de acometida del sistema de cctv,Un,78665.0,117
+1.118,1,Desconexión de acometida eléctrica,Un,314835.0,118
+1.119,1,Desconexión de contador de energía,Un,21258.0,119
+1.120,1,Desconexión de cortacircuitos o pararrayos,Un,106833.0,120
+1.121,1,Desconexión de red primaria monofásica,m,3233.0,121
+1.122,1,Desconexión de red primaria trifásica,m,4334.0,122
+1.123,1,Desconexión de red secundaria 1 ó 2 hilos,m,2584.0,123
+1.124,1,Desconexión de red secundaria 3 ó más hilos,m,4334.0,124
+1.125,1,Desmonte de adoquín e< 10 cm,m2,5576.0,125
+1.126,1,Desmonte de antena TV/ Radio FM,Un,83618.0,126
+1.127,1,Desmonte de aparato sanitario,Un,36385.0,127
+1.128,1,Desmonte de caballete de Eternit,m,10512.0,128
+1.129,1,Desmonte de calentador de agua,Un,61064.0,129
+1.130,1,Desmonte de campana extractora,Un,10350.0,130
+1.131,1,Desmonte de canal en lámina ó pvc,m,6898.0,131
+1.132,1,Desmonte de canaleta 43 ó 90,m2,26411.0,132
+1.133,1,"Desmonte de carteleras, cuadros, extintores",Un,16300.0,133
+1.134,1,Desmonte de cercha en madera,m,14055.0,134
+1.135,1,Desmonte de cerramiento con postes de concreto,m,39217.0,135
+1.136,1,Desmonte de cerramiento con postes de madera,m,5824.0,136
+1.137,1,Desmonte de cielo raso,m2,11069.0,137
+1.138,1,Desmonte de cierra puerta brazo hidráulico,Un,29242.0,138
+1.139,1,Desmonte de citófono,Un,34427.0,139
+1.140,1,Desmonte de closet,m2,11324.0,140
+1.141,1,Desmonte de columna en madera,m,14404.0,141
+1.142,1,Desmonte de columna metálica,m,19171.0,142
+1.143,1,Desmonte de concertina,m,9066.0,143
+1.144,1,Desmonte de correa en madera,m,9911.0,144
+1.145,1,Desmonte de correa metálica,m,8218.0,145
+1.146,1,Desmonte de cortina metálica,m2,7702.0,146
+1.147,1,Desmonte de cubierta en acrílico-policarbonato,m2,9304.0,147
+1.148,1,Desmonte de cubierta en asbesto cemento,m2,10573.0,148
+1.149,1,Desmonte de cubierta en lámina,m2,8908.0,149
+1.150,1,Desmonte de cubierta en teja barro,m2,23024.0,150
+1.151,1,Desmonte de cubierta en teja ondulada,m2,10573.0,151
+1.152,1,Desmonte de cubierta en zinc + entramado,m2,24031.0,152
+1.153,1,Desmonte de defensa vial metálica,m,1149.0,153
+1.154,1,Desmonte de detector de humo,Un,6301.0,154
+1.155,1,Desmonte de división en madera,m2,5380.0,155
+1.156,1,Desmonte de división en placa de yeso o eterboard,m2,16058.0,156
+1.157,1,Desmonte de división metálica,m2,7523.0,157
+1.158,1,Desmonte de división para baño,m2,7292.0,158
+1.159,1,Desmonte de elementos prefabricados,m2,16159.0,159
+1.160,1,Desmonte de entrepiso en madera,m2,27198.0,160
+1.161,1,Desmonte de escalera en madera,m2,18564.0,161
+1.162,1,Desmonte de escalera metálica,m2,26964.0,162
+1.163,1,Desmonte de espejos,m2,4519.0,163
+1.164,1,Desmonte de estructura en madera,m2,27515.0,164
+1.165,1,Desmonte de estructura metálica,m2,21146.0,165
+1.166,1,Desmonte de estructura metálica perfiles-vigas,Kg,3868.0,166
+1.167,1,Desmonte de extractor de aire para baño,Un,10473.0,167
+1.168,1,Desmonte de estufa/ horno de empotrar,Un,15525.0,168
+1.169,1,Desmonte de fachada en lámina metálica,m2,32790.0,169
+1.170,1,Desmonte de flanche en lámina,m,4543.0,170
+1.171,1,Desmonte de fluxómetro,Un,46318.0,171
+1.172,1,Desmonte de gárgola,Un,5854.0,172
+1.173,1,Desmonte de grifería,Un,30368.0,173
+1.174,1,Desmonte de hidrante,Un,32384.0,174
+1.175,1,Desmonte de incrustaciones,Un,5332.0,175
+1.176,1,Desmonte de kioskos y enramadas,m2,7981.0,176
+1.177,1,Desmonte de lámpara fluorescente,Un,24065.0,177
+1.178,1,Desmonte de lavadero,Un,30595.0,178
+1.179,1,Desmonte de lavaplatos,Un,22075.0,179
+1.180,1,Desmonte de letrero/ aviso luminoso,m2,23332.0,180
+1.181,1,Desmonte de luminarias,Un,36094.0,181
+1.182,1,Desmonte de malla eslabonada,m2,8870.0,182
+1.183,1,Desmonte de manto asfáltico,m2,10781.0,183
+1.184,1,Desmonte de marcos y puertas,m2,17566.0,184
+1.185,1,Desmonte de mueble inferior de cocina,m,11324.0,185
+1.186,1,Desmonte de mueble superior de cocina,m,11463.0,186
+1.187,1,Desmonte de muro en drywall o superboard,m2,15381.0,187
+1.188,1,Desmonte de pasamanos en madera,m,5225.0,188
+1.189,1,Desmonte de pasamanos en vidrio,m,7721.0,189
+1.190,1,Desmonte de pasamanos metálico,m,18147.0,190
+1.191,1,Desmonte de piso en lámina de superboard,m2,16166.0,191
+1.192,1,Desmonte de piso en madera,m2,4065.0,192
+1.193,1,Desmonte de piso en vinisol,m2,11122.0,193
+1.194,1,Desmonte de poste de concreto,Un,233553.0,194
+1.195,1,Desmonte de poste metálico,Un,195937.0,195
+1.196,1,Desmonte de puerta de garaje,m2,6482.0,196
+1.197,1,Desmonte de puerta en vidrio templado,m2,36204.0,197
+1.198,1,Desmonte de puesto de trabajo,Un,28327.0,198
+1.199,1,Desmonte de pulsador de alarma,Un,5834.0,199
+1.200,1,Desmonte de red de gas,m,6532.0,200
+1.201,1,Desmonte de red interior eléctrica,m,3156.0,201
+1.202,1,Desmonte de reflector,Un,77663.0,202
+1.203,1,Desmonte de rejas metálicas,m2,10891.0,203
+1.204,1,Desmonte de rejilla difusora de aire acondicionado,Un,21014.0,204
+1.205,1,Desmonte de rociador,Un,5979.0,205
+1.206,1,Desmonte de sirena de alarma,Un,17851.0,206
+1.207,1,Desmonte de soporte para TV,Un,14054.0,207
+1.208,1,"Desmonte de tanque de agua (250 a 1,000 L)",Un,175735.0,208
+1.209,1,Desmonte de tapetes o alfombras,m2,11122.0,209
+1.210,1,Desmonte de techo y estructura de madera,m2,19055.0,210
+1.211,1,Desmonte de techo y estructura metálica,m2,41943.0,211
+1.212,1,"Desmonte de tubería de alcantarillado Ø<= 12""",m,12465.0,212
+1.213,1,"Desmonte de tubería de alcantarillado Ø<= 24""",m,34129.0,213
+1.214,1,Desmonte de unidad de aire acondicionado,Un,120969.0,214
+1.215,1,Desmonte de ventanas,m2,16464.0,215
+1.216,1,Desmonte de ventilador,Un,14839.0,216
+1.217,1,Desmonte de vidrios,m2,6215.0,217
+1.218,1,Desmonte de viga en madera,m,19124.0,218
+1.219,1,Desmonte de viga metálica,m,18503.0,219
+1.220,1,Desmonte y limpieza a máquina (incl. retiro),m2,7600.0,220
+1.221,1,Desmonte y limpieza manual (incl. retiro),m2,12985.0,221
+1.222,1,"Desmonte, limpieza y retiro en bosque",Ha,4625208.0,222
+1.223,1,"Desmonte, limpieza y retiro en zona no boscosa",Ha,243210.0,223
+1.224,1,Escalera provisional en madera L= 3.50 m,Un,425685.0,224
+1.225,1,Estantería provisional en madera h=2.00 m a= 0.90 m,m,77058.0,225
+1.226,1,Grúa torre - Alquiler,Mes,12495028.0,226
+1.227,1,Grúa torre - Montaje y desmontaje (sin cimentación),Un,15731130.0,227
+1.228,1,Grúa torre - Tramo de empotramiento,Un,6590144.0,228
+1.229,1,Grúa torre - Transporte y retirada,Un,3987363.0,229
+1.230,1,Limpieza y nivelación,m2,7715.0,230
+1.231,1,Levante de película decorativa para vidrio,m2,4586.0,231
+1.232,1,Localización y replanteo de cancha múltiple,m2,1466.0,232
+1.233,1,Localización y replanteo para acueducto,m,2820.0,233
+1.234,1,Localización y replanteo para edificaciones,m2,3903.0,234
+1.235,1,Localización y replanteo para vías,m,5461.0,235
+1.236,1,Localización y replanteo parques y zonas verdes,m2,1466.0,236
+1.237,1,Malla de seguridad plástica naranja,m2,4186.0,237
+1.238,1,Mobiliario y equipo de oficina,Glb,8950257.0,238
+1.239,1,"Perforación vertical Ø= 2"" en losa de concreto",m,715591.0,239
+1.240,1,"Perforación vertical Ø= 3"" en losa de concreto",m,886256.0,240
+1.241,1,"Perforación vertical Ø= 4"" en losa de concreto",m,1036515.0,241
+1.242,1,Picar o abujardar muro interior,m2,15084.0,242
+1.243,1,Picar pañete (revoque) de muro interior,m2,9939.0,243
+1.244,1,Picar pañete (revoque) de techo,m2,14485.0,244
+1.245,1,Poda y tala de árbol h= 6.0-9.0 m,Un,542379.0,245
+1.246,1,Protección de piso con cartón corrugado 3 capas,m2,19125.0,246
+1.247,1,Protección de piso con lámina de cartonplast,m2,34588.0,247
+1.248,1,Puente peatonal provisional en madera a= 1.40 m,m,59670.0,248
+1.249,1,"Red provisional de agua en tubería pvc Ø= 1/2""",m,19955.0,249
+1.250,1,Red provisional eléctrica,m,50521.0,250
+1.251,1,"Red provisional sanitaria en tubería pvc Ø= 4""",m,57777.0,251
+1.252,1,Red provisional telefónica,m,4162.0,252
+1.253,1,Regata en piso para tubería (incl. mortero de resane),m,42794.0,253
+1.254,1,Remoción de cal en muros y limpieza,m2,5166.0,254
+1.255,1,Remoción de especies vegetales,Un,151799.0,255
+1.256,1,Retiro transformador 10 a 75 kVA,Un,129499.0,256
+1.257,1,Señal vertical de tráfico Ø= 60 cm en lámina galv.,Un,333550.0,257
+1.258,1,Trazado y replanteo de muros,m2,3232.0,258
+1.259,1,Valla informativa instalada,m2,402721.0,259
+2.01,2,Barreno dren inclinado manual en tierra Ø<= 10 cm,m,24507.0,260
+2.02,2,Barreno dren inclinado manual en tierra Ø<= 15 cm,m,28388.0,261
+2.03,2,Cargue manual y retiro de tierra,m3,59315.0,262
+2.04,2,Cargue mecánico y retiro de tierra,m3,57273.0,263
+2.05,2,Conformación compactada de subrasante CBR= 95 %,m2,7461.0,264
+2.06,2,Conformación de botadero o escombrera,m3,5423.0,265
+2.07,2,Entibado discontinuo en madera,m2,22517.0,266
+2.08,2,Entibado continuo en madera,m2,35746.0,267
+2.09,2,Excavación común bajo agua para pila/caisson h= 0-2 m,m3,86303.0,268
+2.10,2,Excavación común bajo agua para pila/caisson h= 2-4 m,m3,170986.0,269
+2.11,2,Excavación común bajo agua para pila/caisson h= 4-6 m,m3,254981.0,270
+2.12,2,Excavación común bajo agua para pila/caisson h= 6-8 m,m3,344609.0,271
+2.13,2,Excavación común bajo agua para pila/caisson h= 8-10 m,m3,430016.0,272
+2.14,2,Excavación común bajo agua para pila/caisson h= 12 m,m3,515413.0,273
+2.15,2,Excavación común para pila/caisson h= 0-2 m,m3,48650.0,274
+2.16,2,Excavación común para pila/caisson h= 2-4 m,m3,92597.0,275
+2.17,2,Excavación común para pila/caisson h= 4-6 m,m3,140810.0,276
+2.18,2,Excavación común para pila/caisson h= 6-8 m,m3,187015.0,277
+2.19,2,Excavación común para pila/caisson h= 8-10 m,m3,233015.0,278
+2.20,2,Excavación común para pila/caisson h= 12 m,m3,279021.0,279
+2.21,2,Excavación común pilote Ø= 20 cm (barrenado manual),m,49874.0,280
+2.22,2,Excavación común pilote Ø= 25 cm (barrenado mecánico),m,77210.0,281
+2.23,2,Excavación común pilote Ø= 30 cm (barrenado mecánico),m,83446.0,282
+2.24,2,Excavación común pilote Ø= 35 cm (barrenado mecánico),m,89780.0,283
+2.25,2,Excavación común pilote Ø= 40 cm (barrenado mecánico),m,107688.0,284
+2.26,2,Excavación común pilote Ø= 50 cm (barrenado mecánico),m,125630.0,285
+2.27,2,Excavación común pilote Ø= 60 cm (barrenado mecánico),m,147875.0,286
+2.28,2,Excavación común pilote Ø= 80 cm (barrenado mecánico),m,251261.0,287
+2.29,2,Excavación común pilote Ø= 100 cm (barrenado mecánico),m,300706.0,288
+2.30,2,Excavación conformación de talud en conglomerado,m3,76991.0,289
+2.31,2,Excavación conformación de talud en roca,m3,268931.0,290
+2.32,2,Excavación conformación de talud en tierra,m3,62208.0,291
+2.33,2,Excavación en conglomerado bajo agua h= 0-2 m,m3,112604.0,292
+2.34,2,Excavación en conglomerado bajo agua h= 2-4 m,m3,169576.0,293
+2.35,2,Excavación en conglomerado bajo agua h> 4 m,m3,212066.0,294
+2.36,2,Excavación en conglomerado seco h= 0-2 m,m3,56726.0,295
+2.37,2,Excavación en conglomerado seco h= 2-4 m,m3,91477.0,296
+2.38,2,Excavación en conglomerado seco h> 4 m,m3,128758.0,297
+2.39,2,Excavación en roca,m3,129422.0,298
+2.40,2,Excavación en roca bajo agua para pila/caisson h=0-2 m,m3,239085.0,299
+2.41,2,Excavación en roca bajo agua para pila/caisson h=2-4 m,m3,423480.0,300
+2.42,2,Excavación en roca bajo agua para pila/caisson h=4-6 m,m3,608207.0,301
+2.43,2,Excavación en roca bajo agua para pila/caisson h=6-8 m,m3,798896.0,302
+2.44,2,Excavación en roca bajo agua para pila/caisson h=8-10m,m3,985115.0,303
+2.45,2,Excavación en roca bajo agua para pila/caisson h=12 m,m3,1171324.0,304
+2.46,2,Excavación en roca para pila/caisson h= 0-2 m,m3,119223.0,305
+2.47,2,Excavación en roca para pila/caisson h= 2-4 m,m3,185389.0,306
+2.48,2,Excavación en roca para pila/caisson h= 4-6 m,m3,251063.0,307
+2.49,2,Excavación en roca para pila/caisson h= 6-8 m,m3,317116.0,308
+2.50,2,Excavación en roca para pila/caisson h= 8-10 m,m3,382885.0,309
+2.51,2,Excavación en roca para pila/caisson h= 12 m,m3,448654.0,310
+2.52,2,Excavación en tierra bajo agua h= 0-2 m,m3,85237.0,311
+2.53,2,Excavación en tierra bajo agua h= 2-4 m,m3,142177.0,312
+2.54,2,Excavación en tierra bajo agua h> 4 m,m3,183236.0,313
+2.55,2,Excavación en tierra seca h= 0-2 m,m3,45113.0,314
+2.56,2,Excavación en tierra seca h= 2-4 m,m3,80884.0,315
+2.57,2,Excavación en tierra seca h> 4 m,m3,128758.0,316
+2.58,2,Excavación en tierra seca h= 0-2 m (incluye entibado discontinuo en madera).,m3,49613.0,317
+2.59,2,Excavación mecánica y retiro de tierra,m3,43505.0,318
+2.60,2,Explanación y extendida de tierra,m3,13399.0,319
+2.61,2,Explanación y retiro de tierra,m3,52165.0,320
+2.62,2,Lleno compactado con afirmado,m3,154601.0,321
+2.63,2,Lleno compactado con arenilla,m3,124897.0,322
+2.64,2,Lleno compactado con material del sitio,m3,40581.0,323
+2.65,2,Lleno compactado con material filtrante,m3,131616.0,324
+2.66,2,Lleno compactado con material transportado,m3,130758.0,325
+2.67,2,Lleno compactado con recebo común,m3,154601.0,326
+2.68,2,Lleno compactado con roca muerta,m3,78776.0,327
+2.69,2,Lleno mecánico compactado con material del sitio,m3,21249.0,328
+2.70,2,Lleno mecánico compactado con material transportado,m3,126369.0,329
+2.71,2,Nivelación terreno con material del sitio,m2,6501.0,330
+2.72,2,Protección superficie con plástico negro,m2,2970.0,331
+2.73,2,Relleno en arena,m3,142914.0,332
+2.74,2,"Relleno en triturado de 3/4""",m3,149629.0,333
+2.75,2,Remoción manual de derrumbes (sin retiro),m3,15618.0,334
+2.76,2,Remoción mecánica de derrumbes (sin retiro),m3,15504.0,335
+2.77,2,Restitución con afirmado y cemento 5% peso,m3,251889.0,336
+2.78,2,Restitución con afirmado y cemento 10% peso,m3,305349.0,337
+2.79,2,Terraplén con material del sitio,m3,11166.0,338
+2.80,2,Terraplén con material transportado,m3,87505.0,339
+2.81,2,Trincho en esterilla,m,35124.0,340
+2.82,2,Trincho en guadua,m,40768.0,341
+3.01,3,Acero de presfuerzo,Kg,60272.0,342
+3.02,3,Anclaje para pantalla en tierra Ø<= 15 cm y grouting,m,65012.0,343
+3.03,3,Anillo pila/caisson concreto 20.7 MPa Ø= 1.00 m y ref.,m,330752.0,344
+3.04,3,Anillo pila/caisson concreto 20.7 MPa Ø= 1.20 m y ref.,m,386526.0,345
+3.05,3,Anillo pila/caisson concreto 20.7 MPa Ø= 1.40 m y ref.,m,442461.0,346
+3.06,3,Anillo pila/caisson concreto 20.7 MPa Ø= 1.60 m y ref.,m,497659.0,347
+3.07,3,Anillo pila/caisson concreto 20.7 MPa Ø= 1.80 m y ref.,m,552938.0,348
+3.08,3,Anillo pila/caisson concreto 20.7 MPa Ø= 2.00 m y ref.,m,609291.0,349
+3.09,3,Anillo pila/caisson concreto 20.7 MPa Ø= 2.20 m y ref.,m,664495.0,350
+3.10,3,Anillo pila/caisson concreto 20.7 MPa Ø= 2.40 m y ref.,m,719677.0,351
+3.11,3,Muro de contención aligerado en bloque de 20 cm,m2,601535.0,352
+3.12,3,Muro de contención en concreto de 20.7 MPa,m3,1200391.0,353
+3.13,3,Muro de contención en concreto de 24.2 MPa,m3,1237125.0,354
+3.14,3,Muro de contención en concreto de 27.6 MPa,m3,1265775.0,355
+3.15,3,Muro en concreto ciclópeo de 20.7 MPa,m3,1155361.0,356
+3.16,3,Pedestal en concreto de 20.7 MPa,m3,1040234.0,357
+3.17,3,Pedestal en concreto de 24.2 MPa,m3,1076968.0,358
+3.18,3,Pedestal en concreto de 27.6 MPa,m3,1105617.0,359
+3.19,3,Pila/ Pilote/ Caisson en concreto de 20.7 MPa,m3,638626.0,360
+3.20,3,Pila/ Pilote/ Caisson en concreto de 24.2 MPa,m3,659642.0,361
+3.21,3,Pila/ Pilote/ Caisson en concreto de 27.6 MPa,m3,681394.0,362
+3.22,3,Pilote en concreto de 20.7 MPa Ø= 20 cm,m,40470.0,363
+3.23,3,Pilote en concreto de 20.7 MPa Ø= 25 cm,m,65930.0,364
+3.24,3,Pilote en concreto de 20.7 MPa Ø= 30 cm,m,87666.0,365
+3.25,3,Pilote en concreto de 20.7 MPa Ø= 35 cm,m,112748.0,366
+3.26,3,Pilote en concreto de 20.7 MPa Ø= 40 cm,m,134264.0,367
+3.27,3,Pilote en concreto de 20.7 MPa Ø= 50 cm,m,189946.0,368
+3.28,3,Pilote en concreto de 20.7 MPa Ø= 60 cm,m,273482.0,369
+3.29,3,Pilote en concreto de 20.7 MPa Ø= 80 cm,m,486509.0,370
+3.30,3,Pilote en concreto de 20.7 MPa Ø= 100 cm,m,805845.0,371
+3.31,3,Pilote en concreto de 24.2 MPa Ø= 20 cm,m,41576.0,372
+3.32,3,Pilote en concreto de 24.2 MPa Ø= 25 cm,m,67749.0,373
+3.33,3,Pilote en concreto de 24.2 MPa Ø= 30 cm,m,90270.0,374
+3.34,3,Pilote en concreto de 24.2 MPa Ø= 35 cm,m,116279.0,375
+3.35,3,Pilote en concreto de 24.2 MPa Ø= 40 cm,m,138865.0,376
+3.36,3,Pilote en concreto de 24.2 MPa Ø= 50 cm,m,197150.0,377
+3.37,3,Pilote en concreto de 24.2 MPa Ø= 60 cm,m,283754.0,378
+3.38,3,Pilote en concreto de 24.2 MPa Ø= 80 cm,m,504876.0,379
+3.39,3,Pilote en concreto de 24.2 MPa Ø= 100 cm,m,834697.0,380
+3.40,3,Pilote en concreto de 27.6 MPa Ø= 20 cm,m,42438.0,381
+3.41,3,Pilote en concreto de 27.6 MPa Ø= 25 cm,m,69168.0,382
+3.42,3,Pilote en concreto de 27.6 MPa Ø= 30 cm,m,92300.0,383
+3.43,3,Pilote en concreto de 27.6 MPa Ø= 35 cm,m,119033.0,384
+3.44,3,Pilote en concreto de 27.6 MPa Ø= 40 cm,m,142453.0,385
+3.45,3,Pilote en concreto de 27.6 MPa Ø= 50 cm,m,202769.0,386
+3.46,3,Pilote en concreto de 27.6 MPa Ø= 60 cm,m,291764.0,387
+3.47,3,Pilote en concreto de 27.6 MPa Ø= 80 cm,m,519201.0,388
+3.48,3,Pilote en concreto de 27.6 MPa Ø= 100 cm,m,857199.0,389
+3.49,3,Placa de contrapiso en concreto de 20.7 MPa con dramix,m3,1247943.0,390
+3.50,3,"Placa de contrapiso en concreto de 20.7 MPa, e= 0.07 m",m2,68925.0,391
+3.51,3,"Placa de contrapiso en concreto de 20.7 MPa, e= 0.10 m",m2,99864.0,392
+3.52,3,"Placa de contrapiso en concreto de 20.7 MPa, e= 0.12 m",m2,119843.0,393
+3.53,3,"Placa de contrapiso en concreto de 20.7 MPa, e= 0.15 m",m2,149796.0,394
+3.54,3,"Placa flotante en concreto de 20.7 MPa, e= 0.30 m",m2,299420.0,395
+3.55,3,"Sobrecimiento en concreto 17.2 MPa, 0.10x0.40 cm",m,75293.0,396
+3.56,3,"Sobrecimiento en concreto 17.2 MPa, 0.12x0.40 cm",m,90746.0,397
+3.57,3,"Sobrecimiento en concreto 17.2 MPa, 0.15x0.40 cm",m,113207.0,398
+3.58,3,Solado en concreto de 11.7 MPa,m3,559641.0,399
+3.59,3,Solado en concreto de 13.8 MPa,m3,577299.0,400
+3.60,3,Solado en concreto de 17.2 MPa,m3,615637.0,401
+3.61,3,Viga cimentación en concreto de 20.7 MPa,m3,878519.0,402
+3.62,3,"Viga cimentación en concreto de 20.7 MPa, 0.30x0.30 m",m,79059.0,403
+3.63,3,"Viga cimentación en concreto de 20.7 MPa, 0.30x0.35 m",m,92238.0,404
+3.64,3,"Viga cimentación en concreto de 20.7 MPa, 0.40x0.30 m",m,105176.0,405
+3.65,3,Viga cimentación en concreto de 24.2 MPa,m3,915252.0,406
+3.66,3,"Viga cimentación en concreto de 24.2 MPa, 0.30x0.30 m",m,82365.0,407
+3.67,3,"Viga cimentación en concreto de 24.2 MPa, 0.30x0.35 m",m,96095.0,408
+3.68,3,"Viga cimentación en concreto de 24.2 MPa, 0.40x0.30 m",m,109573.0,409
+3.69,3,Viga cimentación en concreto de 27.6 MPa,m3,943902.0,410
+3.70,3,"Viga cimentación en concreto de 27.6 MPa, 0.30x0.30 m",m,84944.0,411
+3.71,3,"Viga cimentación en concreto de 27.6 MPa, 0.30x0.35 m",m,99104.0,412
+3.72,3,"Viga cimentación en concreto de 27.6 MPa, 0.40x0.30 m",m,113003.0,413
+3.73,3,Viga en Tee invertida en concreto de 20.7 MPa,m3,1078725.0,414
+3.74,3,Viga en Tee invertida en concreto de 24.2 MPa,m3,1115459.0,415
+3.75,3,Viga en Tee invertida en concreto de 27.6 MPa,m3,1144109.0,416
+3.76,3,Zapata en concreto de 20.7 MPa,m3,806400.0,417
+3.77,3,Zapata en concreto de 24.2 MPa,m3,843134.0,418
+3.78,3,Zapata en concreto de 27.6 MPa,m3,871783.0,419
+3.79,3,Zarpa en concreto ciclópeo de 20.7 MPa,m3,578667.0,420
+4.01,4,Acero de refuerzo Fy= 240 MPa,Kg,7373.0,421
+4.02,4,Acero de refuerzo Fy= 420 MPa,Kg,7785.0,422
+4.03,4,"Anclaje para varilla de acero Ø= 3/8"" L= 10-15 cm",Un,15304.0,423
+4.04,4,"Anclaje para varilla de acero Ø= 1/2"" L= 10-15 cm",Un,22798.0,424
+4.05,4,"Anclaje para varilla de acero Ø= 5/8"" L= 10-15 cm",Un,30246.0,425
+4.06,4,"Anclaje para varilla de acero Ø= 3/4"" L= 16-20 cm",Un,33970.0,426
+4.07,4,"Anclaje para varilla de acero Ø= 7/8"" L= 21-25 cm",Un,47027.0,427
+4.08,4,"Anclaje para varilla de acero Ø= 1"" L= 21-25 cm",Un,56360.0,428
+4.09,4,"Apoyo de neopreno dureza 50, e= 3/4""",m2,4193467.0,429
+4.10,4,"Apoyo de neopreno dureza 60, e= 1 ¼""",m2,5618056.0,430
+4.11,4,"Apoyo de neopreno dureza 75, e= 1/4""",m2,648430.0,431
+4.12,4,Columna circular en concreto de 20.7 MPa Ø= 0.25 m,m,150636.0,432
+4.13,4,Columna circular en concreto de 20.7 MPa Ø= 0.30 m,m,173814.0,433
+4.14,4,Columna circular en concreto de 20.7 MPa Ø= 0.40 m,m,244700.0,434
+4.15,4,Columna circular en concreto de 20.7 MPa Ø= 0.50 m,m,337806.0,435
+4.16,4,Columna circular en concreto de 20.7 MPa Ø= 0.60 m,m,452011.0,436
+4.17,4,Columna circular en concreto de 24.2 MPa Ø= 0.25 m,m,152490.0,437
+4.18,4,Columna circular en concreto de 24.2 MPa Ø= 0.30 m,m,176417.0,438
+4.19,4,Columna circular en concreto de 24.2 MPa Ø= 0.40 m,m,249336.0,439
+4.20,4,Columna circular en concreto de 24.2 MPa Ø= 0.50 m,m,345010.0,440
+4.21,4,Columna circular en concreto de 24.2 MPa Ø= 0.60 m,m,462389.0,441
+4.22,4,Columna circular en concreto de 27.6 MPa Ø= 0.25 m,m,153937.0,442
+4.23,4,Columna circular en concreto de 27.6 MPa Ø= 0.30 m,m,178448.0,443
+4.24,4,Columna circular en concreto de 27.6 MPa Ø= 0.40 m,m,252952.0,444
+4.25,4,Columna circular en concreto de 27.6 MPa Ø= 0.50 m,m,350628.0,445
+4.26,4,Columna circular en concreto de 27.6 MPa Ø= 0.60 m,m,470483.0,446
+4.27,4,Columna de amarre 15x20 cm de 20.7 MPa (incl refuerzo),m,91417.0,447
+4.28,4,Columna de amarre 15x30 cm de 20.7 MPa (incl refuerzo),m,137125.0,448
+4.29,4,Columna en concreto de 20.7 MPa,m3,1300405.0,449
+4.30,4,"Columna en concreto de 20.7 MPa, 0.25x0.25 m",m,159821.0,450
+4.31,4,"Columna en concreto de 20.7 MPa, 0.25x0.30 m",m,184666.0,451
+4.32,4,"Columna en concreto de 20.7 MPa, 0.30x0.30 m",m,193008.0,452
+4.33,4,"Columna en concreto de 20.7 MPa, 0.30x0.60 m",m,320611.0,453
+4.34,4,"Columna en concreto de 20.7 MPa, 0.35x0.35 m",m,233251.0,454
+4.35,4,"Columna en concreto de 20.7 MPa, 0.35x0.40 m",m,266175.0,455
+4.36,4,"Columna en concreto de 20.7 MPa, 0.35x0.50 m",m,311273.0,456
+4.37,4,"Columna en concreto de 20.7 MPa, 0.40x0.40 m",m,277125.0,457
+4.38,4,"Columna en concreto de 20.7 MPa, 0.40x0.50 m",m,324830.0,458
+4.39,4,"Columna en concreto de 20.7 MPa, 0.40x0.60 m",m,372568.0,459
+4.40,4,"Columna en concreto de 20.7 MPa, 0.45x0.50 m",m,371106.0,460
+4.41,4,"Columna en concreto de 20.7 MPa, 0.50x0.50 m",m,384663.0,461
+4.42,4,"Columna en concreto de 20.7 MPa, 0.50x0.60 m",m,443697.0,462
+4.43,4,"Columna en concreto de 20.7 MPa, 0.60x0.60 m",m,514834.0,463
+4.44,4,Columna en concreto de 24.2 MPa,m3,1337139.0,464
+4.45,4,"Columna en concreto de 24.2 MPa, 0.25x0.25 m",m,162139.0,465
+4.46,4,"Columna en concreto de 24.2 MPa, 0.25x0.30 m",m,187412.0,466
+4.47,4,"Columna en concreto de 24.2 MPa, 0.30x0.30 m",m,196325.0,467
+4.48,4,"Columna en concreto de 24.2 MPa, 0.30x0.60 m",m,327223.0,468
+4.49,4,"Columna en concreto de 24.2 MPa, 0.35x0.35 m",m,237751.0,469
+4.50,4,"Columna en concreto de 24.2 MPa, 0.35x0.40 m",m,271310.0,470
+4.51,4,"Columna en concreto de 24.2 MPa, 0.35x0.50 m",m,317692.0,471
+4.52,4,"Columna en concreto de 24.2 MPa, 0.40x0.40 m",m,283009.0,472
+4.53,4,"Columna en concreto de 24.2 MPa, 0.40x0.50 m",m,332176.0,473
+4.54,4,"Columna en concreto de 24.2 MPa, 0.40x0.60 m",m,381377.0,474
+4.55,4,"Columna en concreto de 24.2 MPa, 0.45x0.50 m",m,379380.0,475
+4.56,4,"Columna en concreto de 24.2 MPa, 0.50x0.50 m",m,393864.0,476
+4.57,4,"Columna en concreto de 24.2 MPa, 0.50x0.60 m",m,454718.0,477
+4.58,4,"Columna en concreto de 24.2 MPa, 0.60x0.60 m",m,528065.0,478
+4.59,4,Columna en concreto de 27.6 MPa,m3,1365788.0,479
+4.60,4,"Columna en concreto de 27.6 MPa, 0.25x0.25 m",m,163947.0,480
+4.61,4,"Columna en concreto de 27.6 MPa, 0.25x0.30 m",m,189553.0,481
+4.62,4,"Columna en concreto de 27.6 MPa, 0.30x0.30 m",m,198912.0,482
+4.63,4,"Columna en concreto de 27.6 MPa, 0.30x0.60 m",m,332380.0,483
+4.64,4,"Columna en concreto de 27.6 MPa, 0.35x0.35 m",m,241262.0,484
+4.65,4,"Columna en concreto de 27.6 MPa, 0.35x0.40 m",m,275316.0,485
+4.66,4,"Columna en concreto de 27.6 MPa, 0.35x0.50 m",m,322699.0,486
+4.67,4,"Columna en concreto de 27.6 MPa, 0.40x0.40 m",m,287599.0,487
+4.68,4,"Columna en concreto de 27.6 MPa, 0.40x0.50 m",m,337906.0,488
+4.69,4,"Columna en concreto de 27.6 MPa, 0.40x0.60 m",m,388247.0,489
+4.70,4,"Columna en concreto de 27.6 MPa, 0.45x0.50 m",m,385833.0,490
+4.71,4,"Columna en concreto de 27.6 MPa, 0.50x0.50 m",m,401040.0,491
+4.72,4,"Columna en concreto de 27.6 MPa, 0.50x0.60 m",m,463312.0,492
+4.73,4,"Columna en concreto de 27.6 MPa, 0.60x0.60 m",m,538385.0,493
+4.74,4,Dintel 12x15 cm concreto de 20.7 MPa (incl. refuerzo),m,50436.0,494
+4.75,4,Escalera en concreto de 20.7 MPa,m3,1961302.0,495
+4.76,4,"Escalera en concreto de 20.7 MPa, e= 0.15 m",m2,542909.0,496
+4.77,4,Junta en icopor e= 2.0 cm,m2,15757.0,497
+4.78,4,Junta en icopor e= 4.5 cm,m2,25108.0,498
+4.79,4,Malla electrosoldada 4.0 mm 25x25 cm (050),m2,12470.0,499
+4.80,4,Malla electrosoldada 4.0 mm 20x20 cm (063),m2,14200.0,500
+4.81,4,Malla electrosoldada 4.0 mm 15x15 cm (084),m2,17339.0,501
+4.82,4,Malla electrosoldada 4.5 mm 15x15 cm (106),m2,20715.0,502
+4.83,4,Malla electrosoldada 5.0 mm 15x15 cm (131),m2,24984.0,503
+4.84,4,Malla electrosoldada 5.5 mm 15x15 cm (159),m2,29105.0,504
+4.85,4,Malla electrosoldada 6.0 mm 15x15 cm (188),m2,33533.0,505
+4.86,4,Malla electrosoldada 6.5 mm 15x15 cm (221),m2,38504.0,506
+4.87,4,Malla electrosoldada 7.0 mm 15x15 cm (257),m2,44339.0,507
+4.88,4,Malla electrosoldada 7.5 mm 15x15 cm (295),m2,50011.0,508
+4.89,4,Malla electrosoldada 8.0 mm 15x15 cm (335),m2,56230.0,509
+4.90,4,Malla electrosoldada 8.5 mm 15x15 cm (378),m2,62588.0,510
+4.91,4,Muro en concreto de 20.7 MPa e= 0.10 m (Formaleta Met),m2,195265.0,511
+4.92,4,Muro en concreto de 20.7 MPa e= 0.10 m (Formaleta T),m2,241426.0,512
+4.93,4,Muro en concreto de 20.7 MPa e= 0.12 m (Formaleta Met),m2,234318.0,513
+4.94,4,Muro en concreto de 20.7 MPa e= 0.12 m (Formaleta T),m2,289711.0,514
+4.95,4,Muro en concreto de 20.7 MPa e= 0.15 m (Formaleta Met),m2,258976.0,515
+4.96,4,Muro en concreto de 20.7 MPa e= 0.20 m (Formaleta Met),m2,345302.0,516
+4.97,4,Muro en concreto de 20.7 MPa e= 0.25 m (Formaleta Met),m2,420343.0,517
+4.98,4,Muro en concreto de 24.2 MPa e= 0.10 m (Formaleta Met),m2,198939.0,518
+4.99,4,Muro en concreto de 24.2 MPa e= 0.10 m (Formaleta T),m2,245099.0,519
+4.100,4,Muro en concreto de 24.2 MPa e= 0.12 m (Formaleta Met),m2,238726.0,520
+4.101,4,Muro en concreto de 24.2 MPa e= 0.12 m (Formaleta T),m2,294119.0,521
+4.102,4,Muro en concreto de 24.2 MPa e= 0.15 m (Formaleta Met),m2,264486.0,522
+4.103,4,Muro en concreto de 24.2 MPa e= 0.20 m (Formaleta Met),m2,352648.0,523
+4.104,4,Muro en concreto de 24.2 MPa e= 0.25 m (Formaleta Met),m2,429526.0,524
+4.105,4,Muro en concreto de 27.6 MPa e= 0.10 m (Formaleta Met),m2,201804.0,525
+4.106,4,Muro en concreto de 27.6 MPa e= 0.10 m (Formaleta T),m2,247964.0,526
+4.107,4,Muro en concreto de 27.6 MPa e= 0.12 m (Formaleta Met),m2,242164.0,527
+4.108,4,Muro en concreto de 27.6 MPa e= 0.12 m (Formaleta T),m2,297557.0,528
+4.109,4,Muro en concreto de 27.6 MPa e= 0.15 m (Formaleta Met),m2,268784.0,529
+4.110,4,Muro en concreto de 27.6 MPa e= 0.20 m (Formaleta Met),m2,358378.0,530
+4.111,4,Muro en concreto de 27.6 MPa e= 0.25 m (Formaleta Met),m2,436689.0,531
+4.112,4,Muro/ Pantalla en concreto de 20.7 MPa (Sistema Forsa),m3,1213638.0,532
+4.113,4,Muro/ Pantalla en concreto de 24.2 MPa (Sistema Forsa),m3,1234654.0,533
+4.114,4,Muro/ Pantalla en concreto de 27.6 MPa (Sistema Forsa),m3,1256406.0,534
+4.115,4,"Placa aligerada con bloque No. 5, 20.7 MPa, e= 0.15 m",m2,165965.0,535
+4.116,4,"Placa aligerada con bloquelón, concreto de 20.7 MPa",m2,197734.0,536
+4.117,4,"Placa aligerada con esterilla, 20.7 MPa, e= 0.30 m",m2,266708.0,537
+4.118,4,"Placa aligerada con esterilla, 20.7 MPa, e= 0.40 m",m2,331638.0,538
+4.119,4,"Placa aligerada con esterilla, 20.7 MPa, e= 0.45 m",m2,362719.0,539
+4.120,4,"Placa aligerada con esterilla, 20.7 MPa, e= 0.50 m",m2,393055.0,540
+4.121,4,"Placa aligerada con icopor, 20.7 MPa, e= 0.30 m",m2,265520.0,541
+4.122,4,"Placa aligerada con icopor, 20.7 MPa, e= 0.40 m",m2,336756.0,542
+4.123,4,"Placa aligerada con icopor, 20.7 MPa, e= 0.45 m",m2,369929.0,543
+4.124,4,"Placa aligerada con icopor, 20.7 MPa, e= 0.50 m",m2,402286.0,544
+4.125,4,"Placa aligerada con ladrillo, 20.7 MPa, e= 0.15 m",m2,168257.0,545
+4.126,4,"Placa aligerada con madera, 20.7 MPa, e= 0.30 m",m2,261802.0,546
+4.127,4,"Placa aligerada con madera, 20.7 MPa, e= 0.40 m",m2,322398.0,547
+4.128,4,"Placa aligerada con madera, 20.7 MPa, e= 0.45 m",m2,351764.0,548
+4.129,4,"Placa aligerada con madera, 20.7 MPa, e= 0.50 m",m2,380408.0,549
+4.130,4,"Placa deck steel 2"" Cal. 22, concreto de 20.7 MPa",m2,217482.0,550
+4.131,4,"Placa deck steel 3"" Cal. 22, concreto de 20.7 MPa",m2,232250.0,551
+4.132,4,Placa en concreto de 20.7 MPa (Sistema Forsa),m3,1239526.0,552
+4.133,4,"Placa en metaldeck de 2"" Cal. 22, concreto de 20.7 MPa",m2,208724.0,553
+4.134,4,"Placa en metaldeck de 3"" Cal. 22, concreto de 20.7 MPa",m2,217928.0,554
+4.135,4,"Placa maciza/ losa en concreto de 20.7 MPa, e= 0.10 m",m2,138603.0,555
+4.136,4,"Placa maciza/ losa en concreto de 20.7 MPa, e= 0.12 m",m2,166306.0,556
+4.137,4,"Placa maciza/ losa en concreto de 20.7 MPa, e= 0.15 m",m2,190944.0,557
+4.138,4,"Placa maciza/ losa en concreto de 20.7 MPa, e= 0.20 m",m2,234171.0,558
+4.139,4,Protección de edificios con polisombra de 35%,m2,4666.0,559
+4.140,4,Protección de edificios con polisombra de 80%,m2,5007.0,560
+4.141,4,Reparación estructura de concreto con Sikatop 122,m2,117429.0,561
+4.142,4,Sellado fisura estructura de concreto con Sikadur 52,Kg,211679.0,562
+4.143,4,Sillar en concreto con cortagoteras (incl. refuerzo),m,54675.0,563
+4.144,4,Suministro y aplicación de Sikadur 32 Primer,m2,108008.0,564
+4.145,4,"Viga canal en concreto de 20.7 MPa sección < 2,001 cm²",m,335028.0,565
+4.146,4,"Viga canal en concreto de 24.2 MPa sección < 2,001 cm²",m,343922.0,566
+4.147,4,"Viga canal en concreto de 27.6 MPa sección < 2,001 cm²",m,350995.0,567
+4.148,4,Viga cinta 15x10 cm concreto 20.7 MPa (incl. refuerzo),m,49018.0,568
+4.149,4,Viga de amarre 15x20 cm de 20.7 MPa (incl. refuerzo),m,105322.0,569
+4.150,4,Viga de amarre 15x30 cm de 20.7 MPa (incl. refuerzo),m,157984.0,570
+4.151,4,Viga en concreto de 20.7 MPa,m3,1186837.0,571
+4.152,4,"Viga en concreto de 20.7 MPa, 0.25x0.25 m",m,94484.0,572
+4.153,4,"Viga en concreto de 20.7 MPa, 0.25x0.30 m",m,113400.0,573
+4.154,4,"Viga en concreto de 20.7 MPa, 0.25x0.35 m",m,132303.0,574
+4.155,4,"Viga en concreto de 20.7 MPa, 0.25x0.40 m",m,151197.0,575
+4.156,4,"Viga en concreto de 20.7 MPa, 0.30x0.30 m",m,136076.0,576
+4.157,4,"Viga en concreto de 20.7 MPa, 0.30x0.35 m",m,158789.0,577
+4.158,4,"Viga en concreto de 20.7 MPa, 0.30x0.40 m",m,181406.0,578
+4.159,4,"Viga en concreto de 20.7 MPa, 0.30x0.50 m",m,226741.0,579
+4.160,4,"Viga en concreto de 20.7 MPa, 0.35x0.35 m",m,185183.0,580
+4.161,4,"Viga en concreto de 20.7 MPa, 0.40x0.40 m",m,241862.0,581
+4.162,4,"Viga en concreto de 20.7 MPa, 0.40x0.50 m",m,302361.0,582
+4.163,4,Viga en concreto de 24.2 MPa,m3,1223571.0,583
+4.164,4,"Viga en concreto de 24.2 MPa, 0.25x0.25 m",m,96781.0,584
+4.165,4,"Viga en concreto de 24.2 MPa, 0.25x0.30 m",m,116157.0,585
+4.166,4,"Viga en concreto de 24.2 MPa, 0.25x0.35 m",m,135520.0,586
+4.167,4,"Viga en concreto de 24.2 MPa, 0.25x0.40 m",m,154870.0,587
+4.168,4,"Viga en concreto de 24.2 MPa, 0.30x0.30 m",m,139382.0,588
+4.169,4,"Viga en concreto de 24.2 MPa, 0.30x0.35 m",m,162648.0,589
+4.170,4,"Viga en concreto de 24.2 MPa, 0.30x0.40 m",m,185814.0,590
+4.171,4,"Viga en concreto de 24.2 MPa, 0.30x0.50 m",m,232251.0,591
+4.172,4,"Viga en concreto de 24.2 MPa, 0.35x0.35 m",m,189683.0,592
+4.173,4,"Viga en concreto de 24.2 MPa, 0.40x0.40 m",m,247740.0,593
+4.174,4,"Viga en concreto de 24.2 MPa, 0.40x0.50 m",m,309708.0,594
+4.175,4,Viga en concreto de 27.6 MPa,m3,1252220.0,595
+4.176,4,"Viga en concreto de 27.6 MPa, 0.25x0.25 m",m,98572.0,596
+4.177,4,"Viga en concreto de 27.6 MPa, 0.25x0.30 m",m,118307.0,597
+4.178,4,"Viga en concreto de 27.6 MPa, 0.25x0.35 m",m,138028.0,598
+4.179,4,"Viga en concreto de 27.6 MPa, 0.25x0.40 m",m,157735.0,599
+4.180,4,"Viga en concreto de 27.6 MPa, 0.30x0.30 m",m,141960.0,600
+4.181,4,"Viga en concreto de 27.6 MPa, 0.30x0.35 m",m,165658.0,601
+4.182,4,"Viga en concreto de 27.6 MPa, 0.30x0.40 m",m,189252.0,602
+4.183,4,"Viga en concreto de 27.6 MPa, 0.30x0.50 m",m,236549.0,603
+4.184,4,"Viga en concreto de 27.6 MPa, 0.35x0.35 m",m,193194.0,604
+4.185,4,"Viga en concreto de 27.6 MPa, 0.40x0.40 m",m,252324.0,605
+4.186,4,"Viga en concreto de 27.6 MPa, 0.40x0.50 m",m,315437.0,606
+5.01,5,Grouting de nivelación tipo SikaGrout 200,dm3,34445.0,607
+5.02,5,Grouting de nivelación tipo SikaGrout 212,dm3,27528.0,608
+5.03,5,Junta de construcción en alfajor a= 22 cm,m,242415.0,609
+5.04,5,Limpieza con chorro de arena (Sand Blasting) en superficie metálica.,m2,22649.0,610
+5.05,5,Montaje de estructura metálica (incl. pintura),Kg,11247.0,611
+5.06,5,Perfil metálico C 100x50x1.5 mm,m,42364.0,612
+5.07,5,Perfil metálico C 100x50x2.0 mm,m,54138.0,613
+5.08,5,Perfil metálico C 120x60x1.5 mm,m,52382.0,614
+5.09,5,Perfil metálico C 120x60x2.0 mm,m,66859.0,615
+5.10,5,Perfil metálico C 150x50x1.5 mm,m,50641.0,616
+5.11,5,Perfil metálico C 150x50x2.0 mm,m,66958.0,617
+5.12,5,Perfil metálico C 160x60x1.5 mm,m,60802.0,618
+5.13,5,Perfil metálico C 160x60x2.0 mm,m,81575.0,619
+5.14,5,Perfil metálico C 200x50x2.0 mm,m,84263.0,620
+5.15,5,Perfil metálico C 220x80x1.5 mm,m,82107.0,621
+5.16,5,Perfil metálico C 300x65x2.0 mm,m,124677.0,622
+5.17,5,Perfil metálico C 350x85x3.0 mm,m,202003.0,623
+5.18,5,Perfil metálico C 355x110x3.0 mm,m,243611.0,624
+5.19,5,Perfil metálico en cajón C 100x50x1.5 mm,m,84728.0,625
+5.20,5,Perfil metálico en cajón C 100x50x2.0 mm,m,108276.0,626
+5.21,5,Perfil metálico en cajón C 120x60x1.5 mm,m,104765.0,627
+5.22,5,Perfil metálico en cajón C 120x60x2.0 mm,m,133718.0,628
+5.23,5,Perfil metálico en cajón C 150x50x1.5 mm,m,101282.0,629
+5.24,5,Perfil metálico en cajón C 150x50x2.0 mm,m,133917.0,630
+5.25,5,Perfil metálico en cajón C 160x60x1.5 mm,m,121605.0,631
+5.26,5,Perfil metálico en cajón C 160x60x2.0 mm,m,163149.0,632
+5.27,5,Perfil metálico en cajón C 200x50x2.0 mm,m,168525.0,633
+5.28,5,Sandblasting y pintura de estructura metálica,Kg,3119.0,634
+5.29,5,Sumin. e Instal. estructura metálica (incl. pintura),Kg,18365.0,635
+5.30,5,"Sumin. e Instal. riostra en Ø= 1/2"" (incl. pintura)",m,15866.0,636
+5.31,5,"Sumin. e Instal. templete en Ø= 3/8"" (incl. pintura)",m,8844.0,637
+6.01,6,Afinado de cubierta plana en mortero imperm. e= 6 cm,m2,65411.0,638
+6.02,6,Alfajía/ lagrimal en concreto (incl. refuerzo),m,99409.0,639
+6.03,6,Alfajía/ lagrimal en lámina galv. Cal. 22 S= 30 cm,m,40289.0,640
+6.04,6,Bajante pvc amazona,m,75869.0,641
+6.05,6,Caballete en teja colonial,m,86705.0,642
+6.06,6,Caballete en teja ondulada P7,m,73556.0,643
+6.07,6,Caballete en teja termoacústica,m,124576.0,644
+6.08,6,Cadena galvanizada para bajante de aguas lluvias,m,15366.0,645
+6.09,6,Canal en lámina galvanizada Cal. 20 S= 50 cm,m,127603.0,646
+6.10,6,Canal en lámina galvanizada Cal. 22 S= 50 cm,m,121511.0,647
+6.11,6,Canal pvc amazona,m,102432.0,648
+6.12,6,Claraboya colonial L= 1.60 m (incl. vidrio),Un,236783.0,649
+6.13,6,Claraboya No. 4 P7 (incl. vidrio),Un,115251.0,650
+6.14,6,Claraboya No. 6 P7 (incl. vidrio),Un,154474.0,651
+6.15,6,Cubierta Arquitectónica Acesco,m2,67957.0,652
+6.16,6,Cubierta Corpatecho Corpacero Cal. 26,m2,85588.0,653
+6.17,6,Cubierta en madera y paja vende aguja,m2,599921.0,654
+6.18,6,Cubierta en panel de Aluzinc Cal. 26 tipo Sandwich,m2,309090.0,655
+6.19,6,Cubierta en policarbonato alveolar de 4 mm,m2,83094.0,656
+6.20,6,Cubierta en policarbonato alveolar de 6 mm,m2,83094.0,657
+6.21,6,Cubierta en teja Techoline,m2,76485.0,658
+6.22,6,Cubierta Sandwich Deck tipo C Hunter Douglas con aislamiento en poliuretano.,m2,438360.0,659
+6.23,6,Cubierta Sandwich Deck tipo C Hunter Douglas con aislamiento en poliuretano y fibra de vidrio.,m2,522094.0,660
+6.24,6,Cubierta sencilla tipo C Hunter Douglas,m2,224691.0,661
+6.25,6,"Cubierta Standing Seam Cal. 24 x 1.5""",m2,125331.0,662
+6.26,6,"Cubierta Standing Seam Cal. 28 x 1.5"" tipo Sandwich con aislamiento en poliuretano.",m2,260480.0,663
+6.27,6,"Cubierta Standing Seam Cal. 28 x 1.5"" tipo Sandwich con aislamiento en poliuretano y fibra de vidrio.",m2,344214.0,664
+6.28,6,Entramado en madera para teja colonial de 1.60 m,m2,64203.0,665
+6.29,6,Entramado en madera para teja No. 4,m2,52158.0,666
+6.30,6,Entramado en madera para teja No. 6,m2,34639.0,667
+6.31,6,Estructura perlín en C para teja No. 4,m2,66736.0,668
+6.32,6,Estructura perlín en C para teja No. 6,m2,41312.0,669
+6.33,6,Flanche con cinta Sika MultiSeal a= 10 cm,m,27120.0,670
+6.34,6,Flanche con cinta Sika MultiSeal a= 15 cm,m,35852.0,671
+6.35,6,Flanche en lámina galvanizada Cal. 26,m,32002.0,672
+6.36,6,Impermeabilización de cubierta con SikaFill Power 12,m2,39230.0,673
+6.37,6,Marquesina en lámina y vidrio,m2,98110.0,674
+6.38,6,Recorrido de canales,m,12593.0,675
+6.39,6,Recorrido de techos en teja ondulada,m2,22840.0,676
+6.40,6,Recorrido de techos en teja colonial,m2,12299.0,677
+6.41,6,Reparación de fisura en teja o lámina de fibrocemento,m,65237.0,678
+6.42,6,Techo en teja asfáltica,m2,44948.0,679
+6.43,6,Techo en teja de barro 30x15 cm sobre madera y mortero,m2,220090.0,680
+6.44,6,Techo en teja de barro 40x24 cm sobre madera e icopor,m2,188325.0,681
+6.45,6,Techo en teja de barro 40x24 cm sobre madera y mortero,m2,164802.0,682
+6.46,6,Techo en teja de zinc,m2,72358.0,683
+6.47,6,Teja ajover traslucida,m2,86289.0,684
+6.48,6,Teja canaleta 43,m2,163588.0,685
+6.49,6,Teja canaleta 90,m2,92439.0,686
+6.50,6,Teja colonial de 1.60 m,m2,111132.0,687
+6.51,6,Teja ondulada No. 4 P7,m2,74658.0,688
+6.52,6,Teja ondulada No. 6 P7,m2,70166.0,689
+6.53,6,Teja Shingle,m2,174436.0,690
+6.54,6,Teja termoacústica,m2,110725.0,691
+6.55,6,Teja transparente policarbonato No. 4,m2,137816.0,692
+6.56,6,Teja transparente policarbonato No. 6,m2,130858.0,693
+6.57,6,Teja UPVC 2.0 mm,m2,85974.0,694
+7.01,7,"Arco muro ladrillo en soga 6x12x24 cm, Ø= 2.00 m",Un,278979.0,695
+7.02,7,Calados en cemento e= 10 cm,m2,137238.0,696
+7.03,7,Calados en grés e= 10 cm,m2,91739.0,697
+7.04,7,"Cenefa ladrillo en soga 6x12x24 cm, 2 hiladas",m,54708.0,698
+7.05,7,Dovela con grouting 17.2 MPa para muros,m3,822790.0,699
+7.06,7,Dovela con grouting 20.7 MPa para muros,m3,846168.0,700
+7.07,7,"Enchape o revestimiento de muro en drywall de 1/2""",m2,57151.0,701
+7.08,7,Enchape o revestimiento de muro en fachaleta ladrillo,m2,73042.0,702
+7.09,7,Enchape o revestimiento de muro en superboard de 10 mm,m2,74255.0,703
+7.10,7,Mesón en granito pulido,m2,373853.0,704
+7.11,7,Mesón en mármol negro San Gil,m2,263721.0,705
+7.12,7,Mesón en Quarztone blanco polar,m2,795040.0,706
+7.13,7,Muro de bahareque,m2,130436.0,707
+7.14,7,Muro en adobe e= 20 cm,m2,102170.0,708
+7.15,7,Muro en bloque de cemento e= 10 cm,m2,82300.0,709
+7.16,7,Muro en bloque de cemento e= 12 cm,m2,101652.0,710
+7.17,7,Muro en bloque de cemento e= 15 cm,m2,117949.0,711
+7.18,7,Muro en bloque de cemento e= 20 cm,m2,157579.0,712
+7.19,7,Muro en bloque de cemento split e= 15 cm,m2,154899.0,713
+7.20,7,"Muro en bloque e= 15 cm, refuerzo y grouting 17.2 MPa",m2,273279.0,714
+7.21,7,"Muro en bloque e= 20 cm, refuerzo y grouting 17.2 MPa",m2,338377.0,715
+7.22,7,Muro en bloque No. 4 e= 10 cm,m2,63056.0,716
+7.23,7,Muro en bloque No. 5 e= 12 cm,m2,71450.0,717
+7.24,7,"Muro en drywall de 1/2"" (1F)",m2,77440.0,718
+7.25,7,"Muro en drywall de 1/2"" (2F)",m2,124814.0,719
+7.26,7,"Muro en drywall de 1/2"" (2F) y frescasa 3 ½"" SP",m2,152834.0,720
+7.27,7,Muro en durapanel e= 15 cm,m2,171420.0,721
+7.28,7,Muro en eterboard de 8 mm (2F),m2,150428.0,722
+7.29,7,"Muro en eterboard de 8 mm (2F) y frescasa 3 ½"" SP",m2,178187.0,723
+7.30,7,"Muro en ladrillo caravista 7x10x24 cm, e= 10 cm",m2,144391.0,724
+7.31,7,Muro en ladrillo cartagena,m2,272040.0,725
+7.32,7,Muro en ladrillo catalán e= 15 cm,m2,155737.0,726
+7.33,7,Muro en ladrillo estructural e= 12 cm,m2,122391.0,727
+7.34,7,Muro en ladrillo farol e= 10 cm,m2,61536.0,728
+7.35,7,Muro en ladrillo farol e= 12 cm,m2,74353.0,729
+7.36,7,"Muro en ladrillo prensado liviano 6x12x24 cm, e= 12 cm",m2,266098.0,730
+7.37,7,Muro en ladrillo rayado e= 10 cm,m2,57693.0,731
+7.38,7,Muro en ladrillo rayado e= 15 cm,m2,85095.0,732
+7.39,7,Muro en ladrillo Santafé e= 12 cm,m2,213772.0,733
+7.40,7,Muro en ladrillo tolete e= 12 cm,m2,144195.0,734
+7.41,7,"Muro en placa de yeso de 1/2"" (1F)",m2,76331.0,735
+7.42,7,"Muro en placa de yeso de 1/2"" (2F)",m2,122564.0,736
+7.43,7,"Muro en placa de yeso de 1/2"" (2F) y frescasa 3 ½"" SP",m2,150585.0,737
+7.44,7,Muro en superboard de 8 mm (1F),m2,87873.0,738
+7.45,7,Muro en superboard de 8 mm (2F),m2,145987.0,739
+7.46,7,"Muro en superboard de 8 mm (2F) y frescasa 3 ½"" SP",m2,174007.0,740
+7.47,7,Muro en superboard de 10 mm (1F),m2,94545.0,741
+7.48,7,Muro en superboard de 10 mm (2F),m2,159526.0,742
+7.49,7,"Muro en superboard de 10 mm (2F) y frescasa 3 ½"" SP",m2,187547.0,743
+7.50,7,Muro en tapia pisada e= 50 cm,m2,476716.0,744
+7.51,7,"Muro sobrecimiento en adobe h= 50 cm, pañete imperm.",m,82803.0,745
+7.52,7,Muro traslúcido en bloque de vidrio e= 8 cm,m2,525556.0,746
+7.53,7,"Relleno con Sika Boom a= 10 cm, e= 1 cm",m,10384.0,747
+7.54,7,Revestimiento para muro en microcemento,m2,107180.0,748
+7.55,7,Sellado de dilatación con Sikaflex 1A,m,27989.0,749
+7.56,7,Varilla grafilada de 4 mm,m,769.0,750
+7.57,7,Varilla grafilada de 5 mm,m,1109.0,751
+8.01,8,Argamasa con masilla estuco,m2,33181.0,752
+8.02,8,Cortagotera pañete fileteado,m,22371.0,753
+8.03,8,Pañete de bajantes (incl. malla con vena),m,44774.0,754
+8.04,8,Pañete de cielo raso,m2,43624.0,755
+8.05,8,Pañete de cielo raso impermeabilizado,m2,50757.0,756
+8.06,8,Pañete de filos y dilataciones,m,16675.0,757
+8.07,8,Pañete muro exterior impermeabilizado (incl. filos y dilataciones),m2,53852.0,758
+8.08,8,Pañete muro exterior (incl. filos y dilataciones),m2,46720.0,759
+8.09,8,Pañete muro impermeabil. (incl. filos y dilataciones),m2,42250.0,760
+8.10,8,Pañete muro (incl. filos y dilataciones),m2,36497.0,761
+9.01,9,"Abrazadera colgante metálica tipo pera Ø= 1 ¼""",Un,20885.0,762
+9.02,9,"Abrazadera colgante metálica tipo pera Ø= 1 ½""",Un,21429.0,763
+9.03,9,"Abrazadera colgante metálica tipo pera Ø= 2""",Un,21998.0,764
+9.04,9,"Abrazadera colgante metálica tipo pera Ø= 2 ½""",Un,23798.0,765
+9.05,9,"Abrazadera colgante metálica tipo pera Ø= 3""",Un,32876.0,766
+9.06,9,"Abrazadera colgante metálica tipo pera Ø= 4""",Un,34046.0,767
+9.07,9,"Adaptador sanitario de limpieza pvc 2""",Un,27795.0,768
+9.08,9,"Adaptador sanitario de limpieza pvc 3""",Un,38993.0,769
+9.09,9,"Adaptador sanitario de limpieza pvc 4""",Un,52821.0,770
+9.10,9,"Adaptador sanitario de limpieza pvc 6""",Un,106352.0,771
+9.11,9,"Adaptador sanitario de limpieza pvc 8""",Un,1078778.0,772
+9.12,9,"Brida sanitaria pvc 4""",Un,69102.0,773
+9.13,9,Caja de inspección 50x50x50 cm en adobe,Un,403851.0,774
+9.14,9,Caja de inspección 50x50x50 cm en concreto,Un,480771.0,775
+9.15,9,Caja de inspección 60x60x60 cm en adobe,Un,512514.0,776
+9.16,9,Caja de inspección 60x60x60 cm en concreto,Un,609976.0,777
+9.17,9,Caja de inspección 80x80x80 cm en adobe,Un,693271.0,778
+9.18,9,Caja de inspección 80x80x80 cm en concreto,Un,858073.0,779
+9.19,9,Caja de inspección 100x100x100 cm en adobe,Un,946603.0,780
+9.20,9,Caja de inspección 100x100x100 cm en concreto,Un,1196803.0,781
+9.21,9,Caja de inspección 120x120x120 cm en adobe,Un,1363125.0,782
+9.22,9,Caja de inspección 120x120x120 cm en concreto,Un,1723367.0,783
+9.23,9,Caja de inspección 140x140x140 cm en adobe,Un,1855415.0,784
+9.24,9,Caja de inspección 140x140x140 cm en concreto,Un,2345664.0,785
+9.25,9,Caja/ Pozo de succión 80x80x80 cm en concreto 20.7 MPa,Un,827491.0,786
+9.26,9,"Codo sanitario pvc 1 ½"" x 45° CxC",Un,22342.0,787
+9.27,9,"Codo sanitario pvc 1 ½"" x 45° CxE",Un,22342.0,788
+9.28,9,"Codo sanitario pvc 1 ½"" x 90° CxC",Un,21719.0,789
+9.29,9,"Codo sanitario pvc 1 ½"" x 90° CxE",Un,22600.0,790
+9.30,9,"Codo sanitario pvc 2"" x 45° CxC",Un,23320.0,791
+9.31,9,"Codo sanitario pvc 2"" x 45° CxE",Un,23320.0,792
+9.32,9,"Codo sanitario pvc 2"" x 90° CxC",Un,22402.0,793
+9.33,9,"Codo sanitario pvc 2"" x 90° CxE",Un,23487.0,794
+9.34,9,"Codo sanitario pvc 3"" x 45° CxC",Un,32613.0,795
+9.35,9,"Codo sanitario pvc 3"" x 45° CxE",Un,32613.0,796
+9.36,9,"Codo sanitario pvc 3"" x 90° CxC",Un,31418.0,797
+9.37,9,"Codo sanitario pvc 3"" x 90° CxE",Un,33119.0,798
+9.38,9,"Codo sanitario pvc 4"" x 45° CxC",Un,43557.0,799
+9.39,9,"Codo sanitario pvc 4"" x 45° CxE",Un,43557.0,800
+9.40,9,"Codo sanitario pvc 4"" x 90° CxC",Un,41211.0,801
+9.41,9,"Codo sanitario pvc 4"" x 90° CxE",Un,45577.0,802
+9.42,9,"Codo sanitario pvc 6"" x 90° CxC",Un,192456.0,803
+9.43,9,"Codo sanitario pvc 8"" x 90° CxC",Un,292455.0,804
+9.44,9,Gárgola para desagüe sencilla L= 30 cm,Un,31042.0,805
+9.45,9,"Junta de expansión pvc sanitaria 3""",Un,56096.0,806
+9.46,9,"Junta de expansión pvc sanitaria 4""",Un,66022.0,807
+9.47,9,"Junta de expansión pvc sanitaria 6""",Un,126608.0,808
+9.48,9,"Punto drenaje mini split pvc 1""",Un,97877.0,809
+9.49,9,"Punto sanitario pvc de 1 ½"" (3 m)",Un,75060.0,810
+9.50,9,"Punto sanitario pvc de 2"" (3 m)",Un,93408.0,811
+9.51,9,"Punto sanitario pvc de 3"" (3 m)",Un,175818.0,812
+9.52,9,"Punto sanitario pvc de 4"" (3 m)",Un,264095.0,813
+9.53,9,"Punto sanitario pvc de 6"" (3 m)",Un,463247.0,814
+9.54,9,"Punto sanitario pvc de 8"" (3 m)",Un,814871.0,815
+9.55,9,"Sifón sanitario pvc de 2""",Un,77390.0,816
+9.56,9,"Sifón sanitario pvc de 3""",Un,113112.0,817
+9.57,9,"Sifón sanitario pvc de 4""",Un,166303.0,818
+9.58,9,"Tapón de prueba sanitario pvc 1 ½""",Un,19064.0,819
+9.59,9,"Tapón de prueba sanitario pvc 2""",Un,19469.0,820
+9.60,9,"Tapón de prueba sanitario pvc 3""",Un,22821.0,821
+9.61,9,"Tapón de prueba sanitario pvc 4""",Un,26801.0,822
+9.62,9,"Tapón de prueba sanitario pvc 6""",Un,53265.0,823
+9.63,9,"Tapón de prueba sanitario pvc 8""",Un,313895.0,824
+9.64,9,"Tee sanitaria pvc 1 ½""",Un,26034.0,825
+9.65,9,"Tee sanitaria pvc 2""",Un,27245.0,826
+9.66,9,"Tee sanitaria pvc 3""",Un,32550.0,827
+9.67,9,"Tee sanitaria pvc 4""",Un,47298.0,828
+9.68,9,"Tee sanitaria pvc 6""",Un,259274.0,829
+9.69,9,"Tee sanitaria pvc 8""",Un,643117.0,830
+9.70,9,Trampa de grasas 80x80x80 cm en concreto,Un,966879.0,831
+9.71,9,Trampa de grasas 100x100x100 cm en concreto,Un,1357943.0,832
+9.72,9,"Tubería drenaje mini split pvc 1"" (incl. accesorios)",m,25716.0,833
+9.73,9,"Tubería pvc agua lluvia Ø= 1 ½"" (incl. accesorios)",m,14602.0,834
+9.74,9,"Tubería pvc agua lluvia Ø= 2"" (incl. accesorios)",m,18715.0,835
+9.75,9,"Tubería pvc agua lluvia Ø= 3"" (incl. accesorios)",m,26937.0,836
+9.76,9,"Tubería pvc agua lluvia Ø= 4"" (incl. accesorios)",m,43973.0,837
+9.77,9,"Tubería pvc sanitaria Ø= 1 ½"" (incl. accesorios)",m,21296.0,838
+9.78,9,"Tubería pvc sanitaria Ø= 2"" (incl. accesorios)",m,25040.0,839
+9.79,9,"Tubería pvc sanitaria Ø= 3"" (incl. accesorios)",m,38295.0,840
+9.80,9,"Tubería pvc sanitaria Ø= 4"" (incl. accesorios)",m,54847.0,841
+9.81,9,"Tubería pvc sanitaria Ø= 6"" (incl. accesorios)",m,130047.0,842
+9.82,9,"Tubería pvc sanitaria Ø= 8"" (incl. accesorios)",m,232073.0,843
+9.83,9,"Tubería pvc ventilación Ø= 1 ½"" (incl. accesorios)",m,14602.0,844
+9.84,9,"Tubería pvc ventilación Ø= 2"" (incl. accesorios)",m,18715.0,845
+9.85,9,"Tubería pvc ventilación Ø= 3"" (incl. accesorios)",m,26937.0,846
+9.86,9,"Tubería pvc ventilación Ø= 4"" (incl. accesorios)",m,43973.0,847
+9.87,9,"Unión sanitaria pvc 1 ½""",Un,21027.0,848
+9.88,9,"Unión sanitaria pvc 2""",Un,21501.0,849
+9.89,9,"Unión sanitaria pvc 3""",Un,26054.0,850
+9.90,9,"Unión sanitaria pvc 4""",Un,33384.0,851
+9.91,9,"Unión sanitaria pvc 6""",Un,81188.0,852
+9.92,9,"Unión sanitaria pvc 8""",Un,175937.0,853
+9.93,9,Válvula Mini Vent,Un,175911.0,854
+9.94,9,"Yee sanitaria pvc 2""",Un,28427.0,855
+9.95,9,"Yee sanitaria pvc 3""",Un,42575.0,856
+9.96,9,"Yee sanitaria pvc 4""",Un,60635.0,857
+9.97,9,"Yee sanitaria pvc 6""",Un,214356.0,858
+9.98,9,"Yee sanitaria pvc 8""",Un,509081.0,859
+9.99,9,"Yee sanitaria pvc reducida 3"" x 2""",Un,38469.0,860
+9.100,9,"Yee sanitaria pvc reducida 4"" x 2""",Un,53406.0,861
+9.101,9,"Yee sanitaria pvc reducida 4"" x 3""",Un,55231.0,862
+9.102,9,"Yee sanitaria pvc reducida 6"" x 4""",Un,205756.0,863
+9.103,9,"Yee sanitaria pvc reducida 8"" x 4""",Un,375087.0,864
+10.01,10,"Acometida hidráulica en tubería galvanizada Ø= 1""",m,42265.0,865
+10.02,10,"Acometida hidráulica en tubería galvanizada Ø= 2""",m,73840.0,866
+10.03,10,"Acometida hidráulica en tubería galvanizada Ø= 3""",m,133408.0,867
+10.04,10,"Acometida hidráulica en tubería galvanizada Ø= 4""",m,199423.0,868
+10.05,10,"Acometida hidráulica en tubería pvc Ø= 1/2""",m,10538.0,869
+10.06,10,"Acometida hidráulica en tubería pvc Ø= 3/4""",m,11709.0,870
+10.07,10,"Acometida hidráulica en tubería pvc Ø= 1""",m,15291.0,871
+10.08,10,"Acometida hidráulica en tubería pvc Ø= 1 ½""",m,27480.0,872
+10.09,10,"Acometida hidráulica en tubería pvc Ø= 2""",m,39448.0,873
+10.10,10,"Acometida hidráulica en tubería pvc Ø= 3""",m,75011.0,874
+10.11,10,"Acometida hidráulica en tubería pvc Ø= 4""",m,118962.0,875
+10.12,10,"Acople sanitario de acero 1/2""",Un,38647.0,876
+10.13,10,"Acople sanitario plástico 1/2""",Un,20647.0,877
+10.14,10,"Brida ajustable cpvc SCH 80 1 1/2""",Un,104064.0,878
+10.15,10,"Brida ajustable cpvc SCH 80 2""",Un,158079.0,879
+10.16,10,"Brida ajustable pvc SCH 80 1 1/2""",Un,49406.0,880
+10.17,10,"Brida ajustable pvc SCH 80 2""",Un,76590.0,881
+10.18,10,"Brida ajustable pvc SCH 80 3""",Un,92384.0,882
+10.19,10,"Brida ajustable pvc SCH 80 4""",Un,123955.0,883
+10.20,10,Caja medidor de agua,Un,164341.0,884
+10.21,10,"Cámara de aire en tubería pvc Ø= 1/2""",Un,33938.0,885
+10.22,10,"Cámara de aire en tubería pvc Ø= 3/4""",Un,38810.0,886
+10.23,10,"Cámara de aire en tubería pvc Ø= 1""",Un,45431.0,887
+10.24,10,"Cheque cortina hierro Ø= 6""",Un,3285548.0,888
+10.25,10,"Cheque cortina sello metálico Ø= 1/2""",Un,94777.0,889
+10.26,10,"Cheque cortina sello metálico Ø= 3/4""",Un,137834.0,890
+10.27,10,"Cheque cortina sello metálico Ø= 1""",Un,201623.0,891
+10.28,10,"Cheque cortina sello metálico Ø= 1 ¼""",Un,360193.0,892
+10.29,10,"Cheque cortina sello metálico Ø= 1 ½""",Un,443201.0,893
+10.30,10,"Cheque cortina sello metálico Ø= 2""",Un,610929.0,894
+10.31,10,"Cheque cortina sello metálico Ø= 2 ½""",Un,1170802.0,895
+10.32,10,"Cheque cortina sello metálico Ø= 3""",Un,1826615.0,896
+10.33,10,"Cheque cortina sello metálico Ø= 4""",Un,3281089.0,897
+10.34,10,"Codo presión cpvc 1/2""",Un,11348.0,898
+10.35,10,"Codo presión cpvc 1/2"" x 45°",Un,11348.0,899
+10.36,10,"Codo presión cpvc 3/4""",Un,13138.0,900
+10.37,10,"Codo presión cpvc 3/4"" x 45°",Un,13138.0,901
+10.38,10,"Codo presión cpvc 1""",Un,21820.0,902
+10.39,10,"Codo presión cpvc SCH 80 1/2""",Un,24466.0,903
+10.40,10,"Codo presión cpvc SCH 80 3/4""",Un,26904.0,904
+10.41,10,"Codo presión cpvc SCH 80 1""",Un,40403.0,905
+10.42,10,"Codo presión pvc 1/2""",Un,9983.0,906
+10.43,10,"Codo presión pvc 1/2"" x 45°",Un,10571.0,907
+10.44,10,"Codo presión pvc 3/4""",Un,10527.0,908
+10.45,10,"Codo presión pvc 3/4"" x 45°",Un,11467.0,909
+10.46,10,"Codo presión pvc 1""",Un,19824.0,910
+10.47,10,"Codo presión pvc 1"" x 45°",Un,21540.0,911
+10.48,10,"Codo presión pvc 1 ¼""",Un,21069.0,912
+10.49,10,"Codo presión pvc 1 ¼"" x 45°",Un,23161.0,913
+10.50,10,"Codo presión pvc 1 ½""",Un,24611.0,914
+10.51,10,"Codo presión pvc 1 ½"" x 45°",Un,25266.0,915
+10.52,10,"Codo presión pvc 2""",Un,34401.0,916
+10.53,10,"Codo presión pvc 2"" x 45°",Un,35993.0,917
+10.54,10,"Codo presión pvc 2 ½""",Un,65711.0,918
+10.55,10,"Codo presión pvc 2 ½"" x 45°",Un,69187.0,919
+10.56,10,"Codo presión pvc 3""",Un,82707.0,920
+10.57,10,"Codo presión pvc 3"" x 45°",Un,79384.0,921
+10.58,10,"Codo presión pvc 4""",Un,155805.0,922
+10.59,10,"Codo presión pvc 4"" x 45°",Un,146134.0,923
+10.60,10,"Codo presión pvc unión platino 2""",Un,100153.0,924
+10.61,10,"Codo presión pvc unión platino 3""",Un,143328.0,925
+10.62,10,"Codo presión pvc unión platino 4""",Un,184771.0,926
+10.63,10,"Codo presión pvc SCH 80 1 ¼""",Un,30702.0,927
+10.64,10,"Codo presión pvc SCH 80 1 ½""",Un,30703.0,928
+10.65,10,"Codo presión pvc SCH 80 2""",Un,42630.0,929
+10.66,10,"Codo presión pvc SCH 80 3""",Un,81835.0,930
+10.67,10,"Codo presión pvc SCH 80 4""",Un,107286.0,931
+10.68,10,"Codo presión pvc SCH 80 6""",Un,280742.0,932
+10.69,10,"Collar de derivación de 2"" x 1/2""",Un,36734.0,933
+10.70,10,"Collar de derivación de 2"" x 3/4""",Un,29207.0,934
+10.71,10,"Collar de derivación de 3"" x 1/2""",Un,46700.0,935
+10.72,10,"Collar de derivación de 3"" x 3/4""",Un,42998.0,936
+10.73,10,"Collar de derivación de 4"" x 1/2""",Un,47999.0,937
+10.74,10,"Collar de derivación de 4"" x 3/4""",Un,46455.0,938
+10.75,10,"Domiciliaria 2"" x 1/2"" en tubería PF + UAD, L= 2 m",Un,217469.0,939
+10.76,10,"Domiciliaria 2"" x 3/4"" en tubería PF + UAD, L= 2 m",Un,262981.0,940
+10.77,10,"Domiciliaria 3"" x 1/2"" en tubería PF + UAD, L= 2 m",Un,226674.0,941
+10.78,10,"Domiciliaria 3"" x 3/4"" en tubería PF + UAD, L= 2 m",Un,276011.0,942
+10.79,10,"Flotador tanque de cobre 1/2""",Un,189178.0,943
+10.80,10,"Flotador tanque de cobre 3/4""",Un,198686.0,944
+10.81,10,"Flotador tanque de cobre 1""",Un,326822.0,945
+10.82,10,"Flotador tanque de cobre 1 ½""",Un,564949.0,946
+10.83,10,"Flotador tanque plástico 1/2""",Un,113372.0,947
+10.84,10,"Flotador tanque plástico 3/4""",Un,122757.0,948
+10.85,10,"Flotador tanque plástico 1""",Un,221368.0,949
+10.86,10,"Flotador tanque plástico 1 ½""",Un,226672.0,950
+10.87,10,"Llave de abasto metálica de 1/2""",Un,62869.0,951
+10.88,10,"Llave de abasto plástica de 1/2""",Un,28832.0,952
+10.89,10,"Medidor de agua de 1/2""",Un,227696.0,953
+10.90,10,"Medidor de agua de 3/4""",Un,350764.0,954
+10.91,10,"Medidor de agua de 1""",Un,552848.0,955
+10.92,10,"Medidor de agua de 2""",Un,1548157.0,956
+10.93,10,"Niple galvanizado 1/2"" x 6""",Un,13577.0,957
+10.94,10,"Niple galvanizado 3/4"" x 6""",Un,15802.0,958
+10.95,10,Prueba hidrostática,Pto,147690.0,959
+10.96,10,"Punto hidráulico cpvc de 1/2"" (3 m)",Un,78991.0,960
+10.97,10,"Punto hidráulico cpvc de 3/4"" (3 m)",Un,105085.0,961
+10.98,10,"Punto hidráulico cpvc SCH 80 de 1/2"" (3 m)",Un,358925.0,962
+10.99,10,"Punto hidráulico cpvc SCH 80 de 3/4"" (3 m)",Un,390334.0,963
+10.100,10,"Punto hidráulico mini split pvc 3/4""",Un,92526.0,964
+10.101,10,"Punto hidráulico pvc de 1/2"" (3 m)",Un,50008.0,965
+10.102,10,"Punto hidráulico pvc de 3/4"" (3 m)",Un,55639.0,966
+10.103,10,"Punto hidráulico pvc de 1"" (3 m)",Un,67742.0,967
+10.104,10,"Punto hidráulico pvc de 1 ¼"" (3 m)",Un,101077.0,968
+10.105,10,"Punto hidráulico pvc de 1 ½"" (3 m)",Un,124092.0,969
+10.106,10,"Punto hidráulico pvc de 2"" (3 m)",Un,175108.0,970
+10.107,10,"Punto hidráulico pvc SCH 80 de 1 ¼"" (3 m)",Un,292793.0,971
+10.108,10,"Punto hidráulico pvc SCH 80 de 1 ½"" (3 m)",Un,316686.0,972
+10.109,10,"Punto hidráulico pvc SCH 80 de 2"" (3 m)",Un,429981.0,973
+10.110,10,"Registro de bola 1/2""",Un,42249.0,974
+10.111,10,"Registro de bola 3/4""",Un,58791.0,975
+10.112,10,"Registro de bola 1""",Un,102904.0,976
+10.113,10,"Registro de bola 1 ½""",Un,177463.0,977
+10.114,10,"Registro de bola 2""",Un,273020.0,978
+10.115,10,Registro de corte antifraude 1/2” x 1/2”,Un,44897.0,979
+10.116,10,"Registro de cortina red white 1/2""",Un,124615.0,980
+10.117,10,"Registro de cortina red white 3/4""",Un,147812.0,981
+10.118,10,"Registro de cortina red white 1""",Un,212491.0,982
+10.119,10,"Registro de cortina red white 1 ¼""",Un,284592.0,983
+10.120,10,"Registro de cortina red white 1 ½""",Un,374358.0,984
+10.121,10,"Registro de cortina red white 2""",Un,596546.0,985
+10.122,10,"Registro de cortina red white 2 ½""",Un,1039111.0,986
+10.123,10,"Registro de cortina red white 3""",Un,1433826.0,987
+10.124,10,"Registro de cortina red white 4""",Un,3237237.0,988
+10.125,10,"Tapón presión cpvc 1/2"" sold.",Un,11240.0,989
+10.126,10,"Tapón presión cpvc 3/4"" sold.",Un,11240.0,990
+10.127,10,"Tapón presión cpvc 1"" sold.",Un,16759.0,991
+10.128,10,"Tapón presión pvc 1/2"" rosc.",Un,9784.0,992
+10.129,10,"Tapón presión pvc 1/2"" sold.",Un,9594.0,993
+10.130,10,"Tapón presión pvc 3/4"" rosc.",Un,12168.0,994
+10.131,10,"Tapón presión pvc 3/4"" sold.",Un,10112.0,995
+10.132,10,"Tapón presión pvc 1"" rosc.",Un,19936.0,996
+10.133,10,"Tapón presión pvc 1"" sold.",Un,18723.0,997
+10.134,10,"Tapón presión pvc 1 ¼"" sold.",Un,20119.0,998
+10.135,10,"Tapón presión pvc 1 ½"" sold.",Un,21065.0,999
+10.136,10,"Tapón presión pvc 2"" sold.",Un,26383.0,1000
+10.137,10,"Tapón presión pvc 3"" sold.",Un,53676.0,1001
+10.138,10,"Tapón presión pvc 4"" sold.",Un,80668.0,1002
+10.139,10,"Tapón presión pvc SCH 80 1 ¼""",Un,35924.0,1003
+10.140,10,"Tapón presión pvc SCH 80 1 ½""",Un,36354.0,1004
+10.141,10,"Tapón presión pvc SCH 80 2""",Un,67618.0,1005
+10.142,10,"Tapón presión pvc SCH 80 3""",Un,125207.0,1006
+10.143,10,"Tapón presión pvc SCH 80 4""",Un,148136.0,1007
+10.144,10,"Tee presión cpvc 1/2""",Un,12074.0,1008
+10.145,10,"Tee presión cpvc 3/4""",Un,13792.0,1009
+10.146,10,"Tee presión cpvc 1""",Un,35879.0,1010
+10.147,10,"Tee presión pvc 1/2""",Un,10270.0,1011
+10.148,10,"Tee presión pvc 3/4""",Un,11095.0,1012
+10.149,10,"Tee presión pvc 1""",Un,20932.0,1013
+10.150,10,"Tee presión pvc 1 ¼""",Un,24624.0,1014
+10.151,10,"Tee presión pvc 1 ½""",Un,27010.0,1015
+10.152,10,"Tee presión pvc 2""",Un,39028.0,1016
+10.153,10,"Tee presión pvc 3""",Un,100929.0,1017
+10.154,10,"Tee presión pvc 4""",Un,195853.0,1018
+10.155,10,"Tee presión pvc SCH 80 1 ¼""",Un,66679.0,1019
+10.156,10,"Tee presión pvc SCH 80 1 ½""",Un,69171.0,1020
+10.157,10,"Tee presión pvc SCH 80 2""",Un,99518.0,1021
+10.158,10,"Tee presión pvc SCH 80 3""",Un,127573.0,1022
+10.159,10,"Tee presión pvc SCH 80 4""",Un,144540.0,1023
+10.160,10,"Tubería cobre Ø= 3/8"" (incl. accesorios)",m,62158.0,1024
+10.161,10,"Tubería cobre Ø= 1/2"" (incl. accesorios)",m,63251.0,1025
+10.162,10,"Tubería cpvc presión Ø= 1/2"" (incl. accesorios)",m,16809.0,1026
+10.163,10,"Tubería cpvc presión Ø= 3/4"" (incl. accesorios)",m,23952.0,1027
+10.164,10,"Tubería cpvc presión Ø= 1"" (incl. accesorios)",m,39623.0,1028
+10.165,10,"Tubería cpvc presión Ø= 1 ¼"" (incl. accesorios)",m,76214.0,1029
+10.166,10,"Tubería cpvc presión Ø= 1 ½"" (incl. accesorios)",m,106102.0,1030
+10.167,10,"Tubería cpvc presión Ø= 2"" (incl. accesorios)",m,175056.0,1031
+10.168,10,"Tubería cpvc presión SCH 80 Ø= 1/2"" (incl. accesorios)",m,69141.0,1032
+10.169,10,"Tubería cpvc presión SCH 80 Ø= 3/4"" (incl. accesorios)",m,76445.0,1033
+10.170,10,"Tubería cpvc presión SCH 80 Ø= 1"" (incl. accesorios)",m,95909.0,1034
+10.171,10,"Tubería cpvc presión SCH 80 Ø= 1 ¼"" (incl. accesorios)",m,133867.0,1035
+10.172,10,"Tubería cpvc presión SCH 80 Ø= 1 ½"" (incl. accesorios)",m,152165.0,1036
+10.173,10,"Tubería cpvc presión SCH 80 Ø= 2"" (incl. accesorios)",m,234479.0,1037
+10.174,10,"Tubería galvanizada Ø= 1/2"" (incl. accesorios)",m,22886.0,1038
+10.175,10,"Tubería galvanizada Ø= 3/4"" (incl. accesorios)",m,26445.0,1039
+10.176,10,"Tubería PF + UAD Ø= 1/2"" (incl. accesorios)",m,9341.0,1040
+10.177,10,"Tubería PF + UAD Ø= 3/4"" (incl. accesorios)",m,19921.0,1041
+10.178,10,"Tubería pvc presión Ø= 1/2"" (incl. accesorios)",m,10026.0,1042
+10.179,10,"Tubería pvc presión Ø= 3/4"" (incl. accesorios)",m,11156.0,1043
+10.180,10,"Tubería pvc presión Ø= 1"" (incl. accesorios)",m,14598.0,1044
+10.181,10,"Tubería pvc presión Ø= 1 ¼"" (incl. accesorios)",m,21248.0,1045
+10.182,10,"Tubería pvc presión Ø= 1 ½"" (incl. accesorios)",m,26142.0,1046
+10.183,10,"Tubería pvc presión Ø= 2"" (incl. accesorios)",m,37903.0,1047
+10.184,10,"Tubería pvc presión Ø= 2 ½"" (incl. accesorios)",m,63256.0,1048
+10.185,10,"Tubería pvc presión Ø= 3"" (incl. accesorios)",m,83554.0,1049
+10.186,10,"Tubería pvc presión Ø= 4"" (incl. accesorios)",m,145550.0,1050
+10.187,10,"Tubería pvc presión Ø= 6""",m,229479.0,1051
+10.188,10,"Tubería pvc presión SCH 80 Ø= 1 ¼"" (incl. accesorios)",m,46295.0,1052
+10.189,10,"Tubería pvc presión SCH 80 Ø= 1 ½"" (incl. accesorios)",m,49513.0,1053
+10.190,10,"Tubería pvc presión SCH 80 Ø= 2"" (incl. accesorios)",m,66423.0,1054
+10.191,10,"Tubería pvc presión SCH 80 Ø= 2 ½"" (incl. accesorios)",m,112700.0,1055
+10.192,10,"Tubería pvc presión SCH 80 Ø= 3"" (incl. accesorios)",m,136872.0,1056
+10.193,10,"Tubería pvc presión SCH 80 Ø= 4"" (incl. accesorios)",m,184563.0,1057
+10.194,10,"Tubería pvc presión SCH 80 Ø= 6""",m,286261.0,1058
+10.195,10,"Tubería pvc presión SCH 80 Ø= 8""",m,431360.0,1059
+10.196,10,"Tubería pvc unión platino Ø= 2"" (incl. accesorios)",m,47706.0,1060
+10.197,10,"Tubería pvc unión platino Ø= 3"" (incl. accesorios)",m,90813.0,1061
+10.198,10,"Tubería pvc unión platino Ø= 4"" (incl. accesorios)",m,121791.0,1062
+10.199,10,"Unión de reparación pvc platino 2""",m,61591.0,1063
+10.200,10,"Unión de reparación pvc platino 3""",m,89176.0,1064
+10.201,10,"Unión de reparación pvc platino 4""",m,128484.0,1065
+10.202,10,"Unión presión cpvc 1/2""",Un,10741.0,1066
+10.203,10,"Unión presión cpvc 3/4""",Un,11507.0,1067
+10.204,10,"Unión presión cpvc 1""",Un,19625.0,1068
+10.205,10,"Unión presión pvc 1/2""",Un,9656.0,1069
+10.206,10,"Unión presión pvc 3/4""",Un,9989.0,1070
+10.207,10,"Unión presión pvc 1""",Un,18483.0,1071
+10.208,10,"Unión presión pvc 1 ¼""",Un,19041.0,1072
+10.209,10,"Unión presión pvc 1 ½""",Un,19794.0,1073
+10.210,10,"Unión presión pvc 2""",Un,23874.0,1074
+10.211,10,"Unión presión pvc 3""",Un,50664.0,1075
+10.212,10,"Unión presión pvc 4""",Un,85872.0,1076
+10.213,10,"Unión presión pvc platino 2""",m,57395.0,1077
+10.214,10,"Unión presión pvc platino 3""",m,84716.0,1078
+10.215,10,"Unión presión pvc platino 4""",m,116248.0,1079
+10.216,10,"Unión presión pvc SCH 80 1 ¼""",Un,35409.0,1080
+10.217,10,"Unión presión pvc SCH 80 1 ½""",Un,36953.0,1081
+10.218,10,"Unión presión pvc SCH 80 2""",Un,48301.0,1082
+10.219,10,"Unión presión pvc SCH 80 3""",Un,96373.0,1083
+10.220,10,"Unión presión pvc SCH 80 4""",Un,117975.0,1084
+10.221,10,Válvula antivandálica para sanitario institucional,Un,537377.0,1085
+10.222,10,"Válvula de bola de cpvc ø= 1/2""",Un,39195.0,1086
+10.223,10,"Válvula de bola de cpvc ø= 3/4""",Un,50782.0,1087
+10.224,10,"Válvula de bola de cpvc ø= 1""",Un,67757.0,1088
+10.225,10,"Válvula de bola de pvc ø= 1/2""",Un,32940.0,1089
+10.226,10,"Válvula de bola de pvc ø= 3/4""",Un,38024.0,1090
+10.227,10,"Válvula de bola de pvc ø= 1""",Un,61233.0,1091
+10.228,10,Válvula de entrada y salida para tanque sanitario,Un,127226.0,1092
+10.229,10,"Válvula de pie antigolpe de ariete en bronce Ø= 3""",Un,957642.0,1093
+10.230,10,"Válvula de pie antigolpe de ariete en bronce Ø= 4""",Un,1889435.0,1094
+10.231,10,"Válvula de pie en aluminio Ø= 3""",Un,325825.0,1095
+10.232,10,"Válvula de pie en aluminio Ø= 4""",Un,589572.0,1096
+10.233,10,"Válvula de pie en bronce y canastilla metálica Ø= 1 ½""",Un,241279.0,1097
+10.234,10,"Válvula de pie en bronce y canastilla metálica Ø= 2""",Un,406784.0,1098
+10.235,10,"Válvula de pie en bronce y canastilla metálica Ø= 2 ½""",Un,518133.0,1099
+10.236,10,"Válvula de pie en bronce y canastilla plástica Ø= 1 ½""",Un,228591.0,1100
+10.237,10,"Válvula de pie en bronce y canastilla plástica Ø= 2""",Un,384312.0,1101
+10.238,10,"Válvula de pie en bronce y canastilla plástica Ø= 2 ½""",Un,492602.0,1102
+10.239,10,"Válvula de regulación metálica de 1/2""",Un,62869.0,1103
+10.240,10,"Válvula de regulación plástica de 1/2""",Un,28832.0,1104
+11.01,11,"Acople ranurado hierro dúctil SCH 40 1/2""",Un,10466.0,1105
+11.02,11,"Acople ranurado hierro dúctil SCH 40 3/4""",Un,10497.0,1106
+11.03,11,"Acople ranurado hierro dúctil SCH 40 1""",Un,10530.0,1107
+11.04,11,"Acople ranurado hierro dúctil SCH 40 1 ¼""",Un,11078.0,1108
+11.05,11,"Acople ranurado hierro dúctil SCH 40 1 ½""",Un,12128.0,1109
+11.06,11,"Acople ranurado hierro dúctil SCH 40 2""",Un,13724.0,1110
+11.07,11,"Acople ranurado hierro dúctil SCH 40 2 ½""",Un,14908.0,1111
+11.08,11,"Acople ranurado hierro dúctil SCH 40 3""",Un,16088.0,1112
+11.09,11,"Acople ranurado hierro dúctil SCH 40 4""",Un,20743.0,1113
+11.10,11,Bomba eléctrica sumergible 1 HP 110V (pozo sótano),Un,614932.0,1114
+11.11,11,Bomba eléctrica sumergible 1 ½ HP 110V (pozo sótano),Un,656146.0,1115
+11.12,11,Bomba eléctrica sumergible 1 ½ HP 110V (pozo profundo),Un,5881385.0,1116
+11.13,11,Bomba eléctrica sumergible 1 HP 220V tipo lapicero,Un,1021069.0,1117
+11.14,11,Bomba eléctrica sumergible 1 ½ HP 220V tipo lapicero,Un,1205610.0,1118
+11.15,11,"Codo acero al carbón roscado de 1/2""",Un,16872.0,1119
+11.16,11,"Codo acero al carbón roscado de 3/4""",Un,17883.0,1120
+11.17,11,"Codo acero al carbón roscado de 1""",Un,21001.0,1121
+11.18,11,"Codo ranurado hierro dúctil SCH 40 1 ¼""",Un,23239.0,1122
+11.19,11,"Codo ranurado hierro dúctil SCH 40 1 ½""",Un,25143.0,1123
+11.20,11,"Codo ranurado hierro dúctil SCH 40 2""",Un,37380.0,1124
+11.21,11,"Codo ranurado hierro dúctil SCH 40 2 ½""",Un,51537.0,1125
+11.22,11,"Codo ranurado hierro dúctil SCH 40 3""",Un,67098.0,1126
+11.23,11,"Codo ranurado hierro dúctil SCH 40 4""",Un,87346.0,1127
+11.24,11,"Codo ranurado hierro dúctil SCH 40 6""",Un,154305.0,1128
+11.25,11,"Codo ranurado hierro dúctil SCH 40 8""",Un,424863.0,1129
+11.26,11,Detector de humo fotoeléctrico,Un,394402.0,1130
+11.27,11,Extintor contra incendio ABC de 10 Lb,Un,304366.0,1131
+11.28,11,Extintor contra incendio BC de 10 Lb,Un,298645.0,1132
+11.29,11,Extintor contra incendio CO2 de 10 Lb,Un,2043493.0,1133
+11.30,11,Extintor contra incendio H2O de 10 Lb,Un,496906.0,1134
+11.31,11,Gabinete contra incendio tipo I,Un,2365253.0,1135
+11.32,11,Gabinete contra incendio tipo II,Un,3217593.0,1136
+11.33,11,Gabinete contra incendio tipo III,Un,3642897.0,1137
+11.34,11,"Hidrante tipo Milán 3"" extremo brida",Un,6601987.0,1138
+11.35,11,"Hidrante tipo Milán 3"" extremo liso",Un,6259403.0,1139
+11.36,11,Luz estrobo pared roja,Un,296573.0,1140
+11.37,11,Manómetro de presión con glicerina 0-200 psi,Un,211205.0,1141
+11.38,11,Manómetro de presión tipo seco 0-200 psi,Un,129305.0,1142
+11.39,11,Pulsador manual de alarma direccionable,Un,260579.0,1143
+11.40,11,"Punto rociador en acero de 1/2""",Un,123587.0,1144
+11.41,11,"Punto rociador en acero de 3/4""",Un,123587.0,1145
+11.42,11,"Reducción ranurada hierro dúctil SCH 40 1 ½"" x 1 ¼""",Un,17364.0,1146
+11.43,11,"Reducción ranurada hierro dúctil SCH 40 2"" x 1 ½""",Un,21160.0,1147
+11.44,11,"Reducción ranurada hierro dúctil SCH 40 3"" x 2 ½""",Un,23190.0,1148
+11.45,11,"Reducción ranurada hierro dúctil SCH 40 4"" x 2""",Un,51271.0,1149
+11.46,11,"Reducción ranurada hierro dúctil SCH 40 4"" x 3""",Un,51271.0,1150
+11.47,11,"Reducción ranurada hierro dúctil SCH 40 6"" x 2""",Un,110672.0,1151
+11.48,11,"Reducción ranurada hierro dúctil SCH 40 6"" x 3""",Un,110672.0,1152
+11.49,11,"Reducción ranurada hierro dúctil SCH 40 6"" x 4""",Un,106754.0,1153
+11.50,11,"Rociador contra incendio roscado Ø= 1/2""",Un,194871.0,1154
+11.51,11,"Rociador contra incendio roscado Ø= 3/4""",Un,216031.0,1155
+11.52,11,"Semicodo ranurado hierro dúctil SCH 40 1 ¼""",Un,21279.0,1156
+11.53,11,"Semicodo ranurado hierro dúctil SCH 40 1 ½""",Un,23183.0,1157
+11.54,11,"Semicodo ranurado hierro dúctil SCH 40 2""",Un,34866.0,1158
+11.55,11,"Semicodo ranurado hierro dúctil SCH 40 2 ½""",Un,38676.0,1159
+11.56,11,"Semicodo ranurado hierro dúctil SCH 40 3""",Un,52552.0,1160
+11.57,11,"Semicodo ranurado hierro dúctil SCH 40 4""",Un,84271.0,1161
+11.58,11,"Semicodo ranurado hierro dúctil SCH 40 6""",Un,154305.0,1162
+11.59,11,"Semicodo ranurado hierro dúctil SCH 40 8""",Un,318306.0,1163
+11.60,11,Sensor de flujo agua,Un,1621969.0,1164
+11.61,11,Sirena con luz estroboscópica para alarma incendio,Un,525836.0,1165
+11.62,11,"Soporte tubería en ángulo de 1 ½"" x 1/8""",Un,58766.0,1166
+11.63,11,"Tapón ranurado hierro dúctil SCH 40 1 ½""",Un,12837.0,1167
+11.64,11,"Tapón ranurado hierro dúctil SCH 40 2""",Un,20880.0,1168
+11.65,11,"Tapón ranurado hierro dúctil SCH 40 2 ½""",Un,27488.0,1169
+11.66,11,"Tapón ranurado hierro dúctil SCH 40 3""",Un,32141.0,1170
+11.67,11,"Tapón ranurado hierro dúctil SCH 40 6""",Un,86338.0,1171
+11.68,11,"Tee acero al carbón roscada de 1/2""",Un,26377.0,1172
+11.69,11,"Tee acero al carbón roscada de 3/4""",Un,28653.0,1173
+11.70,11,"Tee acero al carbón roscada de 1""",Un,30885.0,1174
+11.71,11,"Tee mecánica ranurada hierro dúctil SCH 40 2 ½"" x 1 ½""",Un,49866.0,1175
+11.72,11,"Tee mecánica ranurada hierro dúctil SCH 40 3"" x 2""",Un,70180.0,1176
+11.73,11,"Tee mecánica ranurada hierro dúctil SCH 40 6"" x 3""",Un,118224.0,1177
+11.74,11,"Tee mecánica ranurada hierro dúctil SCH 40 6"" x 4""",Un,121855.0,1178
+11.75,11,"Tee ranurada hierro dúctil SCH 40 1 ½""",Un,35207.0,1179
+11.76,11,"Tee ranurada hierro dúctil SCH 40 2""",Un,50522.0,1180
+11.77,11,"Tee ranurada hierro dúctil SCH 40 2 ½""",Un,71960.0,1181
+11.78,11,"Tee ranurada hierro dúctil SCH 40 3""",Un,90875.0,1182
+11.79,11,"Tee ranurada hierro dúctil SCH 40 4""",Un,136289.0,1183
+11.80,11,"Tee ranurada hierro dúctil SCH 40 6""",Un,245202.0,1184
+11.81,11,"Tee ranurada hierro dúctil SCH 40 8""",Un,582888.0,1185
+11.82,11,"Toma siamesa en bronce Ø= 3""",Un,2221092.0,1186
+11.83,11,"Toma siamesa en bronce Ø= 4""",Un,2861209.0,1187
+11.84,11,"Tubería acero carbón SCH 40 Ø= 1/2"" roscada",m,40622.0,1188
+11.85,11,"Tubería acero carbón SCH 40 Ø= 3/4"" roscada",m,45790.0,1189
+11.86,11,"Tubería acero carbón SCH 40 Ø= 1"" roscada",m,58105.0,1190
+11.87,11,"Tubería acero carbón SCH 40 Ø= 1 ¼"" roscada",m,78291.0,1191
+11.88,11,"Tubería acero carbón SCH 40 Ø= 1 ½"" roscada",m,98514.0,1192
+11.89,11,"Tubería ranurada acero carbón SCH 40 Ø= 1/2""",m,29227.0,1193
+11.90,11,"Tubería ranurada acero carbón SCH 40 Ø= 3/4""",m,33298.0,1194
+11.91,11,"Tubería ranurada acero carbón SCH 40 Ø= 1""",m,42814.0,1195
+11.92,11,"Tubería ranurada acero carbón SCH 40 Ø= 1 ¼""",m,58609.0,1196
+11.93,11,"Tubería ranurada acero carbón SCH 40 Ø= 1 ½""",m,68750.0,1197
+11.94,11,"Tubería ranurada acero carbón SCH 40 Ø= 2""",m,90267.0,1198
+11.95,11,"Tubería ranurada acero carbón SCH 40 Ø= 2 ½""",m,140603.0,1199
+11.96,11,"Tubería ranurada acero carbón SCH 40 Ø= 3""",m,179604.0,1200
+11.97,11,"Tubería ranurada acero carbón SCH 40 Ø= 4""",m,267540.0,1201
+11.98,11,"Tubería ranurada acero carbón SCH 40 Ø= 6""",m,419688.0,1202
+11.99,11,"Tubería ranurada acero carbón SCH 40 Ø= 8""",m,610363.0,1203
+11.100,11,"Unión flexible ranurada hierro dúctil SCH 40 1 ¼""",Un,29948.0,1204
+11.101,11,"Unión flexible ranurada hierro dúctil SCH 40 1 ½""",Un,31015.0,1205
+11.102,11,"Unión flexible ranurada hierro dúctil SCH 40 2""",Un,34164.0,1206
+11.103,11,"Unión flexible ranurada hierro dúctil SCH 40 2 ½""",Un,41473.0,1207
+11.104,11,"Unión flexible ranurada hierro dúctil SCH 40 3""",Un,48084.0,1208
+11.105,11,"Unión flexible ranurada hierro dúctil SCH 40 4""",Un,57143.0,1209
+11.106,11,"Unión flexible ranurada hierro dúctil SCH 40 6""",Un,108714.0,1210
+11.107,11,"Unión flexible ranurada hierro dúctil SCH 40 8""",Un,187413.0,1211
+11.108,11,"Unión rígida ranurada hierro dúctil SCH 40 1 ¼""",Un,28268.0,1212
+11.109,11,"Unión rígida ranurada hierro dúctil SCH 40 1 ½""",Un,29620.0,1213
+11.110,11,"Unión rígida ranurada hierro dúctil SCH 40 2""",Un,33465.0,1214
+11.111,11,"Unión rígida ranurada hierro dúctil SCH 40 2 ½""",Un,41473.0,1215
+11.112,11,"Unión rígida ranurada hierro dúctil SCH 40 3""",Un,53954.0,1216
+11.113,11,"Unión rígida ranurada hierro dúctil SCH 40 4""",Un,61334.0,1217
+11.114,11,"Unión rígida ranurada hierro dúctil SCH 40 6""",Un,96968.0,1218
+11.115,11,"Unión rígida ranurada hierro dúctil SCH 40 8""",Un,175110.0,1219
+12.01,12,Acometida eléctrica bomba de presión,m,33872.0,1220
+12.02,12,"Acometida eléctrica emt 3/4"" 2#8",m,33681.0,1221
+12.03,12,"Acometida eléctrica emt 3/4"" 2#10",m,28782.0,1222
+12.04,12,"Acometida eléctrica emt 3/4"" 2#12",m,24320.0,1223
+12.05,12,"Acometida eléctrica emt 3/4"" 2#10+1#10",m,35549.0,1224
+12.06,12,"Acometida eléctrica emt 3/4"" 2#12+1#12",m,29073.0,1225
+12.07,12,"Acometida eléctrica emt 1"" 2#4",m,59128.0,1226
+12.08,12,"Acometida eléctrica emt 1"" 2#6",m,45160.0,1227
+12.09,12,"Acometida eléctrica emt 1"" 2#4+1#8",m,68505.0,1228
+12.10,12,"Acometida eléctrica emt 1"" 2#6+1#8",m,53500.0,1229
+12.11,12,"Acometida eléctrica emt 1"" 2#8+1#10",m,42824.0,1230
+12.12,12,"Acometida eléctrica emt 1"" 3#6+1#8",m,66438.0,1231
+12.13,12,"Acometida eléctrica emt 1"" 3#10+1#10",m,44317.0,1232
+12.14,12,"Acometida eléctrica emt 1"" 3#10+1#12",m,42892.0,1233
+12.15,12,"Acometida eléctrica emt 1"" 3#12+1#10",m,39805.0,1234
+12.16,12,"Acometida eléctrica emt 1"" 3#12+1#12",m,38129.0,1235
+12.17,12,"Acometida eléctrica emt 1 ½"" 3#8+1#10",m,73168.0,1236
+12.18,12,"Acometida eléctrica emt 2"" 3#2+1#6",m,146436.0,1237
+12.19,12,"Acometida eléctrica emt 2"" 3#4+1#8",m,112894.0,1238
+12.20,12,"Acometida eléctrica emt 2"" 3#6+1#8",m,90654.0,1239
+12.21,12,"Acometida eléctrica emt 2"" 3#8+1#8",m,85054.0,1240
+12.22,12,"Acometida eléctrica emt 3"" 3#1/0+1#1/0",m,275812.0,1241
+12.23,12,"Acometida eléctrica emt 3"" 3#2/0+1#2/0",m,320690.0,1242
+12.24,12,"Acometida eléctrica emt 3"" 3#4/0+1#4/0",m,449237.0,1243
+12.25,12,"Acometida eléctrica pvc 3/4"" 2#8",m,29298.0,1244
+12.26,12,"Acometida eléctrica pvc 3/4"" 2#10",m,24398.0,1245
+12.27,12,"Acometida eléctrica pvc 3/4"" 2#12",m,19936.0,1246
+12.28,12,"Acometida eléctrica pvc 3/4"" 2#10+1#10",m,31165.0,1247
+12.29,12,"Acometida eléctrica pvc 3/4"" 2#12+1#12",m,24690.0,1248
+12.30,12,"Acometida eléctrica pvc 1"" 2#4",m,53956.0,1249
+12.31,12,"Acometida eléctrica pvc 1"" 2#6",m,39988.0,1250
+12.32,12,"Acometida eléctrica pvc 1"" 2#4+1#8",m,63334.0,1251
+12.33,12,"Acometida eléctrica pvc 1"" 2#6+1#8",m,48329.0,1252
+12.34,12,"Acometida eléctrica pvc 1"" 2#8+1#10",m,37653.0,1253
+12.35,12,"Acometida eléctrica pvc 1"" 3#6+1#8",m,61267.0,1254
+12.36,12,"Acometida eléctrica pvc 1"" 3#10+1#10",m,39146.0,1255
+12.37,12,"Acometida eléctrica pvc 1"" 3#10+1#12",m,37720.0,1256
+12.38,12,"Acometida eléctrica pvc 1"" 3#12+1#10",m,34634.0,1257
+12.39,12,"Acometida eléctrica pvc 1"" 3#12+1#12",m,32957.0,1258
+12.40,12,"Acometida eléctrica pvc 1 ½"" 3#8+1#10",m,64896.0,1259
+12.41,12,"Acometida eléctrica pvc 2"" 3#2+1#6",m,134213.0,1260
+12.42,12,"Acometida eléctrica pvc 2"" 3#4+1#8",m,100672.0,1261
+12.43,12,"Acometida eléctrica pvc 2"" 3#6+1#8",m,78431.0,1262
+12.44,12,"Acometida eléctrica pvc 2"" 3#8+1#8",m,72831.0,1263
+12.45,12,"Acometida eléctrica pvc 3"" 3#1/0+1#1/0",m,233957.0,1264
+12.46,12,"Acometida eléctrica pvc 3"" 3#2/0+1#2/0",m,278835.0,1265
+12.47,12,"Acometida eléctrica pvc 3"" 3#4/0+1#4/0",m,407383.0,1266
+12.48,12,Acometida en cable CU 3#2/0+1#1/0 AWG pvc 2”,m,325374.0,1267
+12.49,12,"Acometida para datos en 1/2"" UTP CAT 5E-4P",m,16295.0,1268
+12.50,12,Acometida para luminaria Metal Halide de 250W,m,21482.0,1269
+12.51,12,"Acometida para sonido en 1/2"" 2x18 encauchetado",m,17566.0,1270
+12.52,12,"Acometida telefónica 1/2"" 2 pares",m,15994.0,1271
+12.53,12,"Acometida televisión 1/2"" cable coaxial",m,17219.0,1272
+12.54,12,Bandeja malla portacable 60 x 100 mm,m,127163.0,1273
+12.55,12,Bombillo ahorrador en espiral 20W,Un,26255.0,1274
+12.56,12,Bombillo led 60W,Un,16519.0,1275
+12.57,12,Cable de cobre THHN #2 AWG,m,32218.0,1276
+12.58,12,Cable de cobre HF FR LS #2 AWG,m,35073.0,1277
+12.59,12,Cable de cobre THHN #4 AWG,m,22092.0,1278
+12.60,12,Cable de cobre HF FR LS #4 AWG,m,23928.0,1279
+12.61,12,Cable de cobre THHN #6 AWG,m,14582.0,1280
+12.62,12,Cable de cobre HF FR LS #6 AWG,m,15773.0,1281
+12.63,12,Cable de cobre THHN #8 AWG,m,9966.0,1282
+12.64,12,Cable de cobre HF FR LS #8 AWG,m,10739.0,1283
+12.65,12,Cable de cobre THHN #10 AWG,m,7456.0,1284
+12.66,12,Cable de cobre HF FR LS #10 AWG,m,7976.0,1285
+12.67,12,Cable de cobre THHN #12 AWG,m,5074.0,1286
+12.68,12,Cable de cobre HF FR LS #12 AWG,m,5430.0,1287
+12.69,12,Cable de cobre THHN #14 AWG,m,3993.0,1288
+12.70,12,Cable de cobre HF FR LS #14 AWG,m,4249.0,1289
+12.71,12,Cable de cobre THHN 1/0 AWG,m,51628.0,1290
+12.72,12,Cable de cobre HF FR LS 1/0 AWG,m,56287.0,1291
+12.73,12,Cable de cobre THHN 2/0 AWG,m,63263.0,1292
+12.74,12,Cable de cobre HF FR LS 2/0 AWG,m,69086.0,1293
+12.75,12,Cable de cobre THHN 3/0 AWG,m,82253.0,1294
+12.76,12,Cable de cobre HF FR LS 3/0 AWG,m,87231.0,1295
+12.77,12,Cable de cobre THHN 4/0 AWG,m,96254.0,1296
+12.78,12,Cable de cobre HF FR LS 4/0 AWG,m,105375.0,1297
+12.79,12,Cable de cobre desnudo 1/0 THWN,m,51101.0,1298
+12.80,12,Cable de cobre desnudo 2/0 THWN,m,65199.0,1299
+12.81,12,Cable de cobre desnudo 4/0 THWN,m,97092.0,1300
+12.82,12,Cable encauchetado 2x18,m,6498.0,1301
+12.83,12,Cable encauchetado 3x14,m,12280.0,1302
+12.84,12,Cable encauchetado 3x18,m,7755.0,1303
+12.85,12,Cable telefónico 2 pares,m,4926.0,1304
+12.86,12,Cable telefónico 20 pares,m,21356.0,1305
+12.87,12,Cable telefónico 50 pares,m,37587.0,1306
+12.88,12,Cable televisión coaxial Cal. 18,m,6204.0,1307
+12.89,12,Cable trenzado 3x12 AWG,m,10152.0,1308
+12.90,12,Cable UTP CAT 5E-4P,m,5226.0,1309
+12.91,12,Cable UTP CAT 6A,m,7440.0,1310
+12.92,12,Caja de paso metálica 15x15 cm,Un,123803.0,1311
+12.93,12,Caja de paso metálica 20x25 cm,Un,200949.0,1312
+12.94,12,Caja eléctrica 30x30x50 cm en concreto,Un,270233.0,1313
+12.95,12,Caja eléctrica 40x40x80 cm en concreto,Un,403951.0,1314
+12.96,12,Caja eléctrica 50x50x80 cm en concreto,Un,475167.0,1315
+12.97,12,Caja eléctrica 80x80x100 cm en concreto,Un,870005.0,1316
+12.98,12,Caja eléctrica 100x100x100 cm en concreto,Un,1191840.0,1317
+12.99,12,"Caja eléctrica rawelt 2"" x 4""",Un,34680.0,1318
+12.100,12,"Caja eléctrica rawelt 4"" x 4""",Un,45645.0,1319
+12.101,12,Caja eléctrica termoplástica 15x15 cm,Un,35495.0,1320
+12.102,12,Caja eléctrica termoplástica 20x20 cm,Un,68698.0,1321
+12.103,12,Canaleta DLP 60 x 16 mm 3 divisiones,m,92882.0,1322
+12.104,12,Canaleta DLP 75 x 20 mm 3 divisiones,m,128462.0,1323
+12.105,12,"Capacete galvanizado 1""",Un,10907.0,1324
+12.106,12,"Capacete galvanizado 2""",Un,32677.0,1325
+12.107,12,"Capacete galvanizado 3""",Un,205318.0,1326
+12.108,12,"Capacete galvanizado 4""",Un,225413.0,1327
+12.109,12,"Cárcamo en concreto de 20.7 MPa, b= 0.50 m, h= 0.70 m Incluye solado de limpieza y acero de refuerzo.",m,457947.0,1328
+12.110,12,Codo para ducto portacable metálico 20x7.5 cm,m,132108.0,1329
+12.111,12,Cortacircuito enchufable termomagnético automático bipolar 10 kA a 120/240 V - 15-30 A,Un,119785.0,1330
+12.112,12,Cortacircuito enchufable termomagnético automático bipolar 10 kA a 120/240 V - 40-60 A,Un,142284.0,1331
+12.113,12,Cortacircuito enchufable termomagnético automático monopolar 10 kA a 120/240 V - 15-30 A,Un,38341.0,1332
+12.114,12,Cortacircuito enchufable termomagnético automático monopolar 10 kA a 120/240 V - 40-60 A,Un,39897.0,1333
+12.115,12,Cortacircuito enchufable termomagnético automático tripolar 10 kA a 120/240 V - 15-30 A,Un,252129.0,1334
+12.116,12,Cortacircuito enchufable termomagnético automático tripolar 10 kA a 120/240 V - 40-60 A,Un,263967.0,1335
+12.117,12,Cortacircuitos sistema monofásico,Un,762967.0,1336
+12.118,12,Cortacircuitos sistema trifásico,Un,1106164.0,1337
+12.119,12,"Curva emt galvanizada 1""",Un,9075.0,1338
+12.120,12,"Curva emt galvanizada 2""",Un,21393.0,1339
+12.121,12,"Curva emt galvanizada 3""",Un,63319.0,1340
+12.122,12,"Curva emt galvanizada 4""",Un,111669.0,1341
+12.123,12,"Curva imc galvanizada 1""",Un,14862.0,1342
+12.124,12,"Curva imc galvanizada 2""",Un,42160.0,1343
+12.125,12,"Curva imc galvanizada 3""",Un,177768.0,1344
+12.126,12,"Curva imc galvanizada 4""",Un,240436.0,1345
+12.127,12,"Curva pvc conduit 1/2""",Un,4924.0,1346
+12.128,12,"Curva pvc conduit 3/4""",Un,5929.0,1347
+12.129,12,"Curva pvc conduit 1""",Un,8330.0,1348
+12.130,12,"Curva pvc conduit 1 1/4""",Un,12454.0,1349
+12.131,12,"Curva pvc conduit 1 1/2""",Un,16717.0,1350
+12.132,12,"Curva pvc conduit 2""",Un,28154.0,1351
+12.133,12,"Curva pvc conduit SCH 40 1/2""",Un,5969.0,1352
+12.134,12,"Curva pvc conduit SCH 40 3/4""",Un,8251.0,1353
+12.135,12,"Curva pvc conduit SCH 40 1""",Un,11798.0,1354
+12.136,12,"Curva pvc conduit SCH 40 1 1/4""",Un,16622.0,1355
+12.137,12,"Curva pvc conduit SCH 40 1 1/2""",Un,21937.0,1356
+12.138,12,"Curva pvc conduit SCH 40 2""",Un,33532.0,1357
+12.139,12,"Curva pvc ducto gran radio 2""",Un,31772.0,1358
+12.140,12,"Curva pvc ducto gran radio 3""",Un,75932.0,1359
+12.141,12,"Curva pvc ducto gran radio 4""",Un,128355.0,1360
+12.142,12,"Curva pvc TDP gran radio 4""",Un,68501.0,1361
+12.143,12,Ducto portacable metálico 20x7.5 cm,m,128983.0,1362
+12.144,12,Fotocelda con base,Un,56006.0,1363
+12.145,12,Interconexión entre strip telefónico 50 pares,m,60605.0,1364
+12.146,12,Lámpara de emergencia led 2.4W 120/240V,Un,157697.0,1365
+12.147,12,Lámpara Downlight led 13W,Un,93969.0,1366
+12.148,12,Lámpara Downlight led 26W,Un,153864.0,1367
+12.149,12,Lámpara Downlight led 2x26W,Un,270910.0,1368
+12.150,12,Lámpara especular 60x60 4x18W T8,Un,264421.0,1369
+12.151,12,Lámparas tipo Spot con riel de 1 m x 3 Und de 10W,Un,232856.0,1370
+12.152,12,Luminaria de alumbrado público BRP230 65W,Un,690491.0,1371
+12.153,12,Luminaria fluorescente 2x32W,Un,246316.0,1372
+12.154,12,Luminaria fluorescente 2x48W,Un,334500.0,1373
+12.155,12,Luminaria fluorescente de inscrustar 2x32W T8,Un,255396.0,1374
+12.156,12,Luminaria led hermética 2x18W T8,Un,215419.0,1375
+12.157,12,Luminaria Metal Halide de 250W,Un,1858126.0,1376
+12.158,12,Luminaria Metal Halide de 400W,Un,1894093.0,1377
+12.159,12,"Luminaria Slim Line 2x48""",Un,310112.0,1378
+12.160,12,"Luminaria Slim Line 2x96""",Un,577609.0,1379
+12.161,12,Luminaria Sodio de 250W,Un,1313629.0,1380
+12.162,12,Medidor de energía 1F-Bifilar 120V,Un,587744.0,1381
+12.163,12,Medidor de energía 2F-Trifilar 120/240V,Un,789064.0,1382
+12.164,12,Medidor de energía 3F-Trifásico 120/208V,Un,1053754.0,1383
+12.165,12,Ojo de buey dirigible blanco ó níquel,Un,52731.0,1384
+12.166,12,Panel led 30x120 cm 40W,Un,148629.0,1385
+12.167,12,Panel led 60x60 cm 40W,Un,129428.0,1386
+12.168,12,Panel led empotrar 6W,Un,36581.0,1387
+12.169,12,Panel led empotrar 12W,Un,40777.0,1388
+12.170,12,Panel led empotrar 18W,Un,46018.0,1389
+12.171,12,Panel led empotrar 24W,Un,56502.0,1390
+12.172,12,Panel led empotrar cuadrado 18W,Un,47271.0,1391
+12.173,12,Panel led sobreponer 6W,Un,41152.0,1392
+12.174,12,Panel led sobreponer 12W,Un,47027.0,1393
+12.175,12,Panel led sobreponer 18W,Un,54364.0,1394
+12.176,12,Panel led sobreponer 24W,Un,69043.0,1395
+12.177,12,Panel led sobreponer cuadrado 18W,Un,50301.0,1396
+12.178,12,Pararrayos sistema monofásico,Jg,1262863.0,1397
+12.179,12,Pararrayos sistema trifásico,Jg,1582233.0,1398
+12.180,12,Patch Cord UTP Cat 5E x 3.00 m,Un,21348.0,1399
+12.181,12,Patch Cord UTP Cat 6A x 3.00 m,Un,24779.0,1400
+12.182,12,Patch Panel Cat 5E 24 puertos,Un,822077.0,1401
+12.183,12,Patch Panel Cat 6A 24 puertos,Un,1165385.0,1402
+12.184,12,Plafón losa,Un,23327.0,1403
+12.185,12,Poste de concreto 9 m x 300 Kg,Un,1254578.0,1404
+12.186,12,Poste de concreto 9 m x 510 Kg,Un,1288684.0,1405
+12.187,12,Poste de concreto 11 m x 300 Kg,Un,1600583.0,1406
+12.188,12,Poste de concreto 11 m x 510 Kg,Un,1715149.0,1407
+12.189,12,Poste de concreto 12 m x 300 Kg,Un,1720987.0,1408
+12.190,12,Poste de concreto 12 m x 510 Kg,Un,1815853.0,1409
+12.191,12,Poste de concreto 12 m x 750 Kg,Un,1885011.0,1410
+12.192,12,"Poste de concreto 12 m x 1,050 Kg",Un,2512069.0,1411
+12.193,12,Poste de concreto 13 m x 750 Kg,Un,2347465.0,1412
+12.194,12,"Poste de concreto 13 m x 1,050 Kg",Un,2788724.0,1413
+12.195,12,"Poste metálico 9 m brazo sencillo, pintado",Un,2921453.0,1414
+12.196,12,"Poste metálico 11 m brazo sencillo, pintado",Un,3658833.0,1415
+12.197,12,"Poste metálico 12 m brazo sencillo, pintado",Un,4142571.0,1416
+12.198,12,"Puesta a tierra 1 varilla de cobre 5/8"" y cable #4",Un,657975.0,1417
+12.199,12,Reubicación poste de concreto 12 m x 750 Kg,Un,905177.0,1418
+12.200,12,"Salida audio y video en tubo pvc 1/2""",Un,228180.0,1419
+12.201,12,"Salida bifásica + toma en tubo emt 1/2""",Un,144485.0,1420
+12.202,12,"Salida citófono en tubo pvc 1/2""",Un,97165.0,1421
+12.203,12,"Salida eléctrica alumbrado fluorescente tubo emt 1/2""",Un,137160.0,1422
+12.204,12,"Salida eléctrica alumbrado fluorescente tubo pvc 1/2""",Un,107113.0,1423
+12.205,12,"Salida eléctrica alumbrado fluorescente tubo emt 3/4"" con cable de cobre HF FR LS #12 AWG",Un,171064.0,1424
+12.206,12,"Salida eléctrica alumbrado fluorescente tubo pvc 3/4"" con cable de cobre HF FR LS #12 AWG",Un,126281.0,1425
+12.207,12,"Salida eléctrica alumbrado incandescente tubo emt 1/2""",Un,137160.0,1426
+12.208,12,"Salida eléctrica alumbrado incandescente tubo pvc 1/2""",Un,107113.0,1427
+12.209,12,"Salida eléctrica alumbrado incandescente tubo emt 3/4"" con cable de cobre HF FR LS #12 AWG",Un,171064.0,1428
+12.210,12,"Salida eléctrica alumbrado incandescente tubo pvc 3/4"" con cable de cobre HF FR LS #12 AWG",Un,126281.0,1429
+12.211,12,Salida eléctrica equipo condensador aire acondicionado,Un,120802.0,1430
+12.212,12,"Salida eléctrica mini split en tubo pvc 3/4""",Un,196166.0,1431
+12.213,12,"Salida fotocelda en tubo emt 1/2""",Un,106990.0,1432
+12.214,12,"Salida fotocelda en tubo pvc 1/2""",Un,93704.0,1433
+12.215,12,"Salida interruptor conmutable doble en tubo emt 1/2""",Un,160316.0,1434
+12.216,12,"Salida interruptor conmutable doble en tubo pvc 1/2""",Un,144574.0,1435
+12.217,12,"Salida interruptor conmutable doble en tubo pvc 3/4"" con cable de cobre HF FR LS #12 AWG",Un,169092.0,1436
+12.218,12,"Salida interruptor conmutable sencillo tubo emt 1/2""",Un,139580.0,1437
+12.219,12,"Salida interruptor conmutable sencillo tubo pvc 1/2""",Un,123838.0,1438
+12.220,12,"Salida interruptor conmutable sencillo tubo pvc 3/4"" con cable de cobre HF FR LS #12 AWG",Un,143339.0,1439
+12.221,12,"Salida interruptor conmutable triple en tubo emt 3/4""",Un,199976.0,1440
+12.222,12,"Salida interruptor conmutable triple en tubo pvc 3/4""",Un,170283.0,1441
+12.223,12,"Salida interruptor conmutable triple en tubo pvc 3/4"" con cable de cobre HF FR LS #12 AWG",Un,195371.0,1442
+12.224,12,"Salida interruptor doble en tubo emt 1/2""",Un,144127.0,1443
+12.225,12,"Salida interruptor doble en tubo pvc 1/2""",Un,128385.0,1444
+12.226,12,"Salida interruptor doble en tubo pvc 3/4"" con cable de cobre HF FR LS #12 AWG",Un,147886.0,1445
+12.227,12,"Salida interruptor inteligente 1C en tubo pvc 1/2""",Un,234881.0,1446
+12.228,12,"Salida interruptor inteligente 2C en tubo pvc 1/2""",Un,251847.0,1447
+12.229,12,"Salida interruptor inteligente 3C en tubo pvc 1/2""",Un,275998.0,1448
+12.230,12,"Salida interruptor inteligente + toma en tubo pvc 1/2""",Un,231990.0,1449
+12.231,12,"Salida interruptor sencillo en tubo emt 1/2""",Un,126068.0,1450
+12.232,12,"Salida interruptor sencillo en tubo pvc 1/2""",Un,110326.0,1451
+12.233,12,"Salida interruptor sencillo en tubo pvc 3/4"" con cable de cobre HF FR LS #12 AWG",Un,124809.0,1452
+12.234,12,"Salida interruptor sencillo + toma en tubo emt 1/2""",Un,153069.0,1453
+12.235,12,"Salida interruptor sencillo + toma en tubo pvc 1/2""",Un,134871.0,1454
+12.236,12,"Salida interruptor sencillo + toma en tubo pvc 3/4"" con cable de cobre HF FR LS #12 AWG",Un,154039.0,1455
+12.237,12,"Salida interruptor triple en tubo emt 1/2""",Un,169601.0,1456
+12.238,12,"Salida interruptor triple en tubo pvc 1/2""",Un,153859.0,1457
+12.239,12,"Salida interruptor triple en tubo pvc 3/4"" con cable de cobre HF FR LS #12 AWG",Un,178377.0,1458
+12.240,12,"Salida punto alarma en tubo emt 1/2""",Un,130931.0,1459
+12.241,12,"Salida punto alarma en tubo pvc 1/2""",Un,109949.0,1460
+12.242,12,"Salida punto cámara cctv en tubo emt 1/2""",Un,130931.0,1461
+12.243,12,"Salida punto cámara cctv en tubo pvc 1/2""",Un,109949.0,1462
+12.244,12,"Salida timbre y pulsador en tubo pvc 1/2""",Un,153371.0,1463
+12.245,12,"Salida toma estufa en tubo pvc 3/4""",Un,238927.0,1464
+12.246,12,"Salida toma HDMI sencillo en tubo pvc 3/4"", cable HDMI 4K de fibra óptica x 10 m",Un,230638.0,1465
+12.247,12,"Salida toma HDMI sencillo en tubo pvc 3/4"", cable HDMI 4K encauchetado x 10 m",Un,196096.0,1466
+12.248,12,"Salida toma pata trabada en tubo pvc 1/2""",Un,105137.0,1467
+12.249,12,"Salida toma telefónica en tubo pvc 1/2""",Un,89537.0,1468
+12.250,12,"Salida toma televisión en tubo pvc 1/2""",Un,106934.0,1469
+12.251,12,"Salida tomacorriente doble polo a tierra con tapa para intemperie en tubo emt 1/2""",Un,170078.0,1470
+12.252,12,"Salida tomacorriente doble polo a tierra con tapa para intemperie en tubo pvc 1/2""",Un,151880.0,1471
+12.253,12,"Salida tomacorriente doble polo a tierra con tapa para intemperie en tubo pvc 3/4"" con cable HF FR LS #12 AWG",Un,171048.0,1472
+12.254,12,"Salida tomacorriente doble polo a tierra tubo emt 1/2""",Un,156838.0,1473
+12.255,12,"Salida tomacorriente doble polo a tierra tubo pvc 1/2""",Un,138640.0,1474
+12.256,12,"Salida tomacorriente doble polo a tierra tubo pvc 3/4"" con cable de cobre HF FR LS #12 AWG",Un,157808.0,1475
+12.257,12,"Salida tomacorriente doble polo regulado tubo emt 1/2""",Un,168933.0,1476
+12.258,12,"Salida tomacorriente doble polo regulado tubo pvc 1/2""",Un,150735.0,1477
+12.259,12,"Salida tomacorriente doble polo regulado tubo pvc 3/4"" con cable de cobre HF FR LS #12 AWG",Un,169903.0,1478
+12.260,12,"Salida tomacorriente doble tipo GFCI en tubo emt 1/2""",Un,233838.0,1479
+12.261,12,"Salida tomacorriente doble tipo GFCI en tubo pvc 1/2""",Un,215640.0,1480
+12.262,12,"Salida tomacorriente doble tipo GFCI en tubo pvc 3/4"" con cable de cobre HF FR LS #12 AWG",Un,234808.0,1481
+12.263,12,"Salida trifásica + toma en tubo emt 3/4""",Un,245677.0,1482
+12.264,12,"Salida ventilador en tubo pvc 1/2""",Un,113183.0,1483
+12.265,12,"Salida voz y datos tubo pvc 1/2"" con cable UTP Cat 5E",Un,151453.0,1484
+12.266,12,"Salida voz y datos tubo pvc 1/2"" con cable UTP Cat 6A",Un,175150.0,1485
+12.267,12,"Sensor de movimiento en tubo pvc 1/2""",Un,151472.0,1486
+12.268,12,Sockets lámpara fluorescente + Balasto P/48W,Un,97560.0,1487
+12.269,12,Strip telefónico 10 pares,Un,267168.0,1488
+12.270,12,Strip telefónico 20 pares,Un,343297.0,1489
+12.271,12,Strip telefónico 40 pares,Un,475203.0,1490
+12.272,12,Strip telefónico 60 pares,Un,605033.0,1491
+12.273,12,Strip telefónico 80 pares,Un,728795.0,1492
+12.274,12,Strip telefónico 100 pares,Un,1032998.0,1493
+12.275,12,Suministro e instalac. luminaria de pared colonial 70W,Un,1559796.0,1494
+12.276,12,Suministro e instalac. luminaria pedestal colonial 70W,Un,984460.0,1495
+12.277,12,Suministro e instalación de citófono,Un,112712.0,1496
+12.278,12,Suministro e instalación de juego de 2 Páneles Solares Fotovoltáicos policristalinos de 330W,Un,2035360.0,1497
+12.279,12,Suministro e instalación interruptor bipolar 15-30 A,Un,60022.0,1498
+12.280,12,Suministro e instalación interruptor bipolar 40-60 A,Un,71113.0,1499
+12.281,12,Suministro e instalación interruptor monopolar 15-50 A,Un,25192.0,1500
+12.282,12,Suministro e instalación interruptor tripolar 15-60 A,Un,126577.0,1501
+12.283,12,Suministro e instalación luminaria de mercurio 125W,Un,395291.0,1502
+12.284,12,Suministro e instalación luminaria de mercurio 250W,Un,487747.0,1503
+12.285,12,Suministro e instalación luminaria de mercurio 400W,Un,870560.0,1504
+12.286,12,Suministro e instalación reflector de piso 250W,Un,610349.0,1505
+12.287,12,Suministro e instalación reflector de piso 400W,Un,744702.0,1506
+12.288,12,Suministro e instalación riel chanel 4x2 perforado,m,33924.0,1507
+12.289,12,Suministro e instalación riel chanel 4x4 perforado,m,48164.0,1508
+12.290,12,Tablero monofásico de 4 circuitos,Un,321033.0,1509
+12.291,12,Tablero monofásico de 6 circuitos,Un,407801.0,1510
+12.292,12,Tablero monofásico de 8 circuitos,Un,533059.0,1511
+12.293,12,Tablero monofásico de 12 circuitos,Un,765485.0,1512
+12.294,12,Toma computador doble CAT 5E,Un,102440.0,1513
+12.295,12,Transformador monofásico aceite 37.5 kVA,Un,15007023.0,1514
+12.296,12,Transformador monofásico aceite 75 kVA,Un,18751389.0,1515
+12.297,12,Transformador trifásico aceite 45 kVA,Un,18917223.0,1516
+12.298,12,Transformador trifásico aceite 75 kVA,Un,25082889.0,1517
+12.299,12,Transformador trifásico tipo pedestal aceite 45 kVA,Un,48799173.0,1518
+12.300,12,Transformador trifásico tipo pedestal aceite 75 kVA,Un,53765739.0,1519
+12.301,12,"Tubo conduit emt galvanizado Ø= 1/2""",m,7488.0,1520
+12.302,12,"Tubo conduit emt galvanizado Ø= 3/4""",m,10739.0,1521
+12.303,12,"Tubo conduit emt galvanizado Ø= 1""",m,12272.0,1522
+12.304,12,"Tubo conduit emt galvanizado Ø= 2""",m,31243.0,1523
+12.305,12,"Tubo conduit emt galvanizado Ø= 3""",m,66336.0,1524
+12.306,12,"Tubo conduit imc galvanizado Ø= 1/2""",m,17693.0,1525
+12.307,12,"Tubo conduit imc galvanizado Ø= 3/4""",m,24450.0,1526
+12.308,12,"Tubo conduit imc galvanizado Ø= 1""",m,27448.0,1527
+12.309,12,"Tubo conduit imc galvanizado Ø= 2""",m,60003.0,1528
+12.310,12,"Tubo conduit imc galvanizado Ø= 3""",m,127021.0,1529
+12.311,12,"Tubo conduit pvc Ø= 1/2""",m,10074.0,1530
+12.312,12,"Tubo conduit pvc Ø= 3/4""",m,10958.0,1531
+12.313,12,"Tubo conduit pvc Ø= 1""",m,12397.0,1532
+12.314,12,"Tubo conduit pvc Ø= 1 1/4""",m,17324.0,1533
+12.315,12,"Tubo conduit pvc Ø= 1 1/2""",m,22146.0,1534
+12.316,12,"Tubo conduit pvc Ø= 2""",m,29595.0,1535
+12.317,12,"Tubo conduit pvc SCH 40 Ø= 1/2""",m,12667.0,1536
+12.318,12,"Tubo conduit pvc SCH 40 Ø= 3/4""",m,14436.0,1537
+12.319,12,"Tubo conduit pvc SCH 40 Ø= 1""",m,17949.0,1538
+12.320,12,"Tubo conduit pvc SCH 40 Ø= 1 1/4""",m,23847.0,1539
+12.321,12,"Tubo conduit pvc SCH 40 Ø= 1 1/2""",m,29288.0,1540
+12.322,12,"Tubo conduit pvc SCH 40 Ø= 2""",m,37211.0,1541
+12.323,12,"Tubo doble pared TDP pvc Ø= 3""",m,38401.0,1542
+12.324,12,"Tubo doble pared TDP pvc Ø= 4""",m,45620.0,1543
+12.325,12,"Tubo tipo liviano EB pvc Ø= 3""",m,32698.0,1544
+12.326,12,"Tubo tipo liviano EB pvc Ø= 4""",m,46745.0,1545
+12.327,12,"Tubo tipo pesado DB pvc Ø= 2""",m,24967.0,1546
+12.328,12,"Tubo tipo pesado DB pvc Ø= 3""",m,40191.0,1547
+12.329,12,"Tubo tipo pesado DB pvc Ø= 4""",m,58808.0,1548
+12.330,12,"Varilla de cobre 5/8"" x 2.4 m",Un,573331.0,1549
+13.01,13,"Acometida gas unifamiliar en tubería Pe-Al-Pe Ø= 1/2""",Un,584394.0,1550
+13.02,13,Caja medidor de gas sobrepuesta,Un,103652.0,1551
+13.03,13,Caja para registro de gas 13x13 cm,Un,16039.0,1552
+13.04,13,"Elevador gas de ½""",Un,84376.0,1553
+13.05,13,Instalación interna gas punto adicional 6 m,Un,454176.0,1554
+13.06,13,Instalación interna gas punto principal 15 m,Un,988951.0,1555
+13.07,13,Manguera para gas conexión flexible,Un,54689.0,1556
+13.08,13,Medidor de gas natural domiciliario,Un,299040.0,1557
+13.09,13,Punto salida gas calentador de paso,Un,76056.0,1558
+13.10,13,Punto salida gas estufa/ horno,Un,47767.0,1559
+13.11,13,"Registro de bola 1/2"" para red de gas",Un,53800.0,1560
+13.12,13,"Registro de bola 3/4"" para red de gas",Un,71390.0,1561
+13.13,13,Regulador R -20 gas propano,Un,60006.0,1562
+13.14,13,Rejilla ventilación gas pvc 20x20 cm,Un,26221.0,1563
+13.15,13,Rejilla ventilación gas pvc 26x26 cm,Un,30535.0,1564
+13.16,13,"Tubería gas acero galvan. Ø= 1/2"" (incl. accesorios)",m,29211.0,1565
+13.17,13,"Tubería gas acero galvan. Ø= 3/4"" (incl. accesorios)",m,36123.0,1566
+13.18,13,"Tubería de cobre red gas Ø= 1/2"" (incl. accesorios)",m,40039.0,1567
+13.19,13,"Tubería de cobre red gas Ø= 3/4"" (incl. accesorios)",m,57985.0,1568
+13.20,13,"Tubería Pe-Al-Pe para gas Ø= 1/2""",m,17547.0,1569
+13.21,13,"Válvula Pe-Al-Pe para gas Ø= 1/2""",Un,47870.0,1570
+14.01,14,Aislamiento acústico membrana damtec standard 3 mm,m2,25885.0,1571
+14.02,14,Aislamiento acústico membrana fiberglass 3 mm,m2,50737.0,1572
+14.03,14,"Aislamiento térmico frescasa 2 ½"" (sin papel)",m2,31842.0,1573
+14.04,14,"Aislamiento térmico frescasa 3 ½"" (con foil)",m2,50653.0,1574
+14.05,14,"Aislamiento térmico frescasa 3 ½"" (con papel)",m2,42978.0,1575
+14.06,14,"Aislamiento térmico frescasa 3 ½"" (sin papel)",m2,35545.0,1576
+14.07,14,"Aislamiento térmico y acústico Black Theater 2""",m2,125518.0,1577
+14.08,14,"Cielo raso con pañete (revoque), malla y esterilla",m2,101348.0,1578
+14.09,14,"Cielo raso en drywall de 1/2""",m2,66759.0,1579
+14.10,14,"Cielo raso en drywall de 1/2"" (incl. pintura)",m2,104378.0,1580
+14.11,14,Cielo raso en duracustic y aluminio natural,m2,94602.0,1581
+14.12,14,Cielo raso en eterboard 6 mm,m2,69386.0,1582
+14.13,14,Cielo raso en eterboard 6 mm (incl. pintura),m2,107005.0,1583
+14.14,14,Cielo raso en eterboard 8 mm,m2,76101.0,1584
+14.15,14,Cielo raso en eterboard 8 mm (incl. pintura),m2,113720.0,1585
+14.16,14,Cielo raso en icopor y aluminio natural,m2,65466.0,1586
+14.17,14,"Cielo raso en placa de yeso de 3/8""",m2,63633.0,1587
+14.18,14,"Cielo raso en placa de yeso de 3/8"" (incl. pintura)",m2,100455.0,1588
+14.19,14,"Cielo raso en placa de yeso de 1/2""",m2,65651.0,1589
+14.20,14,"Cielo raso en placa de yeso de 1/2"" (incl. pintura)",m2,102473.0,1590
+14.21,14,Cielo raso en pvc,m2,96868.0,1591
+14.22,14,Cielo raso en superboard 6 mm,m2,69701.0,1592
+14.23,14,Cielo raso en superboard 6 mm (incl. pintura),m2,107320.0,1593
+14.24,14,Cielo raso en superboard 8 mm,m2,77949.0,1594
+14.25,14,Cielo raso en superboard 8 mm (incl. pintura),m2,115568.0,1595
+14.26,14,Cielo raso en tablilla machihembrada de pino,m2,135223.0,1596
+14.27,14,Moldura de yeso 5.5x5 cm para cielo raso,m,11559.0,1597
+15.01,15,Alfombra Berber de Alfa,m2,76516.0,1598
+15.02,15,Alistado de piso en mortero esmaltado e= 3 cm,m2,30878.0,1599
+15.03,15,"Base para mueble cocina/baño a= 50 cm, e= 10 cm",m,32857.0,1600
+15.04,15,Boca puerta en granito pulido (incl. dilatación),m,71164.0,1601
+15.05,15,Boca puerta en granito sin pulir (incl. dilatación),m,65113.0,1602
+15.06,15,"Brillada de piso (mármol, granito o terrazo)",m2,17994.0,1603
+15.07,15,Cinta antideslizante a= 48 mm (resistencia UV),m,15531.0,1604
+15.08,15,Desbastado de piso en madera (incl. sellado),m2,33593.0,1605
+15.09,15,Emboquillado de juntas para piso con blanco de zinc,m2,9807.0,1606
+15.10,15,Emboquillado de juntas para piso con Concolor,m2,10737.0,1607
+15.11,15,Endurecedor superficial neutro tipo cuarzo,m2,23010.0,1608
+15.12,15,Granito pulido para paso de escalera,m,85672.0,1609
+15.13,15,Gravilla lavada para paso de escalera,m,50677.0,1610
+15.14,15,Guardaescoba en baldosa terrazo h= 7.5 cm,m,40270.0,1611
+15.15,15,Guardaescoba en cerámica h= 10 cm,m,14351.0,1612
+15.16,15,Guardaescoba en granito pulido (incl. dilatación),m,49223.0,1613
+15.17,15,Guardaescoba en gravilla lavada (incl. dilatación),m,26216.0,1614
+15.18,15,Guardaescoba en madera (incl. laca),m,25737.0,1615
+15.19,15,Guardaescoba en MDF pegado con adhesivo de montaje,m,21856.0,1616
+15.20,15,Guardaescoba en mortero (incl. pintura en esmalte),m,26389.0,1617
+15.21,15,Guardaescoba en porcelanato h= 10 cm,m,33011.0,1618
+15.22,15,Guardaescoba en pvc h= 7 cm,m,25524.0,1619
+15.23,15,Guardaescoba en tableta de gres h= 8 cm,m,22281.0,1620
+15.24,15,Guardaescoba en vinisol h= 6.8 cm,m,14460.0,1621
+15.25,15,Impermeabilización con emulsión asfáltica,m2,13113.0,1622
+15.26,15,Impermeabilización de piso con manto fiberglass 3 mm,m2,40792.0,1623
+15.27,15,Impermeabilización de piso con manto pietra 3.5 mm,m2,57552.0,1624
+15.28,15,Impermeabilización de piso con Sika Mortero Imperm.,m2,13664.0,1625
+15.29,15,Impermeabilización de piso con Sikalastic 612 CO,m2,125716.0,1626
+15.30,15,Impermeabilización de piso con SikaManto 3 mm,m2,58300.0,1627
+15.31,15,Impermeabilización de superficie enterrada,m2,45345.0,1628
+15.32,15,Impermeabilización de terraza con broncoelástico,m2,80439.0,1629
+15.33,15,Media caña coextruida en pvc x 9 cm,m,30532.0,1630
+15.34,15,Media caña en granito pulido (incl. dilatación),m,65652.0,1631
+15.35,15,Media caña Eurozócalo (Guarne) x 7.5 cm,m,82860.0,1632
+15.36,15,Mortero acrílico para revestimiento Sikatop 121,m2,34482.0,1633
+15.37,15,Mortero autonivelante e= 5 mm,m2,45095.0,1634
+15.38,15,Mortero ó plantilla de nivelación para piso e= 4 cm,m2,32299.0,1635
+15.39,15,Mortero ó plantilla de nivelación para piso e= 5 cm,m2,40120.0,1636
+15.40,15,Pirlán de aluminio natural,m,10535.0,1637
+15.41,15,"Pirlán de bronce 1""",m,39400.0,1638
+15.42,15,"Placa piso en concreto de 20.7 MPa, e= 0.07 m",m2,68521.0,1639
+15.43,15,"Placa piso en concreto de 20.7 MPa, e= 0.10 m",m2,99055.0,1640
+15.44,15,"Placa piso en concreto de 20.7 MPa, e= 0.12 m",m2,118872.0,1641
+15.45,15,"Placa piso en concreto de 20.7 MPa, e= 0.15 m",m2,148583.0,1642
+15.46,15,Piso de grama sintética 7 mm,m2,44024.0,1643
+15.47,15,Piso deck calypso 10 mm,m2,116007.0,1644
+15.48,15,Piso en baldosa de cemento 25x25 cm,m2,72324.0,1645
+15.49,15,Piso en baldosa de vidrio 20x20 cm,m2,332290.0,1646
+15.50,15,Piso en baldosa terrazo No. 5,m2,142159.0,1647
+15.51,15,Piso en caucho tipo toperol,m2,39467.0,1648
+15.52,15,Piso en cerámica 20.5x20.5 cm,m2,87213.0,1649
+15.53,15,Piso en cerámica 20.5x30.5 cm,m2,92047.0,1650
+15.54,15,Piso en cerámica 25.0x35.0 cm,m2,97193.0,1651
+15.55,15,Piso en cerámica 33.8x33.8 cm,m2,101038.0,1652
+15.56,15,Piso en duropiso 33.8x33.8 cm,m2,102804.0,1653
+15.57,15,Piso en granito pulido (incl. dilatación),m2,193926.0,1654
+15.58,15,Piso en gravilla lavada (incl. dilatación),m2,74757.0,1655
+15.59,15,Piso en gravilla lavada y tableta de gres,m2,94075.0,1656
+15.60,15,Piso en lámina alfajor,m2,339761.0,1657
+15.61,15,Piso en mayólica de 20x20 cm,m2,86237.0,1658
+15.62,15,Piso en pizarra natural 45x45 cm,m2,117445.0,1659
+15.63,15,Piso en porcelanato 50x50 cm,m2,124816.0,1660
+15.64,15,Piso en porcelanato 60x60 cm,m2,149133.0,1661
+15.65,15,Piso en porcelanato Galaxy Stone Doblec 60x60 cm,m2,249650.0,1662
+15.66,15,Piso en porcelanato tipo madera 19.5x88 cm,m2,162092.0,1663
+15.67,15,Piso en tablilla machimbrada,m2,149268.0,1664
+15.68,15,Piso en tablón de gres 25x25 cm,m2,99319.0,1665
+15.69,15,Piso en tablón de gres 25x25 cm grafilado,m2,96143.0,1666
+15.70,15,Piso en tablón de gres 25x25 cm paso escalera,m,69146.0,1667
+15.71,15,Piso en tablón de gres 30x30 cm,m2,100686.0,1668
+15.72,15,Piso en tablón de gres 30x30 cm grafilado,m2,98061.0,1669
+15.73,15,Piso en tablón de gres 33x33 cm,m2,108866.0,1670
+15.74,15,Piso en tablón de gres 33x33 cm grafilado,m2,105019.0,1671
+15.75,15,Piso en vinisol de 2 mm de 30x30 cm,m2,58178.0,1672
+15.76,15,Piso laminado doméstico general,m2,65026.0,1673
+15.77,15,Pulido de piso en madera (incl. sellado),m2,28508.0,1674
+15.78,15,Pulido mecánico de superficie de concreto,m2,8593.0,1675
+15.79,15,"Pulido y abrillantado piso (mármol, granito o terrazo)",m2,35488.0,1676
+15.80,15,Rejilla para piso cuadrada antiempozamiento 10x10 cm,Un,27285.0,1677
+15.81,15,"Rejilla para piso cúpula aluminio 4""x2""",Un,33365.0,1678
+15.82,15,"Rejilla para piso cúpula aluminio 4""x3""",Un,38993.0,1679
+15.83,15,"Rejilla para piso cúpula aluminio 5""x3""",Un,44614.0,1680
+15.84,15,"Rejilla para piso en aluminio 3""x2""",Un,17007.0,1681
+15.85,15,"Rejilla para piso en bronce 3""x2"" con sosco aluminio",Un,119478.0,1682
+15.86,15,"Rejilla para piso en pvc 3""x2""",Un,13505.0,1683
+15.87,15,"Rejilla para piso en pvc 4""x3""",Un,17313.0,1684
+15.88,15,Rejilla para piso rectangular drenaje oculto 30x11 cm,Un,217495.0,1685
+15.89,15,Revestimiento para piso en microcemento,m2,160770.0,1686
+15.90,15,Zócalo en gravilla lavada (incl. dilatación),m2,80296.0,1687
+16.01,16,"Barra de seguridad 12"" para baño",Un,226494.0,1688
+16.02,16,"Barra de seguridad 18"" para baño",Un,242208.0,1689
+16.03,16,"Barra de seguridad 24"" para baño",Un,257921.0,1690
+16.04,16,"Barra de seguridad 30"" para baño",Un,313123.0,1691
+16.05,16,Barra de seguridad en L para baño,Un,760251.0,1692
+16.06,16,Barra de seguridad pared a piso para baño,Un,599215.0,1693
+16.07,16,Barra de seguridad plegable para baño,Un,1008862.0,1694
+16.08,16,Barra de seguridad sanitaria tipo H para baño,Un,1427809.0,1695
+16.09,16,Basurero plástico tapa vaivén 26 Lt,Un,60083.0,1696
+16.10,16,Caja para llaves de lavadora de 23x15 cm,Un,31921.0,1697
+16.11,16,Charquero ó bordillo para ducha (incl. enchape),m,64931.0,1698
+16.12,16,Dispensador de jabón líquido,Un,88590.0,1699
+16.13,16,Dispensador de papel higiénico,Un,145209.0,1700
+16.14,16,Dispensador de toallas de papel,Un,112610.0,1701
+16.15,16,Enchape de gres fachaleta lisa 24x7 cm,m2,93857.0,1702
+16.16,16,Enchape en cerámica 20.5x20.5 cm,m2,84806.0,1703
+16.17,16,Enchape en cerámica 20.5x30.5 cm,m2,89641.0,1704
+16.18,16,Enchape en cerámica 25.0x35.0 cm,m2,94787.0,1705
+16.19,16,Enchape en cerámica 33.8x33.8 cm,m2,98632.0,1706
+16.20,16,Enchape en cristanac 30.0x30.0 cm,m2,271319.0,1707
+16.21,16,Enchape en piedra amarilla,m2,356346.0,1708
+16.22,16,Enchape en piedra crema,m2,193328.0,1709
+16.23,16,Esquinero en pvc de alto impacto texturizado 4x4 cm,m,95450.0,1710
+16.24,16,Esquinero plástico blanco 2x2 cm,m,9071.0,1711
+16.25,16,Guarda camilla pvc 15 cm blanco (incl. sello elástico),m,531355.0,1712
+16.26,16,Guarda camilla pvc 15 cm gris (incl. sello elástico),m,531355.0,1713
+16.27,16,Juego de incrustaciones cromo para baño x 6 piezas,Un,264682.0,1714
+16.28,16,Juego de incrustaciones para baño x 4 piezas,Un,68851.0,1715
+16.29,16,Juego de incrustaciones para baño x 5 piezas,Un,120409.0,1716
+16.30,16,Juego de incrustaciones para baño x 7 piezas,Un,173146.0,1717
+16.31,16,Papelera plástica con pedal 5 Lt,Un,45124.0,1718
+16.32,16,Rejilla ventilación celosía pvc 15x15 cm,Un,26614.0,1719
+16.33,16,Rejilla ventilación celosía pvc 20x20 cm,Un,31304.0,1720
+16.34,16,Revestimiento exterior Ekowood,m2,460962.0,1721
+16.35,16,Revestimiento exterior Prodema,m2,360494.0,1722
+16.36,16,Silla de seguridad plegable para ducha,Un,1791259.0,1723
+16.37,16,Spacatto travertino,m2,383134.0,1724
+16.38,16,Tapa plástica registro de 15x15 cm,Un,19326.0,1725
+16.39,16,Tapa plástica registro de 20x20 cm,Un,23479.0,1726
+16.40,16,"Tubo cortina en aluminio Ø= 3/4""",m,33842.0,1727
+16.41,16,Win en aluminio para enchape en cerámica,m,15916.0,1728
+16.42,16,Win plástico para enchape en cerámica,m,12536.0,1729
+17.01,17,Bañera (tina) en fibra de vidrio 1.80 m x 0.75 m,Un,3694582.0,1730
+17.02,17,Bañera (tina) en fibra de vidrio 1.80 m x 0.90 m,Un,4345437.0,1731
+17.03,17,Combo sanitario y lavamanos Acuacer Plus con pedestal,Un,595689.0,1732
+17.04,17,Combo sanitario y lavamanos Acuario Fénix con pedestal,Un,817015.0,1733
+17.05,17,Combo sanitario y lavamanos Avanti Plus con pedestal,Un,921675.0,1734
+17.06,17,Combo sanitario y lavamanos Ecoclean con pedestal,Un,895424.0,1735
+17.07,17,Combo sanitario y lavamanos Montecarlo Novo Valencia,Un,1155454.0,1736
+17.08,17,Combo sanitario y lavamanos San Giorgio con pedestal,Un,1127495.0,1737
+17.09,17,Combo sanitario y lavamanos Smart Al Bone con pedestal,Un,1081360.0,1738
+17.10,17,Grifería ducha mezclador Balta,Un,197231.0,1739
+17.11,17,Grifería ducha mezclador Piscis,Un,185731.0,1740
+17.12,17,Grifería ducha monocontrol Koral,Un,406231.0,1741
+17.13,17,Grifería ducha monocontrol Thames,Un,543431.0,1742
+17.14,17,Grifería ducha sencilla Balta,Un,121423.0,1743
+17.15,17,Grifería ducha sencilla Piscis,Un,114923.0,1744
+17.16,17,Fluxómetro con sensor para sanitario,Un,1317089.0,1745
+17.17,17,Fluxómetro Corona para sanitario institucional,Un,1079646.0,1746
+17.18,17,Fluxómetro Sloan para sanitario institucional,Un,996925.0,1747
+17.19,17,Grifería lavamanos con sensor,Un,521107.0,1748
+17.20,17,Grifería lavamanos Fénix,Un,234687.0,1749
+17.21,17,Grifería lavamanos Marruecos,Un,299920.0,1750
+17.22,17,Grifería lavamanos Nogal,Un,184451.0,1751
+17.23,17,Grifería lavamanos tipo push,Un,359825.0,1752
+17.24,17,Grifería lavamanos Vento,Un,239354.0,1753
+17.25,17,Grifería lavaplatos con sensor,Un,648567.0,1754
+17.26,17,Grifería lavaplatos Mónaco,Un,235921.0,1755
+17.27,17,Grifería lavaplatos monocontrol Barcelona,Un,214188.0,1756
+17.28,17,Grifería lavaplatos Piscis,Un,195088.0,1757
+17.29,17,Grifería lavaplatos sencilla Galaxia,Un,193737.0,1758
+17.30,17,Grifería lavaplatos tipo push,Un,302047.0,1759
+17.31,17,Grifería orinal con sensor automático,Un,520273.0,1760
+17.32,17,Jacuzzi en fibra de vidrio 1.60 m x 0.80 m,Un,9049350.0,1761
+17.33,17,Jacuzzi en fibra de vidrio 1.81 m x 1.23 m,Un,12688311.0,1762
+17.34,17,Jacuzzi en fibra de vidrio 1.80 m x 1.80 m,Un,34213026.0,1763
+17.35,17,Lavadero plástico 60x60 cm,Un,293001.0,1764
+17.36,17,Lavadero prefabricado en cerámica 70x60 cm,Un,451427.0,1765
+17.37,17,Lavadero prefabricado en granito 80x60 cm,Un,425320.0,1766
+17.38,17,Lavamanos Acuacer de colgar blanco,Un,178546.0,1767
+17.39,17,Lavamanos Acuacer de colgar a color,Un,183699.0,1768
+17.40,17,Lavamanos Aquajet institucional blanco,Un,675150.0,1769
+17.41,17,Lavamanos Avanti blanco,Un,242073.0,1770
+17.42,17,Lavamanos Avanti a color,Un,247228.0,1771
+17.43,17,Lavamanos con pedestal Acuacer blanco,Un,236926.0,1772
+17.44,17,Lavamanos con pedestal Acuacer a color,Un,247228.0,1773
+17.45,17,Lavamanos con pedestal Avanti blanco,Un,281568.0,1774
+17.46,17,Lavamanos con pedestal Avanti a color,Un,293584.0,1775
+17.47,17,Lavamanos con pedestal Milano blanco,Un,240358.0,1776
+17.48,17,Lavamanos con pedestal Milano a color,Un,248944.0,1777
+17.49,17,Lavamanos corrido en concreto (incl. enchape y llave),m,363779.0,1778
+17.50,17,Lavamanos Marsella para sobreponer blanco,Un,319341.0,1779
+17.51,17,Lavamanos Marsella para sobreponer a color,Un,322775.0,1780
+17.52,17,Lavamanos Milano blanco,Un,183699.0,1781
+17.53,17,Lavamanos Milano a color,Un,187133.0,1782
+17.54,17,Lavamanos redondo acero inox. pulido Ø= 30 cm,Un,331444.0,1783
+17.55,17,Lavaplatos doble acero inoxidable 0.84x0.51 m,Un,736439.0,1784
+17.56,17,Lavaplatos sencillo acero inoxidable 0.60x0.40 m,Un,246030.0,1785
+17.57,17,"Llave lavadora cromada de 1/2""",Un,87550.0,1786
+17.58,17,"Llave terminal cromada de 1/2""",Un,59320.0,1787
+17.59,17,"Llave terminal de cobre de 1/2""",Un,63360.0,1788
+17.60,17,Orinal mediano a color grifería tipo push,Un,829565.0,1789
+17.61,17,Orinal mediano blanco grifería tipo push,Un,820023.0,1790
+17.62,17,Orinal mediano institucional grifería antivandálica,Un,983914.0,1791
+17.63,17,Orinal corrido en concreto (incl. enchape),m,307377.0,1792
+17.64,17,Poceta de aseo prefabricada en cerámica 40x40x40 cm,m,228410.0,1793
+17.65,17,Poceta de aseo prefabricada en granito 42x42x25 cm,Un,235916.0,1794
+17.66,17,Sanitario Acuacer a color,Un,375752.0,1795
+17.67,17,Sanitario Acuacer blanco,Un,356672.0,1796
+17.68,17,Sanitario Aquajet blanco,Un,818026.0,1797
+17.69,17,Sanitario Aquapro alongado blanco,Un,531851.0,1798
+17.70,17,Sanitario Avanti a color,Un,507384.0,1799
+17.71,17,Sanitario Avanti blanco,Un,494035.0,1800
+17.72,17,Sanitario discapacitados tipo push,Un,1639263.0,1801
+17.73,17,Sanitario Ecoclean,Un,663766.0,1802
+17.74,17,Sanitario infantil Kiddy,Un,797416.0,1803
+17.75,17,Sanitario institucional tipo push,Un,635832.0,1804
+17.76,17,Sanitario Manantial blanco,Un,414418.0,1805
+17.77,17,Tanque de agua en fibra de vidrio 250 L,Un,796192.0,1806
+17.78,17,Tanque de agua en fibra de vidrio 500 L,Un,1094098.0,1807
+17.79,17,"Tanque de agua en fibra de vidrio 1,000 L",Un,1518867.0,1808
+17.80,17,Taza Adriática,Un,922583.0,1809
+17.81,17,Taza Adriática fluxómetro gem,Un,2068152.0,1810
+17.82,17,Taza Adriática grifería antivandálica,Un,1645720.0,1811
+17.83,17,Taza Báltica con válvula push de empotrar,Un,1481202.0,1812
+17.84,17,Taza Báltica uso institucional,Un,432732.0,1813
+18.01,18,Cantonera eléctrica de 110V,Un,169126.0,1814
+18.02,18,Cierra puerta brazo hidráulico 45 Kg,Un,206835.0,1815
+18.03,18,Cortasol celoscreen perforado paso 120,m2,315574.0,1816
+18.04,18,Cortina metálica enrollable con cajón recogedor,m2,298846.0,1817
+18.05,18,División orinal 96x46 cm en acero inox. Cal. 18,m2,696035.0,1818
+18.06,18,División para baño en acero inox. Cal. 18,m2,1185003.0,1819
+18.07,18,División para baño en acrílico y aluminio,m2,322020.0,1820
+18.08,18,División para baño en lámina Cal. 20 (incl. pintura),m2,491416.0,1821
+18.09,18,División para baño en vidrio templado 8 mm,m2,685200.0,1822
+18.10,18,"Escalera de gato en tubo Ø= 1"" (incl. pintura)",m,180802.0,1823
+18.11,18,Junta de dilatación en aluminio,m,38987.0,1824
+18.12,18,Marco metálico lámina Cal. 20 a=0.60 m (incl. pintura),Un,233289.0,1825
+18.13,18,Marco metálico lámina Cal. 20 a=0.70 m (incl. pintura),Un,236143.0,1826
+18.14,18,Marco metálico lámina Cal. 20 a=0.80 m (incl. pintura),Un,245149.0,1827
+18.15,18,Marco metálico lámina Cal. 20 a=0.90 m (incl. pintura),Un,262142.0,1828
+18.16,18,Marco para ventana plomada blindada lámina de 1.5 mm y vidrio plomado blindado 24 mm 20x30 cm,Un,2563791.0,1829
+18.17,18,Mesón cocina acero inoxidable 1.50 m (incl. grifería),Un,817237.0,1830
+18.18,18,Mesón cocina acero inoxidable 1.80 m (incl. grifería),Un,902022.0,1831
+18.19,18,Mesón cocina acero inoxidable 2.10 m (incl. grifería),Un,1048471.0,1832
+18.20,18,Mosquitero fijo con marco en perfil de aluminio,m2,122487.0,1833
+18.21,18,"Pasamanos en tubería HG Ø= 1 ½"" (incl. pintura)",m,231501.0,1834
+18.22,18,"Pasamanos en tubería HG Ø= 2"" (incl. pintura)",m,232302.0,1835
+18.23,18,"Perfil de transición (tapajunta) en aluminio de 3""",m,67451.0,1836
+18.24,18,Puerta cortafuego de 1.00 x 2.00 m (90 min),Un,5521778.0,1837
+18.25,18,"Puerta cortafuego de 1.00 x 2.00 m (90 min), incluye barra antipánico Tampa acero inox. 2 puntos y manija.",Un,6530952.0,1838
+18.26,18,Puerta en aluminio batiente 2 alas con vidrio,m2,708890.0,1839
+18.27,18,Puerta en aluminio corrediza con vidrio,m2,566222.0,1840
+18.28,18,Puerta en aluminio de 1.00 x 2.05 m,Un,1080362.0,1841
+18.29,18,"Puerta en lámina Cal. 20, 0.60 x 2.05 m (incl pintura)",Un,760263.0,1842
+18.30,18,"Puerta en lámina Cal. 20, 0.70 x 2.05 m (incl pintura)",Un,767750.0,1843
+18.31,18,"Puerta en lámina Cal. 20, 0.80 x 2.05 m (incl pintura)",Un,782715.0,1844
+18.32,18,"Puerta en lámina Cal. 20, 0.90 x 2.05 m (incl pintura)",Un,828635.0,1845
+18.33,18,Puerta enrollable garaje en aluminio de 3.00 x 2.50 m,Un,9308858.0,1846
+18.34,18,Puerta enrollable garaje en lámina de 3.00 x 2.20 m,Un,2155955.0,1847
+18.35,18,"Reja en aluminio tubería 1 ½"" x 1 ½""",m2,332742.0,1848
+18.36,18,Reja metálica claraboya techo 60x80 cm (incl. pintura),Un,385102.0,1849
+18.37,18,Reja metálica para cañuela a= 40 cm (incl. pintura),m,210343.0,1850
+18.38,18,"Reja metálica varilla de 1/2"" h= 50 cm (incl. pintura)",m,163118.0,1851
+18.39,18,"Reja metálica varilla de 1/2"" (incl. pintura)",m2,306855.0,1852
+18.40,18,Remate decorativo en lámina perforada metálica,m2,151773.0,1853
+18.41,18,Tope puerta de piso tipo media luna en acero sanitado,Un,34907.0,1854
+18.42,18,Tope puerta en acero inoxidable con anillo de goma,Un,27902.0,1855
+18.43,18,Ventana celosía en aluminio h= 0.60 m (vidrio 4 mm),m,434740.0,1856
+18.44,18,Ventana en aluminio corrediza (vidrio 4 mm),m2,434606.0,1857
+18.45,18,Ventana en aluminio fija (vidrio 4 mm),m2,382937.0,1858
+18.46,18,Ventana en aluminio proyectante (vidrio 4 mm),m2,460441.0,1859
+18.47,18,Ventana en lámina Cal. 20 (vidrio 4 mm),m2,261638.0,1860
+18.48,18,Ventana luceta en lámina Cal. 20 h=50 cm (vidrio 4 mm),m,152110.0,1861
+19.01,19,Burlete para puerta en caucho,m,46615.0,1862
+19.02,19,Closet en madecor de 15 mm,m2,666869.0,1863
+19.03,19,Closet en triplex,m2,476985.0,1864
+19.04,19,Enchape o revestimiento de muro en MDF de 12 mm,m2,67558.0,1865
+19.05,19,Enchape o revestimiento de muro en OSB de 9.5 mm,m2,52521.0,1866
+19.06,19,Enchape o revestimiento de muro en OSB de 11 mm,m2,55538.0,1867
+19.07,19,Enchape o revestimiento de muro en OSB de 15 mm,m2,70686.0,1868
+19.08,19,Enchape o revestimiento de muro en Triplex de 4 mm,m2,43456.0,1869
+19.09,19,Gabinete de baño 50x45x12 cm,Un,361665.0,1870
+19.10,19,Mueble inferior de cocina h= 90 cm,m,963414.0,1871
+19.11,19,Mueble lavadero 60x70 cm,Un,748212.0,1872
+19.12,19,Mueble lavamanos 60x40 cm,Un,478935.0,1873
+19.13,19,Mueble superior de cocina h= 60 cm,m,597546.0,1874
+19.14,19,Pasamanos en madera de pino,m,155167.0,1875
+19.15,19,Pasamanos en madera guayacán,m,196630.0,1876
+19.16,19,Pérgola en madera de pino con acabado cepillado,m2,107901.0,1877
+19.17,19,Puerta en madera entamborada de 0.60 x 2.05 m,Un,718601.0,1878
+19.18,19,Puerta en madera entamborada de 0.70 x 2.05 m,Un,737782.0,1879
+19.19,19,Puerta en madera entamborada de 0.80 x 2.05 m,Un,775560.0,1880
+19.20,19,Puerta en madera entamborada de 0.90 x 2.05 m,Un,824140.0,1881
+19.21,19,Puerta en pino maciza de 0.90 x 2.05 m,Un,1459624.0,1882
+19.22,19,Puerta vaivén en madera celosía 0.80x1.20 m,Un,694151.0,1883
+19.23,19,Puerta vaivén en madera entamborada de 0.80 x 2.05 m,Un,841530.0,1884
+19.24,19,Tope puerta tipo resortado satinado,Un,19979.0,1885
+19.25,19,Ventana en madera flormorado,m2,245169.0,1886
+20.01,20,Acabado en Vitriflex para piso de madera,m2,60524.0,1887
+20.02,20,Acabado en Acriltex para muros de baños y cocina,m2,25610.0,1888
+20.03,20,Alumol pintura reflectiva,m2,20295.0,1889
+20.04,20,Estuco acrílico en cielos,m2,17100.0,1890
+20.05,20,Estuco acrílico en muros,m2,15247.0,1891
+20.06,20,Estuco en polvo en cielos,m2,13977.0,1892
+20.07,20,Estuco en polvo en muros,m2,12124.0,1893
+20.08,20,Estuco plástico en cielos,m2,15839.0,1894
+20.09,20,Estuco plástico en muros,m2,13985.0,1895
+20.10,20,Estuco y pintura con vinilo en cielos (3 manos),m2,33738.0,1896
+20.11,20,Estuco y pintura con vinilo en muros (3 manos),m2,31574.0,1897
+20.12,20,Marmolina en cielos,m2,31692.0,1898
+20.13,20,Perlita para cielos,m2,15007.0,1899
+20.14,20,Pintucoat en cielos,m2,36023.0,1900
+20.15,20,Pintucoat en muros,m2,31414.0,1901
+20.16,20,Pintura a base de cal apagada (carburo) en cielos,m2,14646.0,1902
+20.17,20,Pintura a base de cal apagada (carburo) en muros,m2,12341.0,1903
+20.18,20,Pintura acrílica alta asepsia,m2,26285.0,1904
+20.19,20,Pintura Biocida,m2,28341.0,1905
+20.20,20,Pintura con aroflex,m2,49085.0,1906
+20.21,20,Pintura con barniz,m2,21445.0,1907
+20.22,20,Pintura con esmalte en lámina,m2,26658.0,1908
+20.23,20,Pintura con esmalte en madera,m2,29887.0,1909
+20.24,20,Pintura con esmalte en lámina a= 30 cm,m,11158.0,1910
+20.25,20,Pintura con esmalte en madera a= 30 cm,m,12456.0,1911
+20.26,20,Pintura con esmalte guardaescobas en madera,m,6219.0,1912
+20.27,20,"Pintura con esmalte pasamanos tubería HG 1 ½"" a 2""",m,13837.0,1913
+20.28,20,Pintura con laca,m2,21021.0,1914
+20.29,20,Pintura con Sika Uretano blanco,m2,47559.0,1915
+20.30,20,Pintura con Sika Uretano transparente,m2,50170.0,1916
+20.31,20,Pintura con Silcoplast en muros,m2,42851.0,1917
+20.32,20,Pintura con vinilo en cielo raso en drywall,m2,36908.0,1918
+20.33,20,Pintura con vinilo en cielo raso en eterboard,m2,36908.0,1919
+20.34,20,Pintura con vinilo en cielo raso en placa de yeso,m2,28603.0,1920
+20.35,20,Pintura con vinilo en cielo raso en superboard,m2,36908.0,1921
+20.36,20,Pintura con vinilo en cielos,m2,22987.0,1922
+20.37,20,Pintura con vinilo en muros,m2,19635.0,1923
+20.38,20,Pintura en gris basalto,m2,28003.0,1924
+20.39,20,Pintura en gris basalto a= 30 cm,m,11214.0,1925
+20.40,20,Pintura epóxica en cielos,m2,32995.0,1926
+20.41,20,Pintura epóxica en muros,m2,28639.0,1927
+20.42,20,Pintura epóxica en pisos,m2,19413.0,1928
+20.43,20,Pintura exterior en Graniplast,m2,45986.0,1929
+20.44,20,Pintura exterior en Graniplast h> 6 m,m2,50173.0,1930
+20.45,20,Pintura exterior en Granotex,m2,38301.0,1931
+20.46,20,Pintura exterior en Granotex h> 6 m,m2,42488.0,1932
+20.47,20,Pintura exterior en Koraza,m2,41404.0,1933
+20.48,20,Pintura exterior en Koraza h> 6 m,m2,45591.0,1934
+20.49,20,Pintura exterior en Marmoplast,m2,42912.0,1935
+20.50,20,Pintura exterior en Marmoplast h> 6 m,m2,46943.0,1936
+20.51,20,Pintura exterior en Sikacolor C,m2,32298.0,1937
+20.52,20,Pintura impermeabilizante Corona,m2,28991.0,1938
+20.53,20,Pintura para el número de parqueo sobre el piso,Un,16835.0,1939
+20.54,20,Pintura tráfico para demarcación de línea de carril,m,7009.0,1940
+20.55,20,"Pintura tráfico en columna de parqueadero, amarillo y negro en bandas de ancho de 10 cm",m2,72935.0,1941
+20.56,20,Repelente de agua para fachadas con Sika transparente,m2,24741.0,1942
+20.57,20,Siliconite en muros,m2,24459.0,1943
+20.58,20,Superficie esmaltada con cemento gris,m2,11394.0,1944
+20.59,20,Yeso proyectado en muros,m2,22280.0,1945
+21.01,21,"Aire acondicionado Mini Split inverter 9,000 BTU 220V",Un,3137544.0,1946
+21.02,21,"Aire acondicionado Mini Split inverter 12,000 BTU 220V",Un,3452291.0,1947
+21.03,21,"Aire acondicionado Mini Split inverter 18,000 BTU 220V",Un,4346340.0,1948
+21.04,21,"Aire acondicionado Mini Split inverter 24,000 BTU 220V",Un,5240389.0,1949
+21.05,21,"Ascensor capacidad 10 personas, 700 Kg (6 paradas)",Un,185081224.0,1950
+21.06,21,Bomba eléctrica 2 HP 220 V,Un,2463308.0,1951
+21.07,21,Bomba eléctrica 3 HP 220 V,Un,3215115.0,1952
+21.08,21,Calentador de acumulación a gas 10 Gal,Un,2049477.0,1953
+21.09,21,Calentador de acumulación a gas 15 Gal,Un,2326198.0,1954
+21.10,21,Calentador de acumulación eléctrico 10 Gal,Un,1761270.0,1955
+21.11,21,Calentador de acumulación eléctrico 15 Gal,Un,1932388.0,1956
+21.12,21,Calentador de paso a gas 10 Lt,Un,1749496.0,1957
+21.13,21,Calentador de paso a gas 13 Lt,Un,1839080.0,1958
+21.14,21,"Campana extractora 60 cm, 3 velocidades",Un,453729.0,1959
+21.15,21,"Campana Isla 90 cm, 3 velocidades",Un,2131838.0,1960
+21.16,21,"Campana Península 60 cm, 3 velocidades",Un,1813688.0,1961
+21.17,21,Ducha eléctrica 110V,Un,247786.0,1962
+21.18,21,Equipo hidroneumático 1 HP tanque vertical 170 Lt,Un,3471359.0,1963
+21.19,21,Estufa empotrar 4-P a gas,Un,1044612.0,1964
+21.20,21,Estufa empotrar cristal negro 4-P a gas,Un,1399512.0,1965
+21.21,21,Extractor de aire para baño 18x18 cm 110V,Un,293909.0,1966
+21.22,21,Horno de empotrar a gas,Un,1101312.0,1967
+21.23,21,Horno eléctrico medio formato 120V,Un,1134912.0,1968
+21.24,21,Planta eléctrica de emergencia 34 kVA,Un,54682778.0,1969
+21.25,21,Planta eléctrica de emergencia 50 kVA,Un,59138665.0,1970
+21.26,21,Planta eléctrica de emergencia 75 kVA,Un,63953183.0,1971
+21.27,21,Planta eléctrica de emergencia 80 kVA,Un,66920287.0,1972
+21.28,21,Planta eléctrica de emergencia 165 kVA,Un,103726959.0,1973
+21.29,21,Secador de manos automático eléctrico,Un,2021756.0,1974
+21.30,21,Shut de basuras,m,463937.0,1975
+21.31,21,Ventilador humidificador,Un,992248.0,1976
+21.32,21,Ventilador industrial de 3 aspas,Un,389721.0,1977
+22.01,22,Arbusto Duranta,Un,3762.0,1978
+22.02,22,Bolsacreto con concreto de 17.2 MPa,m3,626879.0,1979
+22.03,22,Caja de inspección para contador piso,Un,169235.0,1980
+22.04,22,Cañuela en concreto de 20.7 MPa 0.10x0.30x0.40 m,m,135187.0,1981
+22.05,22,Cerramiento con estacón de madera y alambre de púas,m,54825.0,1982
+22.06,22,"Cerramiento malla eslabonada, tubo galvanizado Ø= 2"" y ángulo de 2""",m2,310939.0,1983
+22.07,22,"Cerramiento poste de concreto, malla eslabonada y muro en bloque.",m,342206.0,1984
+22.08,22,Cerramiento poste de concreto y alambre de púas,m,97729.0,1985
+22.09,22,Cerramiento poste de concreto y malla eslabonada,m,196277.0,1986
+22.10,22,Cerramiento poste de concreto y malla eslabonada recubierta en pvc.,m,209769.0,1987
+22.11,22,Cerramiento poste de madera y alambre de púas,m,55564.0,1988
+22.12,22,"Cerramiento tubo galvanizado Ø= 1 ½"", malla eslabonada y muro en ladrillo a la vista.",m,331157.0,1989
+22.13,22,"Cerramiento tubo galvanizado Ø= 1 ½"", malla eslabonada y sardinel en concreto.",m,358271.0,1990
+22.14,22,"Cerramiento vivo en swinglea cada 30 cm, h= 70 cm",m,71229.0,1991
+22.15,22,"Concertina en acero inoxidable Ø= 20"" para cerramiento",m,161216.0,1992
+22.16,22,"Cuneta en concreto de 20.7 MPa e= 0.15 m, b= 0.50 m, h= 0.20 m. Incluye afirmado y acero de refuerzo.",m,151750.0,1993
+22.17,22,"Cuneta en concreto de 20.7 MPa e= 0.15 m, b= 1.00 m, h= 0.20 m. Incluye afirmado y acero de refuerzo.",m,237250.0,1994
+22.18,22,"Cuneta rectangular en concreto de 20.7 MPa, b= 0.40 m, h= 0.45 m. Incluye afirmado y acero de refuerzo.",m,286600.0,1995
+22.19,22,"Cuneta semicircular en concreto de 20.7 MPa, D= 0.50 m h= 0.25 m. Incluye afirmado y acero de refuerzo.",m,205079.0,1996
+22.20,22,"Cuneta trapezoidal en concreto de 20.7 MPa, b= 0.40 m, h= 0.50 m. Incluye afirmado y acero de refuerzo.",m,296530.0,1997
+22.21,22,"Cuneta triangular en concreto de 20.7 MPa, b= 0.60 m, h= 0.60 m. Incluye afirmado y acero de refuerzo.",m,292043.0,1998
+22.22,22,Disipador energía y sedimentador en concreto 20.7 mpa,m3,824827.0,1999
+22.23,22,"Disipador energía y sedimentador en gaviones, incluye recubrimiento en mortero 1:3 impermeabilizado.",m3,470900.0,2000
+22.24,22,Empradización con maní forrajero,m2,20088.0,2001
+22.25,22,Empradización con prado chino,m2,40108.0,2002
+22.26,22,Empradización con prado kikuyo,m2,22477.0,2003
+22.27,22,Empradización con prado trenza,m2,21703.0,2004
+22.28,22,Empradización de talud con tierra orgánica y semillas,m2,58287.0,2005
+22.29,22,Enrocado de fondo y pared con mortero 1:3,m2,98401.0,2006
+22.30,22,Enrocado protección salida canal,m3,406596.0,2007
+22.31,22,"Escalera en concreto 20.7 MPa sobre tierra, e= 0.12 m",m2,200553.0,2008
+22.32,22,Gaviones en malla triple torsión,m3,380347.0,2009
+22.33,22,Limpieza de alcantarilla,Un,228646.0,2010
+22.34,22,"Limpieza manual de cunetas, zanjas, descoles",m,3452.0,2011
+22.35,22,Pedraplén compacto,m3,181376.0,2012
+22.36,22,Pedraplén suelto,m3,162085.0,2013
+22.37,22,Planta ornamental h= 20-40 cm,Un,24826.0,2014
+22.38,22,Planta ornamental h= 50-80 cm,Un,40379.0,2015
+22.39,22,Poda de árboles tipo I,Un,414855.0,2016
+22.40,22,Poda de árboles tipo II,Un,135931.0,2017
+22.41,22,Poda de árboles tipo III,Un,96825.0,2018
+22.42,22,Poda de árboles tipo IV,Un,86856.0,2019
+22.43,22,Poda de césped y mantenimiento de zonas verdes,m2,40442.0,2020
+22.44,22,Polietileno (plástico) negro Cal. 3.5,m2,4747.0,2021
+22.45,22,Protector raíz en concreto de 17.2 MPa Ø=1.20 h=1.0 m,Un,889820.0,2022
+22.46,22,"Puerta en ángulo de 1 ½"" y malla eslabonada",m2,359242.0,2023
+22.47,22,"Puerta en tubería galv. Ø= 1 ½"" y malla eslabonada",m2,466445.0,2024
+22.48,22,Recubrimiento sobre gaviones en concreto de 17.2 MPa,m2,139728.0,2025
+22.49,22,Reductor de velocidad en concreto asfáltico a= 3.60 m h= 0.10 m (incl. pintura reflectiva).,m,2210640.0,2026
+22.50,22,Revegetalización con agromanto de fique o similar,m2,25032.0,2027
+22.51,22,Rocería,m2,272.0,2028
+22.52,22,Rocería de talud h= 3.0 m (incl. retiro manual),Km,967936.0,2029
+22.53,22,Topellantas en concreto de 60x30 cm,Un,52708.0,2030
+22.54,22,Transplante de árboles tipo I traslado corto,Un,1090084.0,2031
+22.55,22,Transplante de árboles tipo I traslado largo,Un,1304774.0,2032
+22.56,22,Transplante de árboles tipo II traslado corto,Un,642822.0,2033
+22.57,22,Transplante de árboles tipo II traslado largo,Un,742184.0,2034
+22.58,22,Transplante de árboles tipo III traslado corto,Un,266438.0,2035
+22.59,22,Transplante de árboles tipo III traslado largo,Un,388854.0,2036
+22.60,22,Transplante de árboles tipo IV traslado corto,Un,211358.0,2037
+22.61,22,Transplante de árboles tipo IV traslado largo,Un,295418.0,2038
+22.62,22,"Zanja colectora en concreto de 20.7 MPa, 0.20x0.30 m",m,160649.0,2039
+22.63.01,22.63,Box-Culvert en concreto de 20.7 Mpa,m3,1225159.0,2040
+22.63.02,22.63,"Campo de infiltración en tubería sanitaria pvc Ø= 4""",m,118328.0,2041
+22.63.03,22.63,"Cañuela Manhole Ø= 1.20 m, concreto de 20.7 MPa",Un,297305.0,2042
+22.63.04,22.63,"Cilindro Manhole Ø= 1.20 m, concreto de 27.6 MPa",m,1126810.0,2043
+22.63.05,22.63,"Cono Manhole Ø= 1.20 m x 0.80 m, concreto de 27.6 MPa",Un,612749.0,2044
+22.63.06,22.63,"Empalme tubería Ø= 8""-12"" a cámara en concreto",Un,181479.0,2045
+22.63.07,22.63,"Empalme tubería Ø= 8""-12"" a cámara en ladrillo",Un,122411.0,2046
+22.63.08,22.63,"Empalme tubería Ø= 15""-21"" a cámara en concreto",Un,248177.0,2047
+22.63.09,22.63,"Empalme tubería Ø= 15""-21"" a cámara en ladrillo",Un,189150.0,2048
+22.63.10,22.63,Empotramiento tubo alcantarillado en concreto 17.2 MPa,Un,112977.0,2049
+22.63.11,22.63,Empotramiento tubo alcantarillado en concreto 20.7 MPa,Un,115476.0,2050
+22.63.12,22.63,Estribos y aletas en concreto de 20.7 MPa,m3,1274234.0,2051
+22.63.13,22.63,Filtro francés (sin tubería),m3,226102.0,2052
+22.63.14,22.63,"Losa inferior Manhole Ø= 1.20 m, concreto de 27.6 MPa",Un,782043.0,2053
+22.63.15,22.63,"Peldaño Manhole en acero Ø= 5/8"" L= 1.00 m",Un,44533.0,2054
+22.63.16,22.63,Silla tee pvc novafort 160x110 mm,Un,207269.0,2055
+22.63.17,22.63,Silla tee pvc novafort 200x110 mm,Un,248081.0,2056
+22.63.18,22.63,Silla tee pvc novafort 200x160 mm,Un,248081.0,2057
+22.63.19,22.63,Silla tee pvc novafort 250x110 mm,Un,287978.0,2058
+22.63.20,22.63,Silla tee pvc novafort 250x160 mm,Un,287978.0,2059
+22.63.21,22.63,Silla tee pvc novafort 315x110 mm,Un,419163.0,2060
+22.63.22,22.63,Silla tee pvc novafort 315x160 mm,Un,419163.0,2061
+22.63.23,22.63,Silla tee pvc novafort 355x160 mm,Un,467511.0,2062
+22.63.24,22.63,Silla tee pvc novafort 400x160 mm,Un,502197.0,2063
+22.63.25,22.63,Silla tee pvc novafort 500x160 mm,Un,760622.0,2064
+22.63.26,22.63,Silla yee pvc novafort 160x110 mm,Un,207269.0,2065
+22.63.27,22.63,Silla yee pvc novafort 200x110 mm,Un,248081.0,2066
+22.63.28,22.63,Silla yee pvc novafort 200x160 mm,Un,248081.0,2067
+22.63.29,22.63,Silla yee pvc novafort 250x110 mm,Un,287978.0,2068
+22.63.30,22.63,Silla yee pvc novafort 250x160 mm,Un,287978.0,2069
+22.63.31,22.63,Silla yee pvc novafort 315x110 mm,Un,419163.0,2070
+22.63.32,22.63,Silla yee pvc novafort 315x160 mm,Un,419163.0,2071
+22.63.33,22.63,Silla yee pvc novafort 355x160 mm,Un,467511.0,2072
+22.63.34,22.63,Silla yee pvc novafort 400x160 mm,Un,502197.0,2073
+22.63.35,22.63,Silla yee pvc novafort 500x160 mm,Un,760622.0,2074
+22.63.36,22.63,Sistema séptico domiciliario de 500 Lt,Un,2747346.0,2075
+22.63.37,22.63,"Sistema séptico domiciliario de 1,000 Lt",Un,3472560.0,2076
+22.63.38,22.63,"Sistema séptico domiciliario integrado de 2,000 Lt",Un,8975588.0,2077
+22.63.39,22.63,"Sistema séptico domiciliario integrado de 4,000 Lt",Un,12010786.0,2078
+22.63.40,22.63,Sumidero desarenador concreto 20.7 MPa (doble reja),Un,2172100.0,2079
+22.63.41,22.63,Sumidero desarenador concreto 20.7 MPa (tipo ventana),Un,1557343.0,2080
+22.63.42,22.63,Sumidero en concreto 20.7 MPa (incl. reja) SL= 1.0 m,Un,2563652.0,2081
+22.63.43,22.63,Sumidero en concreto 20.7 MPa (incl. reja) SL= 1.5 m,Un,3841433.0,2082
+22.63.44,22.63,Sumidero en concreto 20.7 MPa (incl. reja) SL= 2.0 m,Un,5119215.0,2083
+22.63.45,22.63,Sumidero simple en concreto 20.7 MPa (incl. reja),Un,1197431.0,2084
+22.63.46,22.63,"Tapa Manhole Ø= 0.60 m, en concreto reforzado",Un,659640.0,2085
+22.63.47,22.63,"Tapa Manhole Ø= 0.60 m, en hierro fundido",Un,1185397.0,2086
+22.63.48,22.63,"Tapa Manhole Ø= 0.60 m, polimérica",Un,1136600.0,2087
+22.63.49,22.63,"Tubería en concreto reforzada Ø= 24"" (U.C.)",m,444998.0,2088
+22.63.50,22.63,"Tubería en concreto reforzada Ø= 30"" (U.C.)",m,679282.0,2089
+22.63.51,22.63,"Tubería en concreto reforzada Ø= 36"" (U.C.)",m,848782.0,2090
+22.63.52,22.63,"Tubería en concreto reforzada Ø= 40"" (U.C.)",m,968822.0,2091
+22.63.53,22.63,"Tubería en concreto reforzada Ø= 48"" (U.C.)",m,1226743.0,2092
+22.63.54,22.63,"Tubería en concreto reforzada Ø= 52"" (U.C.)",m,1341137.0,2093
+22.63.55,22.63,"Tubería en concreto reforzada Ø= 60"" (U.C.)",m,1677285.0,2094
+22.63.56,22.63,"Tubería en concreto simple de Ø= 6"" (U.C.)",m,46991.0,2095
+22.63.57,22.63,"Tubería en concreto simple de Ø= 8"" (U.C.)",m,55740.0,2096
+22.63.58,22.63,"Tubería en concreto simple de Ø= 10"" (U.C.)",m,70208.0,2097
+22.63.59,22.63,"Tubería en concreto simple de Ø= 12"" (U.C.)",m,90056.0,2098
+22.63.60,22.63,"Tubería en concreto simple de Ø= 16"" (U.C.)",m,137010.0,2099
+22.63.61,22.63,"Tubería en concreto simple de Ø= 18"" (U.C.)",m,187305.0,2100
+22.63.62,22.63,"Tubería en concreto simple de Ø= 21"" (U.C.)",m,254488.0,2101
+22.63.63,22.63,"Tubería en concreto simple de Ø= 24"" (U.C.)",m,352029.0,2102
+22.63.64,22.63,Tubería polietileno PE 100 PN 10 Ø= 63 mm,m,24671.0,2103
+22.63.65,22.63,Tubería polietileno PE 100 PN 10 Ø= 75 mm,m,30929.0,2104
+22.63.66,22.63,Tubería polietileno PE 100 PN 10 Ø= 90 mm,m,39545.0,2105
+22.63.67,22.63,Tubería polietileno PE 100 PN 10 Ø= 110 mm,m,51498.0,2106
+22.63.68,22.63,Tubería polietileno PE 100 PN 10 Ø= 160 mm,m,97343.0,2107
+22.63.69,22.63,Tubería polietileno PE 100 PN 10 Ø= 200 mm,m,145698.0,2108
+22.63.70,22.63,Tubería polietileno PE 100 PN 16 Ø= 63 mm,m,30423.0,2109
+22.63.71,22.63,Tubería polietileno PE 100 PN 16 Ø= 75 mm,m,38822.0,2110
+22.63.72,22.63,Tubería polietileno PE 100 PN 16 Ø= 90 mm,m,51257.0,2111
+22.63.73,22.63,Tubería polietileno PE 100 PN 16 Ø= 110 mm,m,68976.0,2112
+22.63.74,22.63,Tubería polietileno PE 100 PN 16 Ø= 160 mm,m,135392.0,2113
+22.63.75,22.63,Tubería polietileno PE 100 PN 16 Ø= 200 mm,m,203814.0,2114
+22.63.76,22.63,"Tubería pvc drenaje Ø= 2 ½"" (65 mm)",m,24987.0,2115
+22.63.77,22.63,"Tubería pvc drenaje Ø= 2 ½"" (65 mm) con filtro",m,30346.0,2116
+22.63.78,22.63,"Tubería pvc drenaje Ø= 4"" (100 mm)",m,36429.0,2117
+22.63.79,22.63,"Tubería pvc drenaje Ø= 4"" (100 mm) con filtro",m,45343.0,2118
+22.63.80,22.63,"Tubería pvc drenaje Ø= 6"" (160 mm)",m,73731.0,2119
+22.63.81,22.63,"Tubería pvc drenaje Ø= 6"" (160 mm) con filtro",m,95737.0,2120
+22.63.82,22.63,"Tubería pvc drenaje Ø= 8"" (200 mm)",m,99299.0,2121
+22.63.83,22.63,"Tubería pvc drenaje Ø= 8"" (200 mm) con filtro",m,126831.0,2122
+22.63.84,22.63,Tubería pvc novafort Ø= 110 mm,m,60303.0,2123
+22.63.85,22.63,Tubería pvc novafort Ø= 160 mm,m,89074.0,2124
+22.63.86,22.63,Tubería pvc novafort Ø= 200 mm,m,117794.0,2125
+22.63.87,22.63,Tubería pvc novafort Ø= 250 mm,m,156832.0,2126
+22.63.88,22.63,Tubería pvc novafort Ø= 315 mm,m,212300.0,2127
+22.63.89,22.63,Tubería pvc novafort Ø= 355 mm,m,292905.0,2128
+22.63.90,22.63,Tubería pvc novafort Ø= 400 mm,m,355244.0,2129
+22.63.91,22.63,Tubería pvc novafort Ø= 500 mm,m,560525.0,2130
+22.63.92,22.63,"Tubería pvc novafort Ø= 24""",m,754371.0,2131
+22.63.93,22.63,"Tubería pvc novaloc Ø= 45""",m,597340.0,2132
+22.63.94,22.63,"Tubería pvc novaloc Ø= 51""",m,807597.0,2133
+22.63.95,22.63,"Tubería pvc novaloc Ø= 60""",m,997720.0,2134
+22.64.01,22.64,Adoquín peatonal de gres,m2,154732.0,2135
+22.64.02,22.64,Adoquín peatonal gris de cemento,m2,180279.0,2136
+22.64.03,22.64,Andén en concreto de 20.7 MPa e= 0.07 m,m2,59046.0,2137
+22.64.04,22.64,Andén en concreto de 20.7 MPa e= 0.10 m,m2,78757.0,2138
+22.64.05,22.64,Loseta táctil alerta 6x40x40 cm,m,28503.0,2139
+22.64.06,22.64,Loseta táctil alerta 6x40x40 cm,m2,178089.0,2140
+22.64.07,22.64,Loseta táctil guía 6x40x40 cm,m,28509.0,2141
+22.64.08,22.64,Loseta táctil guía 6x40x40 cm,m2,178089.0,2142
+22.64.09,22.64,"Sardinel en concreto 20.7 MPa, 0.03 m³/m (Incl. Ref.)",m,76387.0,2143
+22.65.01,22.65,Base tierra y arena cancha fútbol,m3,197186.0,2144
+22.65.02,22.65,Pintura tráfico línea demarcación para canchas,m,10223.0,2145
+22.65.03,22.65,Piso en polvo de ladrillo,m3,36650.0,2146
+22.65.04,22.65,Portería cancha de fútbol,Un,3412868.0,2147
+22.65.05,22.65,Portería cancha de microfútbol,Un,2818885.0,2148
+22.65.06,22.65,Tablero de baloncesto,Un,8161274.0,2149
+22.65.07,22.65,Tablero de baloncesto y microfútbol,Un,11306723.0,2150
+22.66.01,22.66,Banca en concreto prefabricada L= 1.40 m,Un,438876.0,2151
+22.66.02,22.66,Basurero urbano en acero inox.,Un,646541.0,2152
+22.66.03,22.66,Bolardo en concreto,Un,259464.0,2153
+22.66.04,22.66,Bolardo de hierro fundido,Un,307391.0,2154
+22.66.05,22.66,Juego infantil en pino (básico),Un,5089611.0,2155
+22.66.06,22.66,Juego infantil en pino (completo),Un,11567289.0,2156
+22.67.01,22.67,Captafaros,Un,33944.0,2157
+22.67.02,22.67,Hito vial,Un,100058.0,2158
+22.67.03,22.67,Pasacalles en lona,m2,117270.0,2159
+22.67.04,22.67,Pasacalles en tela,m2,147280.0,2160
+22.67.05,22.67,Pintura tráfico cruce peatón cebra,m2,68424.0,2161
+22.67.06,22.67,Pintura tráfico flechas dirección,Un,28318.0,2162
+22.67.07,22.67,Pintura tráfico línea demarcación,m,7686.0,2163
+22.67.08,22.67,Retiro y reinstalación de señal vertical,Un,135824.0,2164
+22.67.09,22.67,Señal vertical de 60 cm y poste metálico para soporte,Un,479242.0,2165
+22.67.10,22.67,Tachas reflectivas,Un,25862.0,2166
+22.68.01,22.68,Adoquín ecológico gris de cemento,m2,197468.0,2167
+22.68.02,22.68,Adoquín vehicular gris de cemento,m2,193965.0,2168
+22.68.03,22.68,Barricada de seguridad desmontable L= 3 m,Un,701596.0,2169
+22.68.04,22.68,Base granular tipo Invías,m3,274125.0,2170
+22.68.05,22.68,"Bordillo en concreto de 20.7 MPa, 0.04 m³/m",m,61743.0,2171
+22.68.06,22.68,Bordillo prefabricado en concreto,m,110618.0,2172
+22.68.07,22.68,"Canastilla pasajuntas (D= 25 mm, L= 350 mm)",m,63730.0,2173
+22.68.08,22.68,Cargue de material a máquina,m3,7644.0,2174
+22.68.09,22.68,"Carpeta asfáltica 2""",m2,70038.0,2175
+22.68.10,22.68,Concreto asfáltico para bacheo,m3,1357580.0,2176
+22.68.11,22.68,"Defensa vial tramo recto de 3.8 m Cal. 12, 2 postes de 1.50 m y terminales. Incluye tornillería y captafaros.",m,389070.0,2177
+22.68.12,22.68,Emulsión para pavimento asfáltico,m2,3555.0,2178
+22.68.13,22.68,Fresado pavimento asfáltico e= 5 cm,m2,6168.0,2179
+22.68.14,22.68,Fresado pavimento asfáltico e= 10 cm,m2,8476.0,2180
+22.68.15,22.68,Fresado pavimento asfáltico e= 12 cm,m2,9254.0,2181
+22.68.16,22.68,Gramoquín gris de cemento,m2,197683.0,2182
+22.68.17,22.68,"Huella en concreto de 20.7 MPa, e=0.15 a=0.70 m",m,174878.0,2183
+22.68.18,22.68,Imprimación con asfalto líquido,m2,3939.0,2184
+22.68.19,22.68,Geodren vial 160 mm x 1.00 m,m,101700.0,2185
+22.68.20,22.68,Geomembrana HDPE 30 mils,m2,26357.0,2186
+22.68.21,22.68,Geomembrana HDPE 40 mils,m2,30146.0,2187
+22.68.22,22.68,Geotextil no tejido 1600,m2,9493.0,2188
+22.68.23,22.68,Geotextil tejido 2400,m2,12664.0,2189
+22.68.24,22.68,Junta elastomérica a= 30 cm según invías,m,1436214.0,2190
+22.68.25,22.68,Manto permanente TRM 500,m2,39442.0,2191
+22.68.26,22.68,Manto permanente TRM 550,m2,40865.0,2192
+22.68.27,22.68,Material de afirmado compactado para vías,m3,150705.0,2193
+22.68.28,22.68,Material de roca muerta compactado para vías,m3,74880.0,2194
+22.68.29,22.68,Mezcla asfáltica en caliente MDC-2,m3,1331216.0,2195
+22.68.30,22.68,Pavimento en concreto de 20.7 MPa junta asfáltica,m3,947764.0,2196
+22.68.31,22.68,Pavimento en concreto de 27.6 MPa junta asfáltica,m3,1013147.0,2197
+22.68.32,22.68,Pavimento en concreto premezclado de 20.7 MPa,m3,1117452.0,2198
+22.68.33,22.68,Pavimento en concreto premezclado de 27.6 MPa,m3,1160220.0,2199
+22.68.34,22.68,"Pavimento MR=4.1 MPa, e= 0.15 m",m2,189956.0,2200
+22.68.35,22.68,"Pavimento MR=4.1 MPa, e= 0.175 m",m2,219319.0,2201
+22.68.36,22.68,"Pavimento MR=4.1 MPa, e= 0.20 m",m2,253328.0,2202
+22.68.37,22.68,"Pavimento MR=4.2 MPa, e= 0.20 m",m2,255326.0,2203
+22.68.38,22.68,Riego de imprimación con emulsión asfáltica CRL-0,m2,2948.0,2204
+22.68.39,22.68,Riego de liga con emulsión asfáltica CRR-1,m2,2206.0,2205
+22.68.40,22.68,Riego de liga con emulsión asfáltica CRR-2,m2,2298.0,2206
+22.68.41,22.68,Sello junta pavimento con Sikaflex 401 SL,m,10030.0,2207
+22.68.42,22.68,Sello junta puente,m,126347.0,2208
+22.68.43,22.68,Sello arena-asfalto con emulsión CRR-2,m2,6913.0,2209
+22.68.44,22.68,Slurry seal e= 4 cm,m2,21145.0,2210
+22.68.45,22.68,Slurry seal e= 6 cm,m2,23490.0,2211
+22.68.46,22.68,Slurry seal e= 9 cm,m2,30230.0,2212
+22.68.47,22.68,Sub-base granular tipo Invías,m3,243835.0,2213
+22.68.48,22.68,Sub-base material de peña (afirmado),m3,172244.0,2214
+22.68.49,22.68,Transporte de material asfáltico,m3-Km,2165.0,2215
+22.68.50,22.68,Transporte de material granular < 40 Km,m3-Km,1500.0,2216
+22.68.51,22.68,Transporte de material granular > 40 Km,m3-Km,1377.0,2217
+22.68.52,22.68,Tratamiento superficial simple (Invías),m2,12099.0,2218
+22.68.53,22.68,Tratamiento superficial doble (Invías),m2,20250.0,2219
+22.68.54,22.68,Tratamiento superficial triple (Invías),m2,23158.0,2220
+23.01,23,Cinta Sika pvc Waterbar AR-18,m,120299.0,2221
+23.02,23,Cinta Sika pvc Waterbar O-15,m,98147.0,2222
+23.03,23,Cinta Sika pvc Waterbar O-22,m,108268.0,2223
+23.04,23,Cinta Sika pvc Waterbar V-10,m,46952.0,2224
+23.05,23,Cinta Sika pvc Waterbar V-15,m,71499.0,2225
+23.06,23,Impermeabilización piso y muros con SikaTop Seal 107,m2,95045.0,2226
+23.07,23,Impermeabilización y sellado de poros en piso y muros,m2,14972.0,2227
+23.08,23,Muro en concreto de 20.7 MPa (impermeabilizado),m3,1820335.0,2228
+23.09,23,Muro en concreto de 24.2 MPa (impermeabilizado),m3,1861975.0,2229
+23.10,23,Placa piso en concreto de 20.7 MPa (impermeabilizado),m3,1035447.0,2230
+23.11,23,Placa piso en concreto de 24.2 MPa (impermeabilizado),m3,1077087.0,2231
+24.01,24,"Muro estructural de bambú (guadua), incluye malla con vena y pañete (revoque) 1:4",m2,177112.0,2232
+24.02,24,Unión a sobrecimiento con hierro y relleno de mortero,Un,19804.0,2233
+24.03,24,Unión con pernos,Un,7164.0,2234
+24.04,24,Unión diagonal con bambú (guadua) de apoyo,Un,28166.0,2235
+24.05,24,Unión diagonal simple,Un,18174.0,2236
+24.06,24,Unión perpendicular con perno,Un,21237.0,2237
+24.07,24,Unión perpendicular con tapa de madera,Un,15240.0,2238
+25.01,25,Espejo claro de 3 mm,m2,146189.0,2239
+25.02,25,Espejo claro de 4 mm,m2,156616.0,2240
+25.03,25,Espejo claro de 5 mm,m2,167043.0,2241
+25.04,25,Espejo con marco madera 60x70 cm,m2,229945.0,2242
+25.05,25,Espejo flotado biselado de 3 mm,m2,204205.0,2243
+25.06,25,Espejo flotado biselado de 4 mm,m2,215674.0,2244
+25.07,25,Espejo flotado biselado de 5 mm,m2,227144.0,2245
+25.08,25,Película de seguridad para vidrio,m2,58012.0,2246
+25.09,25,Película decorativa para vidrio,m2,71870.0,2247
+25.10,25,Silicona antihongos para el sello de juntas de vidrio,m,8338.0,2248
+25.11,25,Vidrio de 3 mm (con masilla negra),m2,67301.0,2249
+25.12,25,Vidrio de 3 mm (con silicona antihongos),m2,69297.0,2250
+25.13,25,Vidrio de 4 mm (con masilla negra),m2,77411.0,2251
+25.14,25,Vidrio de 4 mm (con silicona antihongos),m2,79407.0,2252
+26.01,26,Abujardado de concreto,m2,28897.0,2253
+26.02,26,Instalación división madera piso-techo h<= 2.50 m,m2,54264.0,2254
+26.03,26,Lavado de fachadas,m2,12625.0,2255
+26.04,26,Lavado de paredes en adobe,m2,5751.0,2256
+26.05,26,Lavado de paredes en concreto,m2,8713.0,2257
+26.06,26,Lavado de ventanería,m2,12634.0,2258
+26.07,26,Lavado y desmanchado de piso,m2,9630.0,2259
+26.08,26,Lavado y limpieza teja de asbesto cemento,m2,3285.0,2260
+26.09,26,Limpieza de superficies con hidrolavadora,m2,5921.0,2261
+26.10,26,Limpieza y aseo general,m2,6671.0,2262
+26.11,26,Reinstalación de puerta en lámina (incl. pintura),Un,145671.0,2263
+26.12,26,Reinstalación de ventana en lámina (incl. pintura),m2,182225.0,2264
+27.01,27,Almacenista de Obra (incl. prestaciones),Mes,3425795.0,2265
+27.02,27,Arquitecto (incl. prestaciones),Mes,8038996.0,2266
+27.03,27,Auxiliar de Almacén (incl. prestaciones),Mes,3260418.0,2267
+27.04,27,Celador día (8h) (incl. prestaciones),Mes,3591172.0,2268
+27.05,27,Celador noche (8h) (incl. prestaciones),Mes,4720391.0,2269
+27.06,27,Dibujante Arquitectónico (incl. prestaciones),Mes,3517159.0,2270
+27.07,27,Ingeniero Director de Obra (incl. prestaciones),Mes,10760034.0,2271
+27.08,27,Ingeniero Residente (incl. prestaciones),Mes,6031377.0,2272
+27.09,27,Inspector de Obra (incl. prestaciones),Mes,4087302.0,2273
+27.10,27,Maestro de Obra (incl. prestaciones),Mes,4574447.0,2274
+27.11,27,Patiero (incl. prestaciones),Mes,3260418.0,2275
+27.12,27,Profesional SISO (incl. prestaciones),Mes,4975172.0,2276
+27.13,27,Secretaria (incl. prestaciones),Mes,3351783.0,2277
+27.14,27,Tecnólogo SISO (incl. prestaciones),Mes,4087302.0,2278
+28.01,28,Control de plagas de insectos,m2,420.0,2279
+28.02,28,Control de plagas de roedores,m2,279.0,2280
+28.03,28,Destape de cañería con diablo rojo granulado,Un,63254.0,2281
+28.04,28,Destape de cañería con sonda,Un,240665.0,2282
+28.05,28,Embalaje de mobiliario con film alveolar y cartón,m3,22436.0,2283
+28.06,28,Implementación Protocolo de Bioseguridad por Covid-19 para una obra con 20 trabajadores.,Gl/Mes,16026500.0,2284
+28.07,28,"Niple pasamuro 2"" L= 0.85 m HD",Un,321836.0,2285
+28.08,28,"Niple pasamuro 3"" L= 0.85 m HD",Un,558874.0,2286
+28.09,28,Soporte TV 14-65 Pulg. reclinable,Un,120302.0,2287
+28.10,28,Protección de mobiliario con plástico,m3,10053.0,2288

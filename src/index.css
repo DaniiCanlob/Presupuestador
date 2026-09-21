@@ -1,0 +1,301 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+/* ---------------------------------------------------------------------------
+   Tokens expuestos como utilidades de Tailwind.
+   El valor vive en :root / .dark, asi que cambiar de tema no recompila nada.
+--------------------------------------------------------------------------- */
+@theme inline {
+  --font-sans: 'Inter', 'Inter Fallback', system-ui, sans-serif;
+  --font-heading: 'Hanken Grotesk', 'Hanken Grotesk Fallback', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Ambar legible sobre el fondo: enlaces, iconos y datos destacados. */
+  --color-marca: var(--marca);
+  --color-exito: var(--exito);
+  --color-alerta: var(--alerta);
+
+  /* Series de la curva S, validadas para daltonismo en los dos modos. */
+  --color-serie-a: var(--serie-a);
+  --color-serie-b: var(--serie-b);
+
+  /* Insumos por tipo: fondo suave + texto legible. */
+  --color-material: var(--material);
+  --color-material-suave: var(--material-suave);
+  --color-equipo: var(--equipo);
+  --color-equipo-suave: var(--equipo-suave);
+  --color-transporte: var(--transporte);
+  --color-transporte-suave: var(--transporte-suave);
+  --color-mano: var(--mano);
+  --color-mano-suave: var(--mano-suave);
+  --color-otro: var(--otro);
+  --color-otro-suave: var(--otro-suave);
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+}
+
+/* ---------------------------------------------------------------------------
+   Tema claro: arena cálida con acento ámbar.
+--------------------------------------------------------------------------- */
+:root {
+  color-scheme: light;
+
+  --background: oklch(0.958 0.022 85);
+  --foreground: oklch(0.22 0.02 60);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.22 0.02 60);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.22 0.02 60);
+  --primary: oklch(0.77 0.16 70);
+  --primary-foreground: oklch(0.25 0.045 62);
+  --secondary: oklch(0.968 0.018 85);
+  --secondary-foreground: oklch(0.32 0.03 65);
+  --muted: oklch(0.974 0.012 85);
+  --muted-foreground: oklch(0.54 0.02 70);
+  --accent: oklch(0.95 0.05 85);
+  --accent-foreground: oklch(0.45 0.11 62);
+  --destructive: oklch(0.55 0.2 27);
+  --destructive-foreground: oklch(0.99 0.01 85);
+  --border: oklch(0.9 0.018 85);
+  --input: oklch(0.9 0.018 85);
+  --ring: oklch(0.77 0.16 70);
+
+  --marca: oklch(0.52 0.13 62);
+  --exito: oklch(0.52 0.12 155);
+  --alerta: oklch(0.55 0.13 75);
+
+  --serie-a: #1f6cb0;
+  --serie-b: #c76b00;
+
+  --material: oklch(0.5 0.12 62);
+  --material-suave: oklch(0.95 0.04 78);
+  --equipo: oklch(0.48 0.1 250);
+  --equipo-suave: oklch(0.95 0.025 250);
+  --transporte: oklch(0.48 0.11 310);
+  --transporte-suave: oklch(0.95 0.025 310);
+  --mano: oklch(0.47 0.1 160);
+  --mano-suave: oklch(0.95 0.03 160);
+  --otro: oklch(0.5 0.02 70);
+  --otro-suave: oklch(0.95 0.012 85);
+
+  --radius: 0.75rem;
+
+  /* Superficies de vidrio y luz ambiente del fondo. */
+  --vidrio: oklch(1 0 0 / 0.72);
+  --vidrio-borde: oklch(1 0 0 / 0.65);
+  --sombra-panel: 0 1px 2px oklch(0.22 0.02 60 / 0.04), 0 8px 24px -12px oklch(0.22 0.02 60 / 0.16);
+  --aura-1: oklch(0.88 0.08 75 / 0.55);
+  --aura-2: oklch(0.9 0.05 140 / 0.35);
+}
+
+/* ---------------------------------------------------------------------------
+   Tema oscuro: mismo origen cálido, no un gris neutro.
+--------------------------------------------------------------------------- */
+.dark {
+  color-scheme: dark;
+
+  --background: oklch(0.18 0.012 62);
+  --foreground: oklch(0.94 0.012 80);
+  --card: oklch(0.23 0.014 62);
+  --card-foreground: oklch(0.94 0.012 80);
+  --popover: oklch(0.24 0.014 62);
+  --popover-foreground: oklch(0.94 0.012 80);
+  --primary: oklch(0.78 0.15 70);
+  --primary-foreground: oklch(0.22 0.04 62);
+  --secondary: oklch(0.27 0.016 62);
+  --secondary-foreground: oklch(0.93 0.012 80);
+  --muted: oklch(0.26 0.014 62);
+  --muted-foreground: oklch(0.72 0.016 75);
+  --accent: oklch(0.31 0.035 68);
+  --accent-foreground: oklch(0.88 0.1 78);
+  --destructive: oklch(0.65 0.18 25);
+  --destructive-foreground: oklch(0.16 0.02 60);
+  --border: oklch(0.99 0.01 85 / 0.12);
+  --input: oklch(0.99 0.01 85 / 0.16);
+  --ring: oklch(0.78 0.15 70);
+
+  --marca: oklch(0.82 0.13 72);
+  --exito: oklch(0.75 0.13 158);
+  --alerta: oklch(0.8 0.12 78);
+
+  --serie-a: #4a94db;
+  --serie-b: #ce7c22;
+
+  --material: oklch(0.82 0.11 72);
+  --material-suave: oklch(0.32 0.04 70);
+  --equipo: oklch(0.78 0.1 250);
+  --equipo-suave: oklch(0.31 0.035 250);
+  --transporte: oklch(0.79 0.1 310);
+  --transporte-suave: oklch(0.31 0.035 310);
+  --mano: oklch(0.79 0.1 160);
+  --mano-suave: oklch(0.3 0.035 160);
+  --otro: oklch(0.78 0.015 75);
+  --otro-suave: oklch(0.29 0.012 70);
+
+  --vidrio: oklch(0.26 0.016 62 / 0.68);
+  --vidrio-borde: oklch(0.99 0.01 85 / 0.1);
+  --sombra-panel: 0 1px 2px oklch(0 0 0 / 0.3), 0 10px 28px -14px oklch(0 0 0 / 0.6);
+  --aura-1: oklch(0.55 0.11 70 / 0.22);
+  --aura-2: oklch(0.5 0.07 200 / 0.16);
+}
+
+/* ---------------------------------------------------------------------------
+   Base
+--------------------------------------------------------------------------- */
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    min-height: 100dvh;
+  }
+
+  /* Luz ambiente: dos manchas suaves detrás de todo, sin coste de repintado. */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background:
+      radial-gradient(60rem 40rem at 12% -10%, var(--aura-1), transparent 60%),
+      radial-gradient(45rem 35rem at 100% 0%, var(--aura-2), transparent 55%);
+  }
+
+  h1,
+  h2,
+  h3 {
+    @apply font-heading tracking-tight;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-ring;
+  }
+
+  ::selection {
+    background: var(--accent);
+    color: var(--accent-foreground);
+  }
+
+  /* Barras de desplazamiento discretas, que es donde se nota el desorden. */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: color-mix(in oklch, var(--muted-foreground) 35%, transparent) transparent;
+  }
+
+  input[type='number']::-webkit-outer-spin-button,
+  input[type='number']::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  input[type='number'] {
+    -moz-appearance: textfield;
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+    font-family: var(--font-mono);
+    letter-spacing: -0.01em;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Piezas reutilizables
+--------------------------------------------------------------------------- */
+@layer components {
+  /* Vidrio: para barras y paneles flotantes, no para tablas densas. */
+  .vidrio {
+    background: var(--vidrio);
+    backdrop-filter: blur(18px) saturate(140%);
+    -webkit-backdrop-filter: blur(18px) saturate(140%);
+    border: 1px solid var(--vidrio-borde);
+    box-shadow: var(--sombra-panel);
+  }
+
+  .vidrio-barra {
+    background: color-mix(in oklch, var(--background) 72%, transparent);
+    backdrop-filter: blur(16px) saturate(150%);
+    -webkit-backdrop-filter: blur(16px) saturate(150%);
+  }
+
+  /* Panel sólido: la superficie donde se leen números. */
+  .panel {
+    @apply rounded-xl border bg-card;
+    box-shadow: var(--sombra-panel);
+  }
+
+  .celda-editable {
+    @apply w-full rounded-md border border-transparent bg-transparent px-2 py-1 text-sm;
+    @apply transition-colors hover:border-border focus:border-ring focus:bg-card;
+    @apply focus:outline-none focus:ring-2 focus:ring-ring/25;
+  }
+
+  /* Sin sombras duras: la jerarquía la da el contraste, no el borde. */
+  .separador {
+    @apply border-t border-border/70;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@media print {
+  .no-imprimir {
+    display: none !important;
+  }
+
+  body {
+    background: white;
+  }
+
+  body::before {
+    display: none;
+  }
+
+  .vidrio,
+  .panel {
+    backdrop-filter: none;
+    box-shadow: none;
+    border-color: #ddd;
+  }
+}
