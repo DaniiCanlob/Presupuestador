@@ -3,18 +3,13 @@
   "buildCommand": "pnpm build",
   "outputDirectory": "dist",
   "framework": "vite",
-
-  "//": "La app enruta en el navegador: cualquier URL debe servir index.html. Sin esto, entrar directo a /proyectos da el 404 de Vercel porque no existe ese archivo.",
   "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }],
-
   "headers": [
     {
-      "//": "Los assets llevan hash en el nombre: se pueden cachear para siempre.",
       "source": "/assets/(.*)",
       "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
     },
     {
-      "//": "El HTML no: si se cachea, el usuario queda pegado a una versión vieja.",
       "source": "/index.html",
       "headers": [{ "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }]
     },
